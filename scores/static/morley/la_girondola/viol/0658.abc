@@ -1,0 +1,56 @@
+%abc-2.1
+%
+% Original edition transcribed and edited by Albert Folop: 
+% http://imslp.org/wiki/Category:Folop_Viol_Music_Collection
+% That edition released under Creative Commons Attribution-NonCommercial-ShareAlike 3.0 licence
+% (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+% This edition converted to abc by Steve West and also released under 
+% Creative Commons Attribution-NonCommercial-ShareAlike 3.0 licence
+% (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+%%measurenb 0
+%%squarebreve
+%%stretchlast 1
+
+X:1
+T:Canzonet
+T:La Girondola?
+C:Thomas Morley
+L:1/4
+%%score [ 1 2 ]
+%%linebreak
+M:4/4
+K:F
+%
+V:1 clef=treble
+%%MIDI program 40
+D2 G2-  | G2 ^F2  | G A B G  | A4  | D2 d2-  | %Bar 5
+d2 ^c2  | d2 c B  | A G A2  | G2 g2-  | g2 f2  | %Bar 10
+e2 d2  | ^c d2 c  | d B A2  | G g2 ^f  | g1/2f1/2e1/2d1/2 e2  | %Bar 15
+d4  | c2 f2-  | f2 e2  | d G1/2A1/2 B1/2c1/2 d  | c B A2  | %Bar 20
+G d G A  | B1/2A1/2G1/2A1/2 B G  | D f d e  | f1/2e1/2d1/2c1/2 B1/2A1/2 G  | D B G A  | %Bar 25
+B1/2A1/2G1/2F1/2 _E1/2D1/2 C  | G3/2 A1/2 B G  | d3/2 e1/2 f1/2e1/2d1/2c1/2  | B1/2A1/2G1/2F1/2 G1/2A1/2B1/2G1/2  | A B2 A  | %Bar 30
+B2 z f  | d3/2 e1/2 f2  | z d g f  | e d e2  | d G B3/2 G1/2  | %Bar 35
+A B c A  | G c2 B  | A d2 ^c  | d D F3/2 D1/2  | E F G E  | %Bar 40
+D G2 ^F  | G2 z d  | f3/2 d1/2 e f  | g e d G  | c3/2 A1/2 B c  | %Bar 45
+d B A2  | z G1/2A1/2 B1/2c1/2d1/2_e1/2  | d1/2g1/2f1/2e1/2 d1/2g1/2f1/2e1/2  | d1/2e1/2f1/2e1/2 d1/2c1/2B1/2A1/2  | G g2 f  | %Bar 50
+e d e2  | d2 A1/2B1/2c1/2A1/2  | B1/2c1/2d1/2G1/2 c B  | A G A2  | =B4-  | %Bar 55
+=B4  |]
+%
+V:2 clef=treble
+%%MIDI program 40
+ Z2  | G2 d2-  | d2 ^c2  | d e f d  | %Bar 5
+e4  | d2 g2-  | g2 ^f2  | g2 G A  | B G A B  | %Bar 10
+c G3/2 A1/2 B  | A F G A  | D G2 ^F  | G1/2A1/2 B A2  | G d2 ^c  | %Bar 15
+d D F G  | A1/2G1/2F1/2E1/2 D d  | A B c G1/2A1/2  | B3/2 A1/2 G1/2A1/2 B  | A G2 ^F  | %Bar 20
+G4  | z g d e  | f1/2e1/2d1/2c1/2 B1/2A1/2 G  | D f d e  | f1/2e1/2d1/2c1/2 B c  | %Bar 25
+d2 _e2  | d g d e  | f1/2e1/2d1/2c1/2 d1/2c1/2B1/2A1/2  | G _e2 d  | c B c2  | %Bar 30
+B f d3/2 e1/2  | f2 z d  | g f e d  | ^c d2 c  | d2 z d  | %Bar 35
+f3/2 d1/2 e f  | g e d g-  | g1/2f1/2 f1/2e1/4d1/4 e2  | d2 z A  | c3/2 A1/2 B c  | %Bar 40
+d B A2  | z G B3/2 G1/2  | A B c A  | G c2 B  | A ^F G A  | %Bar 45
+D G2 ^F  | G2 G1/2A1/2B1/2c1/2  | d1/2_e1/2d1/2g1/2 f1/2=e1/2d1/2g1/2  | f1/2e1/2d1/2e1/2 f1/2e1/2d1/2c1/2  | B1/2A1/2G1/2A1/2 B1/2c1/2 d  | %Bar 50
+^c d2 c  | d D1/2E1/2 F1/2D1/2E1/2F1/2  | G1/2A1/2 B A G  | ^F G2 F  | G4-  | %Bar 55
+G4  |]
+%
+%
+%#Folop:0658

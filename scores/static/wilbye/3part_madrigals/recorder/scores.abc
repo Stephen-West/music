@@ -1,0 +1,697 @@
+%%measurenb 0
+%%titletrim false
+X:1
+T:1. Ah! cruel Amarillis 
+C:John Wilbye
+%#Voices: 3
+%#Instrument: Recorders
+%#Voicing: TrTrB
+%#Notes: Book of scores and partbooks
+%%transpose 5
+%%score [1 2 3]
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Treble I"
+%%MIDI program 73
+V:2 treble nm="Treble II"
+%%MIDI program 73
+V:3 bass nm="Bass" octave=-1
+%%MIDI program 73
+V:1
+ z2 _B2- | B2 A2 | G2 z ^F/F/ | G2 D2 | z2 c2- | c2 B2 |$ A2 z ^G/G/ | A2 E2 | e3/2 e/ d c | B3 B | %10
+w: Ah!|_ cru-|el A- ma-|ril- lis,|Ah!|_ cru-|el A- ma-|ril- lis,|since thou tak'st de-|light To|
+ B B c>B |$ A A B3/2 A/ | ^G E z e | d B c3/2 B/ | A A B3/2 A/ |$ ^G/^F/ G A2- | A D2 E | %17
+w: hear the acc- ents|of a dole- ful|dit- ty, to|hear the acc- ents|of a dole- ful|dit- -- ty,|_ of a|
+ ^C D D C | D2 z E |$ ^F F z E | ^F F z A | B B z A | B B2 B/c/ |$ d d d d | c e d B | c A c2- | %26
+w: dole- ful dit- -|ty, To|tri- umph, to|tri- umph, to|tri- umph, to|tri- umph, to_|tri- umph still with-|out re- morse or|pi- ty; I|
+ c2 B A | ^G2 A2 |$ B4- | B A A2- | A2 ^G2 | A2 z2 | e4- | e2 d c |$ B2 e2 | d2 c2 | e2 d2 | %37
+w: _ loathe this|life, death|must|_ my sor-|- rows|right,|I|_ loathe this|life, death|must my|sor- rows|
+ c G G G | c2 z A |$ A A d2 | z G B d | d3 ^c |$ d/A/A/B/ c2 | z/ G/G/A/ B2- |$ B B A G | ^F4 | %46
+w: right; And lest vain|hope, and|lest vain hope|my mi- se-|ries re-|new, Come quick- ly, death,|come quick- ly, death,|_ 'Reave me of|breath.|
+ z2 d2 | d4 | d2 z A/A/ | B2 G2 | z2 e2 |$ e4 | e2 z B/B/ | ^c2 A2 | G2 c2- | c2 B2 | z2 z d/d/ | %57
+w: Ah!|cru-|el A- ma-|ril- lis,|Ah!|cru-|el A- ma-|ril- lis,|Ah! cru-|- el|A- ma-|
+ e2 c2 |$ B4 | c3 ^c/c/ | d d2 ^F/F/ | G G2 d | e3 e/e/ |$ ^f2 d2- | d2 c2- | c2 B A/G/ | B2 z A | %67
+w: ril- lis,|cru-|el A- ma-|ril- lis, A- ma-|ril- lis, cru-|el A- ma-|ril- lis,|_ cru-|- el, a- -|dieu, a-|
+ G4- | G4 |] %69
+w: dieu.|_|
+V:2
+ z2 d2 | d4 | d2 z A/A/ | B2 G2 | z2 e2 | e4 |$ e2 z B/B/ | ^c2 A2 | G3/2 G/ B A | ^G4 | z2 z e |$ %11
+w: Ah!|cru-|el A- ma-|ril- lis,|Ah!|cru-|el A- ma-|ril- lis,|since thou tak'st de-|light|To|
+ c c d3/2 c/ | B/A/ B A A- | A ^G A2 | z e e c |$ B B ^c c | d3/2 c/ B/A/G/^F/ | E F E2 | %18
+w: hear the acc- ents|of_ a dole- ful|_ dit- ty,|to hear the|acc- ents of a|dole- --- ful _|dit- --|
+ ^F F/G/ A A |$ z ^F/G/ A A | z A d d | z B/c/ d d | z B/c/ d d |$ B3 A | A A A ^G | A A e2- | %26
+w: ty, To_ tri- umph,|to_ tri- umph,|to tri- umph,|to_ tri- umph,|to_  tri- umph|still with-|out re- morse or|pi- ty; I|
+ e2 d c | B2 c2 |$ d4- | d2 c2 | B2 B2 | A2 c2- | c2 B A | ^G4- |$ G2 c2 | B A/B/ c2- | c B/A/ B2 | %37
+w:_ loathe this|life, death|must|_ my|sor- rows|right, I|_ loathe this|life,|_ death|must my _ sor-|--- rows|
+ c3 G | G G A2 |$ z A A A | B3 B | A A G G |$ ^F/D/F/G/ A2 | z/ E/E/^F/ G2- |$ G G ^F G | A4 | %46
+w: right; And|lest vain hope,|and lest vain|hope my|mi- se- ries re-|new, Come quick- ly, death,|come quick- ly, death,|_ 'Reave me of|breath.|
+ z2 _B2- | B2 A2 | G2 z ^F/F/ | G2 D2 | z2 c2- |$ c2 B2 | A2 z ^G/G/ | A2 E2 | z2 e2- | e2 d2 | %56
+w: Ah!|_ cru-|el A- ma-|ril- lis,|Ah!|_ cru-|el A- ma-|ril- lis,|Ah!|_ cru-|
+ c2 z B/B/ | c2 G A- |$ A ^G z G/G/ | A2 E2 | z2 A2 | B3 B/B/ | c c2 ^c/c/ |$ d d2 ^F/F/ | G3 A | %65
+w: el A- ma-|ril- lis, cru|- el A- ma-|ril- lis,|cru-|el A- ma-|ril- lis, A- ma-|ril- lis, A- ma-|ril- lis,|
+ ^F2 G2- | G2 ^F2 | G4- | G4 |] %69
+w: cru- el,|_ a-|dieu.|_|
+V:3
+ G,4 | D3 C | B, C D2 | G,4 | A,4 | E3 D |$ ^C D E2 | A,4 | C3/2 C/ G, A, | E,4 | z E E E |$ %11
+w: Ah!|cru- el|A- ma- ril-|lis,|Ah!|cru- el|A- ma- ril-|lis,|since thou tak'st de-|light|To hear the|
+ F3/2 E/ D D | E3/2 D/ C/B,/ C | B,2 A,2- | A, A, ^G, A, |$ E3/2 D/ ^C/B,/A,/G,/ | ^F,2 G,2 | A,4 | %18
+w: acc- ents of a|dole- --- ful|dit- ty,|_ to hear the|acc- ents of _ a _|dole- ful|dit-|
+ D3 ^C |$ D D z A, | D D z D | G G z ^F | G G2 G, |$ G,3/2 A,/ B,/C/ D | A, C B, B, | A,2 A,2 | %26
+w: ty, To|tri- umph, to|tri- umph, to|tri- umph, to|tri- umph still|with- ----|out re- morse or|pi- ty;|
+ E4- | E2 D C |$ B,2 B,2 | C3 D | E2 E2 | A,2 A2- | A2 G F | E4- |$ E2 C2 | G2 E3/2 F/ | G2 G2 | %37
+w: I|_ loathe this|life, death|must my|sor- rows|right, I|_ loathe this|life,|_ death|must my _|sor- rows|
+ C3 C | C C F2- |$ F D D D | G3 G, | D F E E |$ D2 z/ A,/A,/B,/ | C2 z/ G,/G,/A,/ |$ B, G, D E | %45
+w: right; And|lest vain hope,|_ and lest vain|hope my|mi- se- ries re-|new, Come quick- ly,|death, come quick- ly,|death, 'Reave me of|
+ D4 | G4 | D3 C | B, C D2 | G,4 | A,4 |$ E3 D | ^C D E2 | A,4 | C4 | G3 F | E F G2 | C4 |$ E4 | %59
+w: breath.|Ah!|cru- el|A- ma- ril-|lis,|Ah!|cru- el|A- ma- ril-|lis,|Ah!|cru- el|A- ma- ril-|lis,|cru-|
+ A,3 A,/A,/ | D2 D2 | G,4 | C2 A, A, |$ D4 | B,2 C2 | D4 | D4 | G,4- | G,4 |] %69
+w: el A- ma-|ril- lis,|cru-|el A- ma-|ril-|lis, a-|dieu,|a-|dieu.|_|
+
+X:2
+T:Ah me! Can Every Rumour
+C:John Wilbye
+%#Noindex
+%%transpose 2
+%%measurenb 0
+%%score [1 2 3]
+L:1/4
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble nm="Treble I"
+%%MIDI program 73
+V:2 treble nm="Treble II"
+%%MIDI program 73
+V:3 bass+8 nm="Bass" octave=-1
+%%MIDI program 73
+V:1
+ B4 | A4 | z d2 c- | c B A2 | G3 B |$ B3/2 A/ B G | ^F G2 F | B4 | A4 | z ^F G A | ^F G2 F |$ %11
+w: Ah|me!|can ev'-|- ry ru-|mour thus|start my la- dy's|hu- -mour?|Ah|me!|can ev'- ry|ru- --|
+ G3 G | ^F2 z B | A2 z d | B3/2 A/ B d | ^c d2 c | d4 |$ B4 | c B A G | ^F F z2 | B B/c/ d3/2 e/ |$ %21
+w: mour thus|start, thus|start, thus|start my la- dy's|hu- --|mour?|Name|ye some gal- lant|to her,|name ye some gal- lant|
+ f2 B2- | B B e3/2 d/ | c B2 A | B2 d2- | d2 c2 |$ B2 A2- | A G G2- | G2 ^F2 | G2 g2- | g2 f2- | %31
+w: to her,|_ Why straight for-|sooth I woo|her, Then|_ burst|she forth|_ in pas-|--|sion, then|_ burst|
+ f2 e2 | d3/2 c/ c2- |$ c2 =B2 | c2 G2 | A3 c | =B c d2 | e2 z d |$ e3 g | ^f g g f | g4 | %41
+w: _ she|forth in pas-|--|sion, "You|men  love|but for fash-|ion, you|men love|but for fash- -|ion;"|
+ z2 z g |$ g2 d f- | f c e2 | d G3/2 G/ ^F | G G d2- | d2 G2 |$ z g3/2 f/ e | d d c2 | %49
+w: Yet|sure I am|_ that no|man e- ver so|lov- ed wo-|- man;|Yet a- las,|love be wa-|
+ =B g3/2 f/ e | d c =B2 | c4 |$ =E2 ^F G | A B A2 | =B2 d d- | d A c2 | G B2 A- |$ A E G2 | %58
+w: ry, yet a- las,|love be wa-|ry,|For wo- men|be con- tra-|ry. Yet sure|_ I am,|that no man|_ yet sure|
+ D d2 A | B2 A2 | z d3/2 d/ c |$ d d c2 | =B g3/2 f/ e | d d c2 | =B c d2 | c2 z G- |$ G c2 B | %67
+w: I am that|no man|e- ver so|lov- ed wo-|man; Yet a- las,|love be wa-|ry, be wa-|ry, For|_ wo- men|
+ A G2 ^F | G4- | G4 |] %70
+w: be con- tra-|ry.|_|
+V:2
+ z2 G2- | G2 ^F2 | z ^F G A | ^F G2 F | G2 z2 |$ z d d3/2 c/ | d B A2 | G2 g2- | g2 ^f2 | z d2 c- | %10
+w: Ah|_ me!|can ev'- ry|ru- --|mour|Thus start my|la- dy's hu-|mour? Ah|_ me!|can ev'-|
+ c B A2 |$ =B4- | B2 z2 | z c f2 | z d2 g- | g f =e2 | ^f4 |$ d4 | e d c B | A2 A2 | z2 B B/c/ |$ %21
+w: - ry ru-|mour|_|thus start|my la-|- dy's hu-|mour?|Name|ye some gal- lant|to her,|name ye some|
+ d3/2 e/ f F | G2 G B | A B c2 | d2 f2- | f2 e2 |$ d2 c2- | c2 B2 | A4 | =B4 | e2 d2- | d2 c2 | %32
+w: gal- lant to her,|Why straight for|sooth I woo|her, Then|_ burst|she forth|_ in|pas-|sion,|then burst|_ she|
+ =B2 c2 |$ d4 | e4 | c2 f3/2 e/ | d c c =B | c2 G2- |$ G2 c3/2 B/ | A G A2 | =B2 d d- | d A c2 |$ %42
+w: forth in|pas-|sion,|"You men love|but for fash- -|ion, you|_ men love|but for fash-|ion;" Yet sure|_ I am|
+ G B2 A- | A E G2 | D d2 A | B2 A2 | z d3/2 d/ c |$ d d c2 | =B g3/2 f/ e | d d c2 | =B c d2 | %51
+w: that no man|_ yet sure|I am that|no man|e- ver so|lov- ed wo-|man; Yet a- las,|love be wa-|ry, be wa-|
+ c2 z G- |$ G c2 B | A G G ^F | G2 z2 | z2 z g | g2 d f- |$ f c e2 | d G3/2 G/ ^F | G G d2- | %60
+w: ry, For|_ wo- men|be con- tra- -|ry.|Yet|sure I am|_ that no|man e- ver so|lov- ed wo-|
+ d2 G2 |$ z g3/2 f/ e | d d c2 | =B g3/2 f/ e | d c =B2 | c4 |$ =E2 ^F G | A B A2 | =B4- | B4 |] %70
+w:- man;|Yet a- las,|love be wa-|ry, yet, a- las,|love be wa-|ry,|For wo- men|be con- tra-|ry.|_|
+V:3
+ G,4 | D4 | z D =B, C | D4 | G,3 G |$ G3/2 ^F/ G E | D2 D2 | G,4 | D4 | z D =B, C | D4 |$ G,3 G, | %12
+w: Ah|me!|can ev'- ry|ru-|mour Thus|start my la- dy's|hu- mour?|Ah|me!|can ev'- ry|ru-|mour thus|
+ D2 z B, | F2 z D | G2 G2 | A4 | D4 |$ G4 | C2 C2 | D3 C | B,4 |$ B,3 B, | E3/2 D/ C B, | F4 | %24
+w: start, thus|start my|la- dy's|hu-|mour?|Name|ye some|gal- lant|to|her, Why|straight for sooth I|woo|
+ B,4 | D4- |$ D4 | D4- | D2 D2 | G,4- | G,4 | G,4 | G,4- |$ G,4 | C3 C | F3/2 E/ D C | G4 | %37
+w: her,|Then||burst|_ she|forth|_|in|pas-|-|sion, "You|men love but for|fash-|
+ C3 =B, |$ C3/2 B,/ A, G, | D4 | G, G G2 | D F2 C |$ E2 D2 | A, C2 G, | B, B, A,2 | G, G3/2 G/ ^F | %46
+w: ion, you|men love but for|fash-|ion;" Yet sure|I am that|no man,|yet sure I|am that no|man e- ver so|
+ G D E2 |$ D =B,/B,/ C2 | G, G, C2 | G2 C2 | G,4 | C3 C |$ C3/2 B,/ A, G, | D4 | G, G G2 | D F2 C | %56
+w: lov- ed wo-|man; Yet a- las,|love be wa-|ry, be|wa-|ry, For|wo- men be con-|tra-|ry. Yet sure|I am, that|
+ E2 D2 |$ A, C2 G, | B, B, A,2 | G, G3/2 G/ ^F | G D E2 |$ D =B,/B,/ C2 | G, G, C2 | G2 C2 | G,4 | %65
+w: no man,|yet sure I|am that no|man e- ver so|lov- ed wo-|man; Yet a- las,|love be wa-|ry, be|wa-|
+ C3 C |$ C3/2 B,/ A, G, | D4 | G,4- | G,4 |] %70
+w: ry, For|wo- men be con-|tra-|ry.|_|
+
+X:3
+T:3. Away, Thou Shalt Not Love Me
+C:John Wilbye
+%#Noindex
+%%score [1 2 3]
+%%transpose 5
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Treble I"
+%%MIDI program 73
+V:2 treble nm="Treble II"
+%%MIDI program 73
+V:3 bass nm="Bass" octave=-1
+%%MIDI program 73
+V:1
+ d2 d/c/B/A/ | G2 z g |$ g/f/e/d/ c B | e e e2 | d d d/c/B/A/ |$ G2 z g | g/f/e/d/ c3/2 B/ | %7
+w: A- way, a- way, a-|way; a-|way, a- way, a- way, thou|shalt not love|me, a- way, a- way, a-|way, a-|way, a- way, a- way, thou|
+ A G G2- |$ G ^F/E/ F2 | G d3/2 d/ c | B B A2 | G G A3/2 B/ |$ c2 G2 | G4 | G4 | z d3/2 d/ c |$ %16
+w: shalt not love|____|me._ shall my|love seem great-|er, so shall my|love seem|great-|er,|so shall my|
+ B B A2 | G G A3/2 B/ | c G G2 | G2 z2 |$ z d3/2 d/ ^c | d f e2 | d d3/2 d/ B | ^c d2 c | %24
+w: love seem great-|er, so shall my|love seem great-|er,|and I shall|love the bet-|ter, and I shall|love the bet-|
+ d d3/2 c/ B |$ A2 z G- | G/G/ ^F G B | A2 B B | c2 B2 |$ z G G ^F | G d c3/2 B/ | A B A2 | %32
+w: ter._ It be|so? shall|_ it be so, what|say you? what|say you?|Why speak you|not, why speak you|not, I pray|
+ B2 z2 |$ g g2 ^f | g e d2 | B c d2 | e2 d d- |$ d ^c d B | A2 B G | A2 G g | f2 e2 |$ d B A2 | %42
+w: you?|Nay then I|know you love|me, you love|me, nay then|_ I know you|love me, you|love me, That|so you|may dis- prove|
+ B2 d d- | d ^c d2- | d c A2 |$ G2 z2 | A A2 ^G | A2 A/G/ G- | G ^F G B |$ c d e c | %50
+w: me, nay then|_ I know|_ you love|me,|nay then I|know you_ love|__ me, that|so you may dis-|
+ A B/B/ c3/2 B/ | A G2 ^F | G4- | G4 |] %54
+w: prove me, that so you|may dis- prove|me.|_|
+V:2
+ z z2 d | d/c/B/A/ G2 |$ z g g/f/e/d/ | c3/2 B/ A G | ^F2 D d |$ d/c/B/A/ G2 | z g g/f/e/d/ | %7
+w: A-|way, a- way, a- way;|a- way, a- way, a-|way, thou shalt not|love me, a-|way, a- way, a- way,|a- way, a- way, a-|
+ c3/2 c/ B c |$ d4 | B2 z2 | z4 | z g3/2 g/ f |$ e e d2 | c c3/2 c/ B | c e3/2 d/ c | %15
+w: way, thou shalt not|love|me.||So shall my|love seem great-|er, _ I shall|love,_ I shall|
+ B A ^F/G/A/F/ |$ G2 z2 | z g3/2 g/ f | e e d2 | c c3/2 c/ B |$ A A G2 | ^F A3/2 A/ E | %22
+w: love the bet- ---|ter,|So shall my|love seem great-|er, and I shall|love the bet-|ter, and I shall|
+ ^F F G3/2 =F/ | E F E2 | ^F2 z2 |$ z d3/2 c/ B | A2 z G- | G/G/ ^F G d | e2 d d |$ d ^c d2- | %30
+w: love, and I shall|love the bet-|ter.|Shall it be|so? Shall|_ it be so, what|say you? Why|speak you not,|
+ d G G A | ^F G G F | z2 d d- |$ d ^c d2- | d c/B/ A2 | G2 z2 | A A2 ^G |$ A2 A/G/ G- | G ^F G B | %39
+w: _ why speak you|not, I pray you?|Nay then|_ I know|_ you_ love|me,|nay then I|know you_ love|__ me, That|
+ c d e c | A B/B/ c>B |$ A G2 ^F | G2 z2 | g g2 ^f | g e d2 |$ B c d2 | e2 d d- | d ^c d B | %48
+w: so you may dis-|prove me, that so  you|may dis- prove|me.|Nay then I|know you love|me, you love|me, nay then|_ I know you|
+ A2 B G |$ A2 G g | f2 e2 | d B A2 | B4- | B4 |] %54
+w: love me, you|love me, that|so you|may dis- prove|me.|_|
+V:3
+ z4 | z G G/F/E/D/ |$ C3 G, | C2 C2 | D2 D2 |$ z G G/F/E/D/ | C3 G, | C2 E2 |$ D4 | G,2 z2 | %10
+w: |A- way, a- way, a-|way, thou|shalt not|love me,|a- way, a- way, a-|way, thou|shalt not|love|me.|
+ z G3/2 G/ F | E E D2 |$ C C3/2 C/ B, | C2 G2 | C4 | D4 |$ z G3/2 G/ F | E E D2 | C C3/2 C/ B, | %19
+w: So shall my|love seem great-|er, And I shall|love the|bet-|er,|so shall my|love seem great-|er, and I shall|
+ C C G2 |$ F D E E | D D3/2 D/ ^C | D2 G,2 | A,4 | D2 z G |$ D D G, G, | D2 G, G | D D G, G, | %28
+w: love the bet-|ter, and I shall|love, and I shall|love the|bet-|ter. Shall|it be so? what|say you? shall|it be so? what|
+ C2 G, G |$ E2 D2 | B,2 C2 | D2 D2 | G G2 ^F |$ G E D2 | B, C D2 | E2 D D- | D ^C D B, |$ %37
+w: say you? Why|speak you|not, I|pray you?|Nay then I|know you love|me, you love|me, nay then|_ I know you|
+ A,2 B, G, | D2 G, G | F2 E2 | D2 C2 |$ D4 | G, G G ^F | G E D2 | B, C D2 |$ E2 D D- | D ^C D B, | %47
+w: love me, you|love me, That|so you|may dis-|prove|me, nay then I|know you love|me, you love|me, nay then|_ I know you|
+ A,2 B, G, | D2 G, G |$ F2 E2 | D2 C2 | D4 | G,4- | G,4 |] %54
+w: love me, you|love me, that|so you|may dis-|prove|me.|_|
+
+X:4
+T:4. Dear Pity
+C:John Wilbye
+%%score 1 2 3
+%#Noindex
+%%transpose 7
+L:1/4
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Treble I"
+%%MIDI program 73
+V:2 treble nm="Treble II"
+%%MIDI program 73
+V:3 bass nm="Bass" octave=-1
+%%MIDI program 73
+V:1
+ c2 c d | c2 z c | c2 z A | c3 B |$ c A G2 | A2 A2 | A G A2 | z G A2- |$ A G A F | E F2 E | %10
+w: Dear pi- ty,|how, Ah!|how, Ah!|how, wouldst|thou be- come|her! Dear|pi- ty, how,|Ah! how,|_ wouldst thou be-|-- come|
+ F2 c2 | d2 B2 |$ c c c3/2 d/ | e f d2 | c2 z2 | _e3 d/c/ | B2 d2- |$ d c/B/ A2 | A2 z G/F/ | %19
+w: her! That|best be-|com- eth beau- ty's|best at- tir-|ing;|Shall my de-|sert, shall|_ my de- sert,|shall my de-|
+ G g2 f/e/ |$ d c d2 | e f3/2 f/ e | f2 z2 | f f2 e |$ d d c c | =B c c B | c2 z2 | c c2 B |$ %28
+w: sert, shall my de-|sert de- serve|no fa- vour from|her?|But still to|waste my- self in|deep ad- mir- -|ing,|but still to|
+ A F F G | E F2 E | F F F F | c3 c |$ A F2 A/A/ | B2 F2 | z f f c | d3 c |$ d B2 A/A/ | B2 F2 | %38
+w: waste my- self in|deep ad- mir-|ing, Like him that|calls to|e- cho to re-|lieve him,|like him that|calls to|e- cho to re-|lieve him,|
+ z2 z c | c3/2 B/ A3/2 G/ |$ F f f3/2 _e/ | d d c2- | c B B2- | B2 A2 |$ G4 | A4 | z4 | z c c c |$ %48
+w: Still|tells and hears the|tale, still tells and|hears the tale,|_ Oh! tale|_ that|grieves|him.||Like him that|
+ f3 f | d B2 A/A/ | B2 F2 | z f f c |$ d3 c | d B2 A/A/ | G G z f | f3/2 _e/ d3/2 c/ |$ %56
+w: calls to|e- cho to re-|lieve him,|like him that|calls to|e- cho to re-|lieve him, Still|tells and hears the|
+ B F F3/2 _E/ | D D G F | E2 F2- | F2 E2 | F4- |$ F4 |] %62
+w: tale, still tells and|hears the tale, Oh!|tale that|_ grieves|him.|_|
+V:2
+ z2 A2 | A G A2 | z G A2- | A G A F |$ E F2 E | F c c d | c2 z c | c2 z A |$ c3 =B | c A G2 | A4 | %11
+w: Dear|pi- ty, how,|Ah! how,|_ wouldst thou be|__ come|her! Dear pi- ty,|how, Ah!|how, Ah!|how wouldst|thou be- come|her!|
+ z F F F |$ E3/2 F/ G A/B/ | c A G2 | G2 c2- | c B/A/ G2- | G B2 A/G/ |$ F2 f2- | f e/d/ c c- | %19
+w: That best be-|com- eth beau ty's _|best at- tir-|ing; Shall|_ my de- sert,|_ shall my de-|sert, shall|_ my de- sert, shall|
+ c B/A/ G A |$ =B c c B | c A G2 | A3/2 G/ A/B/ c- | c/c/ =B c2 |$ B B2 A | G _E D D | E3/2 F/ G2 | %27
+w: _ my de- sert, shall|my de- sert de-|serve no fa-|vour, de- serve no fa-|- vour from her?|But still to|waste my- self in|deep ad- mir-|
+ F f e d |$ f c d d | c A G2 | A4 | z4 |$ z c c c | f3 f | d B2 A/A/ | B2 F2 |$ z f f c | d3 c | %38
+w: ing, But still to|waste my self in|deep ad- mir-|ing,||Like him that|calls to|e- cho to re-|lieve him,|like him that|calls to|
+ d B2 A/A/ | G G z f |$ f3/2 _e/ d3/2 c/ | B F F3/2 _E/ | D D G F | E2 F2- |$ F2 E2 | F F F F | %46
+w: e- cho to re-|lieve him, Still|tells and hears the|tale, still tells and|hears the tale, Oh!|tale that|_ grieves|him. Like him that|
+ c3 c | A F2 A/A/ |$ B2 F2 | z f f c | d3 c | d B2 A/A/ |$ B2 F2 | z z2 c | c3/2 B/ A3/2 G/ | %55
+w: calls to|e- cho to re-|lieve him,|like him that|calls to|e- cho to re-|lieve him,|Still|tells and hears the|
+ F f f3/2 _e/ |$ d d c2- | c B B2- | B2 A2 | G4 | A4- |$ A4 |] %62
+w: tale, still tells and|hears the tale,|_ Oh! tale|_ that|grieves|him.|_|
+V:3
+ z2 F2 | F E F2 | z C F2- | F E F D |$ C4 | F,2 F2 | F E F2 | z C F2- |$ F E F D | C4 | F,2 F,2 | %11
+w: Dear|pi- ty, how,|Ah! how,|_ wouldst thou be-|come|her! Dear|pi- ty, how,|Ah! how|_ wouldst thou be-|come|her! That|
+ B,2 D2 |$ C3/2 D/ E F | C F, G,2 | C4 | C3 B,/A,/ | G,2 B,2- |$ B, A,/G,/ F,2 | F3 E/D/ | %19
+w: best be-|com- eth beau- ty's|best at- tir-|ing;|Shall my de-|sert, shall|_ my de- sert,|shall my de-|
+ C3/2 D/ E F |$ G A G2 | C4 | F F2 E | D2 C2 |$ D B, F, F, | G,2 G,2 | C C2 B, | A,2 G,2 |$ %28
+w: sert de- serve no|fa- vour from|her?|But still to|waste my-|self in deep ad-|mir ing,|but still to|waste my-|
+ F, A, B, B, | C4 | F,2 z2 | z C C C |$ F3 F | D B,2 A,/A,/ | B,2 F,2 | B, B,2 A, |$ B,2 F2 | %37
+w: self in deep ad-|mir-|ing,|Like him that|calls to|e- cho to re-|lieve him,|like him that|calls to|
+ B, B,2 A,/A,/ | B,2 F,2 | C2 F3/2 _E/ |$ D3/2 C/ B,2- | B,2 A,2 | B,2 B,2 | C4- |$ C4 | F,2 z2 | %46
+w: e- cho to re-|lieve him,|Still tells and|hears the tale,|_ Oh!|tale that|grieves|_|him.|
+ z C C C | F3 F |$ D B,2 A,/A,/ | B,2 F,2 | B, B,2 A, | B,2 F2 |$ B, B,2 A,/A,/ | B,2 F,2 | %54
+w: Like him that|calls to|e- cho to re-|lieve him,|like him that|calls to|e- cho to re-|lieve him,|
+ C2 F3/2 _E/ | D3/2 C/ B,2- |$ B,2 A,2 | B,2 B,2 | C4- | C4 | F,4- |$ F,4 |] %62
+w: Still tells and|hears the tale,|_ Oh!|tale that|grieves|_|him.|_|
+
+
+X:5
+T:5. Fly, Love, Aloft
+C:John Wilbye
+%#Noindex
+%%transpose 7
+%%measurenb 0
+%%score [1 2 3]
+L:1/4
+M:4/4
+I:linebreak $
+K:F
+V:1 clef=treble+8 nm="Soprano"
+%%MIDI program 73
+V:2 treble nm="Alto" 
+%%MIDI program 73
+V:3 bass nm="Bass" octave=-1
+%%MIDI program 73
+V:1
+ F/E/F/G/ A F | c4 | z c c A |$ G F F E | F2 z2 | c/=B/c/d/ e c | c c f2 |$ e/d/e/f/ g f | %8
+w: Fly, ___ love, a-|loft|to heav'n, and|look out for- -|tune,|fly, ___ love, a-|loft to heav'n,|fly,___ love, a-|
+ d3/2 e/ f f | e f d2 | c2 c2 |$ c c c c | d3/2 c/ B A | G2 G c | d e d d | e2 f d- |$ d c c2 | %17
+w: loft to heav'n, and|look out for-|tune: Then|sweet- ly, sweet- ly,|sweet- ly her im-|por- tune, That|I from my Ca-|lis- to, best|_ be lov-|
+ A2 z2 | z f f f | d3/2 c/ B _e |$ d c c =B | c4 | z c c c | A3/2 G/ F2 |$ z B B3/2 A/ | G F E F | %26
+w: ed,|As you and|she sit down, be|ne- ver mov - |ed,|as you and|she sit down,|as you and|she sit down, he|
+ G A G2 | A2 F2 | c2 z c |$ c3/2 B/ A c | B A G2 | F4 | z2 c2 |$ c3/2 B/ A c | B A G2 | F2 z c- | %36
+w: ne- ver mov-|ed: And,|love, to|Ca- ri- mel see|you com- mend|me!|to|Ca- ri- mel see|you com- mend|me, see|
+ c/c/ B c2 |$ A2 F F/G/ | A3/2 B/ c2 |$ c c/d/ e3/2 f/ | g3 g | f e d2 |$ e2 z2 | z2 z f- | %44
+w: _ you com- mend|me, For- tune, for|his sweet sake,|for- tune, for his sweet|sake, may|chance be- friend|me,|for-|
+ f/c/ e d d |$ c2 F B- | B A G2 | A2 F2 | c2 z c | c3/2 B/ A c |$ B A G2 | F4 | z2 c2 | %53
+w: - tune, for his sweet|sake, may chance|_ be- friend|me. And,|love, to|Ca- ri- mel see|you com- mend|me!|to|
+ c3/2 B/ A c |$ B A G2 | F2 z c- | c/c/ B c2 |$ A2 F F/G/ | A3/2 B/ c2 |$ c c/d/ e3/2 f/ | g3 g | %61
+w: Ca- ri- mel see|you com- mend|me, see|_ you com- mend|me, For- tune, for|his sweet sake,|for- tune, for his sweet|sake, may|
+ f e d2 |$ e2 z2 | z z2 f- | f/c/ e d d |$ c2 F B- | B A G2 | A4- |$ A4 |] %69
+w: chance be- friend|me,|for-|- tune, for his sweet|sake, may chance|_ be- friend|me.|_
+V:2
+ z4 | C/=B,/C/D/ E C | F2 z c |$ c A G G | A2 B F | G A G G | F/E/F/G/ A F |$ c3 A | B2 A2 | %9
+w: |Fly,___ love, a-|loft to|heav'n, and look out|for- tune, and|look out for- tune,|fly,___ love, a-|loft to|heav'n, and|
+ G A G2 | G3 A |$ G A G A | B3/2 A/ G F | E2 E G | G G G G | G2 c B- |$ B A G2 | F c c c | %18
+w: look out for-|tune: Then|sweet- ly, sweet- ly,|sweet- ly her im-|por- tune, That|I from my Ca-|lis- to, best|_ be lov-|ed, As you and|
+ A3/2 G/ F2 | z z2 G |$ G _E D2 | E G G G | E3/2 D/ C2 | z F F F |$ D3/2 C/ B,2 | C c2 =B | c4 | %27
+w: she sit down,|be|ne- ver mov-|ed, as you and|she sit down,|as you and|she sit down,|be ne- ver|mov-|
+ c4 | z2 G2 |$ A2 z2 | z c c3/2 B/ | A c B A | G F3/2 F/ E |$ F4 | z c c3/2 B/ | A c B A | %36
+w: ed:|And,|love,|to Ca- ri-|mel see you com-|mend me, com- mend|me!|to Ca- ri-|mel see you com-|
+ G F F E |$ F F/G/ A3/2 B/ | c2 C C/D/ |$ E3/2 F/ G2- | G c =B G | A/B/ c2 =B |$ c c3/2 G/ A | %43
+w: mend, com- mend me,|For- tune, for his sweet|sake, for- tune, for|his sweet sake,|_ may chance be|friend___|me, For- tune, for|
+ G G A B | G3/2 A/ B G |$ A F D G- | G/F/ F2 E | F4 | z2 G2 | A2 z2 |$ z c c3/2 B/ | A c B A | %52
+w: his sweet sake, for-|tune, for his sweet|sake, may chance be-|-- friend _|me.|And,|love,|to Ca- ri-|mel see you com-|
+ G F3/2 F/ E | F4 |$ z c c3/2 B/ | A c B A | G F F E |$ F F/G/ A3/2 B/ | c2 C C/D/ |$ E3/2 F/ G2- | %60
+w: mend me, com- mend|me!|to Ca- ri-|mel see you com-|mend, com- mend me,|For- tune, for his sweet|sake, for- tune, for|his sweet sake,|
+ G c =B G | A/B/ c2 =B |$ c c3/2 G/ A | G G A B | G3/2 A/ B G |$ A F D G- | G/F/ F2 E | F4- |$ F4 |]%69
+w: _ may chance be-|friend___|me, For- tune, for|his sweet sake, for-|tune, for his sweet|sake, may chance be-|-- friend_|me.|_|
+V:3
+ z4 | z4 | F,/E,/F,/G,/ A, F, |$ C3 C | F3/2 E/ D D | C4 | F,2 z2 |$ C/=B,/C/D/ E F | %8
+w: ||Fly,___ love, a-|loft to|heav'n, and look out|for-|tune,|fly,___ love, a-|
+ G G, A,3/2 B,/ | C F, G,2 | C3 F |$ E F C F | B,3/2 C/ _E F | C2 C C | =B, C G, G, | C2 A, B,- |$ %16
+w: loft to heav'n, and|look out for-|tune: Then|sweet- ly, sweet- ly,|sweet- ly her im-|por- tune, That|I from my Ca-|lis- to, best|
+ B, F, C2 | F,2 z F | F F D3/2 C/ | B, A, B, C |$ G,4 | C2 z C | C C A,3/2 G,/ | F,2 z B, |$ %24
+w: _ be lov-|ed, As|you and she sit|down, be ne- ver|mov-|ed, As|you and she sit|down, as|
+ B, B, G,3/2 F,/ | E, F, C D | C4 | F,4 | z2 C2 |$ F4 | z2 C2 | F3/2 E/ D F | E D C2 |$ F,4 | %34
+w: you and she sit|down, be ne- ver|mov-|ed:|And,|love,|to|Ca- ri- mel see|you com- mend|me,|
+ z2 C2 | F3/2 E/ D F | E D C2 |$ F,4 | F, F,/G,/ A,3/2 B,/ |$ C2 C C/D/ | E>F G E | D C G2 |$ %42
+w: to|Ca- ri- mel see|you com- mend|me,|For- tune, for his sweet|sake, for- tune, for|his sweet sake, my|chance be- friend|
+ C2 z F- | F/C/ E D D | C2 B,2 |$ A,2 B,2 | C4 | F,4 | z2 C2 | F4 |$ z2 C2 | F3/2 E/ D F | E D C2 | %53
+w: me, for-|- tune, for his sweet|sake, may|chance be-|friend|me.|And,|love,|to|Ca- ri- mel see|you com- mend|
+ F,4 |$ z2 C2 | F3/2 E/ D F | E D C2 |$ F,4 | F, F,/G,/ A,3/2 B,/ |$ C2 C C/D/ | E3/2 F/ G E | %61
+w: me,|to|Ca- ri- mel see|you com- mend|me,|For- tune, for his sweet|sake, for- tune, for|his sweet sake, my|
+ D C G2 |$ C2 z F- | F/C/ E D D | C2 B,2 |$ A,2 B,2 | C4 | F,4- |$ F,4|] %69
+w: chance be- friend|me, for-|- tune, for his sweet|sake, may|chance be-|friend|me.|_|
+
+X:6
+T:6. I live and yet
+C:John Wilbye
+%#Noindex
+%%score [1 2 3]
+L:1/4
+M:4/4
+I:linebreak $
+%%transpose 7
+K:F
+V:1 treble nm="Treble I"
+%%MIDI program 73
+V:2 treble nm="Treble II"
+%%MIDI program 73
+V:3 bass nm="Bass" octave=-1
+%%MIDI program 73
+V:1
+ F4 | E4 | z A2 G- | G A2 F- | F G E E | ^F4 |$ F A2 G | F E D D | ^C D2 C | z A B c | d B A2- |$ %11
+w: I|live,|and yet|_ me thinks|_ I do not|breathe,|and yet me|thinks I do not|breathe:__|I thirst, and|drink, I drink,|
+ A2 G2 | G2 ^F2 | G4 | z ^C D E | F D ^C2 | A4 |$ G3 G | ^F4 | z2 A2 | A4- | A4- | A2 A2 | B4- | %24
+w: _ and|thirst a-|gain,|I thirst, and|drink, I drink,|and|thirst a-|gain:|I|sleep||_ and|yet|
+ B2 A2 |$ c2 A2 | G2 G2 | A2 D2 | E2 F2 | F2 E2 | F4 | z2 A2- | A2 G F |$ E3 E | F/E/F/G/ A B | %35
+w: _ I|dream I|am a-|wake: I|hope for|that I|have;|I|_ have, and|want: I|sing,____ and|
+ z c2 A | d3 F | G G A2- | A G/F/ E/D/E/F/ |$ E D z ^C- | C E A2- | A F E E | ^F4 | z A A A | %44
+w: sigh: I|love and|hate at once,|_ I_ sing___|_ and sigh;|_ I love|_ and hate at|once.|Oh! tell me,|
+ d3 d |$ c4 | z B B B | A3 =B | c4 | F2 B2- | B2 A2 | G2 G2 |$ A4 | c4 | c2 c2 | =B3 c | d4- | %57
+w: rest- less|soul,|Oh! tell me,|rest- less|soul,|Oh! tell|_ me,|rest- less|soul,|what|un- couth|jar doth|cause|
+ d2 c2 |$ B2 B2 | A2 A2 | c3 =B | A2 G2 | F2 E2- | E2 D2- |$ D2 ^C2 | D F G A | B/c/ d2 c | B3 A | %68
+w: _ such|want in|store, doth|cause such|want in|store, in|_ peace|_ such|war, doth cause such|want__ in|store, in|
+ G2 G2 | ^F4- |$ F4 |] %71
+w: peace such|war?|_|
+V:2
+ z2 D2 | ^C4 | z F2 E- | E F2 D- | D E ^C C | D4 |$ z A c2 | B A2 G | A F E2 | z ^F G A | %10
+w: I|live,|and yet|_ me thinks|_ I do not|breathe,|and yet|me thinks I|do not breathe:|I thirst, and|
+ B G ^F2 |$ d4 | c3 c | =B4 | z E F G | A F E2- | E2 D2 |$ D2 ^C2 | D4 | z2 D2 | E2 F2 | E4- | %22
+w: drink, I drink,|and|thirst a|gain,|I thirst, and|drink, I drink,|_ and|thirst a-|gain:|I|sleep, and|yet|
+ E2 F2 | G4- | G2 F2 |$ E2 F2- | F2 E2 | F2 F2 | G2 A2 | B2 B2 | A4 | z2 F2- | F2 E D |$ ^C3 A | %34
+w: _ I|dream|_ I|am a-||wake: I|hope for|that I|have;|I|_ have, and|want: I|
+ A/G/F/E/ F F | z G2 A | B3 A | c E F2- | F E/D/ ^C/=B,/C/D/ |$ ^C D z E | A G F2- | F D D ^C | %42
+w: sing, ____ and|sigh: I|love and|hate at once,|_ I _ sing___|_ and sigh;|I_ love|_ and hate at|
+ D4 | z F F F | D E/F/ G2- |$ G2 F2 | G2 F E/D/ | C2 D2 | E2 G A | B A G F | G2 F2- | F2 E2 |$ F4 | %53
+w: once.|Oh! tell me,|rest- less_ soul,|_ Oh!|tell me,__|rest- less|soul, Oh!_|tell___|me, rest-|- less|soul,|
+ ^F2 G2- | G2 ^F2 | G3 A | B2 A2 | G D E F |$ G3 G | ^C2 F2 | E2 A2 | c3 =B | A2 G2 | G2 F2 |$ %64
+w: what un-|- couth|jar Doth|cause such|want in store, doth|cause such|want in|store, doth|cause such|want in|store, in|
+ E2 E2 | D d d c | B2 A2 | G2 ^F2 | B2 B2 | A4- |$ A4 |] %71
+w: peace such|war, doth cause such|want in|store, in|peace such|war?|_|
+V:3
+ D4 | A,4 | z F,2 C- | C A, D3/2 C/ | B,/A,/ G, A, A, | D,4 |$ D F2 E | D C B, B, | A,4 | D4- | %10
+w: I|live,|and yet|_ me thinks_|__ I do not|breathe,|and yet me|thinks I do not|breathe:|I|
+ D4 |$ ^F,2 B,2 | A,3 A, | G,4 | A,4- | A,4 | ^C,2 F,2 |$ E,2 E,2 | D,4- | D,2 D2 | ^C2 D2 | %21
+w: _|thirst, and|drink a-|gain,|I|_|drink and|thirst a-|gain:|_ I|sleep, and|
+ A,3 =B, | ^C2 D2 | G,3 A, | B, C D D |$ C4- | C4 | A,2 B,2- | B,2 A,2 | G,2 G,2 | F,4 | z2 F,2- | %32
+w: yet I|dream, I|dream_|_ I am a-|wake:|_|I hope|_ for|that I|have;|I|
+ F,2 C, D, |$ A,3 A, | D3 D | z C2 F | B,3 D | C C F,2- | F, G, A,2- |$ A, D z A,- | A, C F,2- | %41
+w: _ have, and|want: I|sing, and|sigh: I|love and|hate at once,|_ I sing|_ and sigh;|_ I love|
+ F, G, A, A, | D,4 | z D D C | B,3 B, |$ A,4 | G,2 D, E, | F,2 D,2 | C,4 | D,4 | E,2 F,2 | %51
+w:_ and hate at|once.|Oh! tell me,|rest- less|soul,|Oh! tell me,|rest- less|soul,|Oh!|tell me,|
+ C,2 C,2 |$ F,4 | A,4 | A,2 A,2 | G,4- | G,2 ^F,2 | G,4 |$ G,4 | A,4- | A,4- | A,4 | A,4 | A,4- |$ %64
+w: rest- less|soul,|what|un- couth|jar|_ doth|cause|such|want|_|_|in|store,|
+ A,2 A,2 | B,3 A, | G,2 ^F,2 | G,2 D,2 | G,2 G,2 | D,4- |$ D,4 |] %71
+w: _ doth|cause such|want in|store, in|peace such|war?|_|
+
+X:7
+T:7. O what shall I do?
+C:John Wilbye
+%#Noindex
+%%score [1 2 3]
+%%transpose 5
+L:1/4
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Treble I"
+%%MIDI program 6
+V:2 treble nm="Treble II"
+%%MIDI program 6
+V:3 bass nm="Bass" octave=-1
+%%MIDI program 6
+L:1/8
+V:1
+ z2 d2- | d d d c | d3 d | c d _e d | c2 c2 |$ z d3/2 d/ c- | c B A A | G4 | z _e2 d- |$ %9
+w: O,|_ what shall I|do, or|whi- ther shall I|turn me?|Shall I make|_ un- to her|eyes?|Shall make|
+ d c3/2 c/ B | A2 f2 | B2 c2 | d2 d2 |$ z z2 g | f d _e c | d B A3/2 A/ |$ G d d/c/B/A/ | %17
+w: _ un- to here|eyes? O,|no, they'll|burn me!|Shall|I seal up my|eyes and speak my|part? Then in a flood of|
+ G _e e/d/c/B/ |$ A f f/_e/d/c/ | d3 c/B/ | c2 B2 | A2 A B- |$ B c2 d- | d d d2- | %24
+w: tears, then in a flood of|tears, then in a flood of|tears I _|drown my|heart, for tears|_ being stopped|_ will swell,|
+ d d/e/ f3/2 _e/4d/4 |$ c/B/c/d/ _e3/2 d/4c/4 | B/A/B/c/ d3/2 c/4B/4 | A/G/A/B/ c3/2 B/4A/4 | %28
+w: _ will _ swell__|_______|_______|_______|
+ G/F/G/A/ B3/2 A/4G/4 |$ F d c B | A3 A | B c d e | _g2 =g2 |$ d4- | d f e d | c/d/e/f/ g2- | %36
+w:_______ |_ will swell for|scope, though|they o'er flow love,|life and|hope,|_ by Beau- ty's|eye____|
+ g =B c c |$ =B4 | z4 | d3/2 c/ B A/G/ | _G3 =G | A B c A |$ B2 A2 | z4 | g3/2 f/ _e d/c/ | %45
+w: _ I'll choose to|die.||At thy feet I _|fall, fair|crea- ture rich in|beau- ty,||and for pi- ty_|
+ =B c d3/2 c/ | c2 c2- |$ c2 B2- | B2 A2 | G F G2 | A2 f2- | f2 _e2- | e2 d2 | c B A2 |$ B2 d2- | %55
+w: call, for pi- ty|call, O|_ kill|_ not|love and du-|ty, O|_ kill|_ not|love and du-|ty, O|
+ d2 c2- | c2 B2 | A G A2 | =B2 g2- | g2 f2- | f2 _e2 |$ d c c =B | c2 z2 | z c d e | f2 e2 |$ %65
+w:_ kill|_ not|love and du-|ty, O|_ kill|_ not|love and du -|ty.|Let thy smooth|tongue fan|
+ d3/2 d/ c c | =B B A A | G3 G |$ G2 G2 | =B2 A2 | G4 | z4 |$ z2 z g/g/ | _g2 f2 | e2 e2 | %75
+w: on my sense thy|breath, to stay thine|eyes from|burn- ing|me to|death.||But if|mer- cy|be ex-|
+ d d2 d/d/ |$ c2 c2 | =B2 _B2 | A4 | G2 d d | g3/2 g/ f e |$ d4 | c2 e2 | =B3 c | d2 d2 | _G2 =G2 | %86
+w: il- ed from a|thing so|fair com-|pil-|ed, from a|thing so fair com-|pil-|ed, then|pa- tient-|ly by|thee I'll|
+ c3 A | =B4- |$ B4 |] %89
+w: die, I'll|die.|_|
+V:2
+ B3 A | B3/2 A/ G/F/ G | ^F3 A | G F G/A/ B | A2 A2 |$ z B3/2 B/ A- | A G ^F E/F/ | G4 | %8
+w: O, what|shall I___|do, or|whi- ther shall_ I|turn me?|Shall I make|_ un- to her_|eyes?|
+ z c3/2 c/ B- |$ B A3/2 A/ G | F d B A | G4 | ^F3 B |$ c d B c | A B G A- | A/G/ G2 ^F |$ G4 | %17
+w: Shall I make|_ un- to her|eyes? O, no, they'll|burn|me! Shall|I seal up my|eyes and speak my|____|part?|
+ z c c/B/A/G/ |$ F A d/c/B/A/ | B3/2 B/ A2- | A2 G2 | ^F3 =F |$ G2 A2 | B3 A/G/ | %24
+w: Then in a flood of|tears, then in a flood of|tears I drown|_ my|heart, for|tears being|stopped will _|
+ A B/c/ d3/2 c/4B/4 |$ A/G/A/B/ c3/2 B/4A/4 | G/F/G/A/ B3/2 A/4G/4 | F/E/F/G/ A3/2 G/4F/4 | %28
+w: swell, will _ swell __|_______|_______|_______|
+ E/D/E/F/ G3/2 F/4E/4 |$ D B A G | ^F3 =F | G A B c | d2 c B- |$ B A/G/ A2 | G D G F | E C E D/C/ | %36
+w:_______ |_ will swell for|scope, though|they o'er flow love,|life, love, life|_ and__|hope, by Beau- ty's|eye I'll choose to _|
+ D G E>^F |$ G4 | A A d c/B/ | A A G B | A2 z2 | z F G2- |$ G ^F/E/ F2 | B3/2 A/ G F/_E/ | %44
+w: die, I'll choose to|die.|At thy feet I_|fall, fair crea- ture|rich|in beau|--- ty,|and for pi- ty_|
+ D d c _e | d c2 =B | c2 A2- |$ A2 G2- | G2 F2 | E F F E | F2 d2- | d2 c2- | c2 B2 | A d c2 |$ %54
+w: call, O kill not|love and du-|- ty,|_ O|_ kill|not love and du-|ty, O|_ kill|_ not|love and du-|
+ d2 B2- | B2 A2- | A2 G2 | ^F G G F | G2 _e2- | e2 d2- | d2 c2 |$ =B _e d2 | c E F G | A3 G | %64
+w: ty, O|_ kill|_ not|love and du -|ty, O|_ kill|_ not|love and du-|ty. Let thy smooth|tongue fan|
+ A =B c2 |$ =B2 A2 | G G2 ^F | G2 z D |$ E3/2 D/ E/F/ G- | G ^F/E/ F d/c/ | =B2 _B2 | A2 A2 |$ %72
+w: on my sense|thy breath,|to stay thine|eyes from|burn- ing me__|_ to_ death. But if|mer- cy|be ex-|
+ G A =B c | d A3/2 B/ c- | c/B/A/G/ A2- | A G G2- |$ G ^F/E/ F2 | G4- | G4 | =B3 B | %80
+w: il ---|ed from a thing|_ so fair__|_ com- pil-||ed,||thing so|
+ c G A/=B/ c- |$ c =B/A/ B2 | c2 c2 | G3 A | =B4 | A2 A2- | A2 A2 | G4- |$ G4 |] %89
+w: fair com- pil --|---|ed, then|pa- tient-|ly|by thee|_ I'll|die.|_|
+V:3
+ G6 ^F2 | G2 D2 _E4 | D6 F2 | _E2 D2 C2 B,2 | F4 F4 |$ D4 D4 | D6 C2 | =B,4 B,4 | C8 |$ C8 | %10
+w: O, what|shall I_ |do, or|whi- ther shall I|turn me?|Shall I|make un-|to her eyes?|O,|
+ D4 D4 | _E8 | D6 G2 |$ F2 D2 _E2 C2 | D2 B,2 C2 A,2 | B,3 C D3 D |$ G,6 G2 | GF_ED C2 F2 |$ %18
+w: no, they'll|burn|me! Shall|I seal up my|eyes and speak my|part, and speak my|part? Then,|in a flood of tears, then,|
+ F_EDC B,4- | B,2 A,G, ^F,4- | F,4 G,4 | D6 D2 |$ _E4 F4 | G6 ^FE | ^F2 G2 DCD_E |$ %25
+w: in a flood of tears|_ I_ drown|_ my|heart, for|tears being|stopped will_|swell, will swell___|
+ F3 _E/D/ CB,CD | _E3 D/C/ B,A,B,C | D3 C/B,/ A,G,A,B, | C3 B,/A,/ G,F,G,A, |$ B,4 C4 | D8- | %31
+w: _______|_______|_______|___ for___|scope. though|they|
+ D4 D4 | D8 |$ D2 D4 C2 | =B,6 B,2 | C6 =B,A, | =B,2 G,2 C2 C2 |$ G,8 | D3 C B,2 A,G, | ^F,4 G,4 | %40
+w: _ o'er|flow|love, life and|hope, by|Beau- ty's_|eye I'll choose to|die.|At thy feet I_|fall, fair|
+ D6 _E2 | F2 D2 _E4 |$ D8 | G3 F _E2 DC | =B,4 C4 | G8 | C8 |$ C8 | C8 | C8 | F8 | F8 | F8- | F8 |$ %54
+w: crea- ture|rich in beau-|ty,|and for pi- ty_|call, for|pi-|ty,|O|kill|not|love|and|du-|-|
+ B,8 | D8 | D8 | D8 | G8 | G8 | G8- |$ G8 | C2 C2 D2 E2 | F6 E2 | D4 C4 |$ %65
+w: ty,|O|kill|not|love|and|du-||ty. Let thy smooth|tongue fan|on my|
+ G2 G,2 A,=B,CD | E^F G2 D2 D2 | E6 =B,2 |$ C3 =B, CD E2 | D4 D4 | G,6 GG | ^F4 =F4 |$ E4 E4 | %73
+w: sense thy breath ___|__ to stay thine|eyes from|burn --- ing|me to|death, but if|mer- cy|be ex-|
+ D2 D4 A,B, | C4 C4 | =B,4 ^A,4 |$ A,8- | A,2 G,2 G,4- | G,2 ^F,E, F,4 | G,6 GG | E3 E D2 C2 |$ %81
+w: il- ed from a|thing so|fair com-|pil-|---|----|ed, from a|thing so fair com-|
+ G8 | C4 C4 | E4 E4 | =B,6 C2 | D8 | D8 | G,8- |$ G,8 |] %89
+w: pil-|ed, then|pa- tient-|ly by|thee|I'll|die.|_|
+
+X:8
+T:8. So Light is Love
+C:John Wilbye
+%#Noindex
+%%score [1 2 3]
+%%transpose 7
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Treble I"
+%%MIDI program 73
+V:2 treble nm="Treble II"
+%%MIDI program 73
+V:3 bass nm="Bass" octave=-1
+%%MIDI program 73
+L:1/4
+V:1
+ c4 A3 G | F4 z2 f2 | d3 c B2 AB |$ c2 A2 G2 G2 | A4 F4 | z2 f2 d3 c | B2 F2 F2 F2 |$ G2 F2 F2 E2 | %8
+w: So light is|love, so|light is love, in_|match- less beau- ty|shin- ing,|so light is|love, in match- less|beau- ty shin - |
+ F4 F2 FG | A3 B c2 f2 |$ f2 _e2 d4 | c6 c2 | c2 =B2 c4 |$ z2 c3 G A2 | E3 F GFED | E2 c3 G A2 |$ %16
+w: ing, When she re-|vi- sits Cy- pris'|hal- low'd bow-|ers, Two|fee- ble doves,|har- ness'd in|sil- ken twin- ---|ing, har- ness'd in|
+ E3 F GFED | E2 F4 E2 | F4 z2 f2- | fc d2 A3 B |$ cBAG A3 B | c2 B4 A2 | Bcd_e f3 e |$ %23
+w: sil- ken twin- ---||ing, har-|- ness'd in sil- ken|twin- -----|- ing, Can|draw_  her_ cha- riot|
+ d2 B2 B2 A2 | B4 F4- | F4 z2 c2 |$ cdef g3 f | e2 c2 e2 d2 | c4 G2 G2 |$ G2 G2 ABcA | %30
+w: 'midst the Pa- phian|flo- wers,|_ can|draw_ her_ cha- riot|'midst the Pa- phian|flo- wers, can|draw her cha - riot_|
+ =B2 c2 c2 B2 | c8 | z2 A3 A G2 |$ F2 f3 f _e2 | d2 c2 B2 B2 | A2 F3 G A2 |$ B4 z2 fe | %37
+w: 'midst the Pa- phian|flow'rs.|Light- ness to|love! light- ness to|love! how ill it|fit- ---|teth, light- -|
+ defd e2 c2 | =B2 G2 g4- | g2 c2 c2 =B2 |$ c2 c3 d e2 | f4 z2 cB | ABcA B2 A2 |$ G6 A2 | B6 A2 | %45
+w: ---- ness to|love! how ill|_ it fit- -|teth, light- ness to|love! light- -|---- ness to|love! how|ill it|
+ G2 F4 E2 | F4 C4 | D8 |$ E4 F4- | F4 E4 | F6 GA | B8- | B4 A4 | G8 | F4 z2 c2- |$ cc B2 A2 G2 | %56
+w: fit- --|teth, So|hea-||- vy|on my_|heart,|_ he|sit-|teth. Light-|- ness to love! how|
+ GF F3 E/D/ E2 | F4 z2 f_e |$ d_efe d2 c2 | B4 G4 | G3 A =B2 c2 | d2 e2 d4 |$ e4 z2 cB | %63
+w: ill it fit- ---|teth, light- -|---- ness to|love! light-|ness to love! how|ill it fit-|teth, light- -|
+ ABcB A2 G2 | F2 f_e de f2 |$ e3 f g2 c2 | d3 _e f2 c2 | c2 A2 G2 G2 | z4 F4- | F4 B4- |$ B4 A4 |$ %71
+w: ---- ness to|love! light- ----|ness to love! light-|ness to love! how|ill it fit- teth,|So|_ hea-|- vy|
+ G4 G4 | F6 _E2 | D2 C2 D4 | E4 F4- | F4 E4 | F8- |$ F8 |] %78
+w: on my|heart, O!|on my heart|he sit-||teth.|_|
+V:2
+ z8 | f4 d3 c | B2 F2 F2 F2 |$ G2 F2 F2 E2 | F2 c2 A3 G | F4 z2 f2 | d3 c B2 AB |$ c2 A2 G2 G2 | %8
+w: |So light is|love, in match- less|beau- ty shin- -|ing, so light is|love so|light is love, in_ |match- less beau- ty|
+ A4 A4 | F2 FG A3 B |$ c2 c2 B3 A | G2 G4 A2 | F2 F2 E2 c2- |$ cG A2 E2 F2 | GFED E2 c2- | %15
+w: shin- ing,|When she re- vi- sits|Cy- pris' hal- low'd|bow- ers, Two|fee- ble doves, har-|- ness'd in sil- ken|twin- --- ing, har-|
+ cG A2 E3 F |$ GFED E3 F | G2 A2 G4 | A4 z4 | z2 f3 c d2 |$ A3 B cBAG | A2 d2 c2 c2 | %22
+w: - ness'd in sil- ken|twin- -----||ing,|har- ness'd in|sil- ken twin- ---|ing, in sil- ken|
+ d2 B2 z2 c2 |$ Bcd_e f3 e | d2 B2 d2 c2 | B4 A4 |$ G4 z2 d2 | cdef g3 f | e2 c2 e2 d2 |$ %29
+w: twin- ing, Can|draw _ her_ cha- riot|'midst the Pa- phian|flo- -|wers, can|draw_ her_ cha- riot,|draw her cha- riot|
+ c2 c2 c2 f2- | f2 e2 d4 | e8 | z2 z4 c2- |$ cc B2 A2 G2 | GF F3 E/D/ E2 | F4 z2 f_e |$ %36
+w: 'midst the Pa- -|- phian flo-|wers.|Light-|- ness to love! how|ill it fit- ---|teth, light- -|
+ d_efe d2 c2 | B4 G4 | G3 A =B2 c2 | d2 e2 d4 |$ c4 z2 cB | ABcB A2 G2 | F2 f_e de f2 |$ %43
+w: ---- ness to|love! light-|ness to love! how|ill it fit-|teth, light- -|---- ness to|love! light- ----|
+ e3 f g2 c2 | d3 _e f2 c2 | c2 A2 G2 G2 | z4 F4- | F4 B4- |$ B4 A4 | G4 G4 | F6 _E2 | D2 C2 D4 | %52
+w: ness to love! light-|ness to love! how|ill it fit- teth,|So|_ hea-|- vy|on my|heart, O!|on my heart|
+ E4 F4- | F4 E4 | F2 A3 A G2 |$ F2 f3 f _e2 | d2 c2 B2 B2 | A2 F3 G A2 |$ B4 z2 fe | defd e2 c2 | %60
+w: he sit-||eth. Light- ness to|love! light- ness to|love! how ill it|fit- ---|teth, light- -|---- ness to|
+ =B2 G2 g4- | g2 c2 c2 =B2 |$ c2 c3 d e2 | f4 z2 cB | ABcA B2 A2 |$ G6 A2 | B6 A2 | G2 F4 E2 | %68
+w: love! how ill|_ it fit- -|teth, light- ness to|love! light- -|---- ness to|love! how|ill it|fit- --|
+ F4 C4 | D8 |$ E4 F4- |$ F4 E4 | F6 GA | B8- | B4 A4 | G8 | A8- |$ A8 |] %78
+w: teth, So|hea-||- vy|on my _|heart,|_ he|sit|teth.|_|
+V:3
+ z2 F2 | D3/2 C/ B, A, | B,3/2 C/ D/_E/ F |$ E F C2 | F,3 F | D3/2 C/ B, A, | B,3/2 C/ D/_E/ F |$ %7
+w: So|light is love, in|match- --- less|beauty shining, so|light is love, in__|match- --- less|
+ E F C2 | F,4- | F,2 F, F,/G,/ |$ A,2 B,2 | C3/2 D/ E F | D2 C2 |$ C2 C F, | C3 C | C C C3/2 F/ |$ %16
+w: beau- ty shin-|ing,|_ When she re-|vi- sits,|Cy- pris' hal- low'd|bow- ers,|Two fee- ble|doves, har-|ness'd in sil- ken|
+ C C2 C | C F, C2 | F, F3/2 C/ D | A, B, F, F, |$ F2 F F | F B, F2 | B,3 A, |$ B,2 F,2 | B,3 A, | %25
+w: twin- ing, in|sil- ken twin-|ing, har- ness'd in|sil- ken twin- ing,|har- ness'd in|sil- ken twin-|ing, Can|draw her|cha- riot|
+ B,2 F,2 |$ C3 =B, | C2 G,2 | C3 =B, |$ C2 F,2 | G,4 | C4 | z F3/2 F/ _E |$ D2 C2 | B, A, G,2 | %35
+w: 'midst the|Pa- phian|flo- wers,|'midst the|Pa- phian|flo-|wers.|Light- ness to|love! how|ill it fit-|
+ F, F/_E/ D/E/ F |$ B,3 A, | B,2 C2 | G,3 A, | =B, C G,2 |$ z C/B,/ A,/B,/ C | F,3 E, | %42
+w: teth, light- ----|ness to|love! how|ill it|fit- - teth,|light- ----|ness to|
+ F, F, B, F, |$ C3/2 D/ E F | B,3/2 C/ D/_E/ F | E F C2 | A,4 | B,4 |$ C4- | C4 | D3 C | %51
+w: love! how ill it|fit- - teth, how|ill ___ it|fit- - teth,|So|hea-|vy|_|on my|
+ B, A, B,2 | C4- | C4 | F, F3/2 F/ _E |$ D2 C2 | B, A, G,2 | F, F/_E/ D/E/ F |$ B,3 A, | B,2 C2 | %60
+w: heart,_ he|sit-||eth. Light- ness to|love! how|ill it fit-|teth, light- ----|ness to|love! how|
+ G,3 A, | =B, C G,2 |$ z C/B,/ A,/B,/ C | F,3 E, | F, F, B, F, |$ C2 C F | B,3/2 C/ D/_E/ F | %67
+w: ill it|fit- - teth,|light- ----|ness to|love! how ill it|fit- teth, how|ill ___ it|
+ E F C2 | A,4 | B,4 |$ C4- |$ C4 | D3 C | B,2 B,2 | C4- | C4 | F,4- |$ F,4 |] %78
+w: fit- - teth,|So|hea-|vy|_|on my|heart, he|sit-||teth.|_|
+
+X:9
+T:9. There is a Jewel
+C:John Wilby
+%#Noindex
+%%score [1 2 3]
+%%transpose 7
+L:1/4
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Treble I"
+%%MIDI program 73
+V:2 treble nm="Treble II"
+%%MIDI program 73
+V:3 bass nm="Bass" octave=-1
+%%MIDI program 73
+V:1
+ A2 A A | d A2 z | F2 F F | F/E/F/G/ A/B/A/B/ | c c c A |$ G A G F | E4- | E2 c2 | F G/A/ B2- | %9
+w: There is a|jew- el,|there is a|jew- -------|- el which no|In- dian mines can|buy,|_ no|chy- mic_ art|
+ B2 A2 | G2 G2 |$ A c c B | A G B A | G F G2 | A2 z2 |$ z4 | z F F3/2 _E/ | D A c c | B A c B |$ %19
+w: _ can|coun- ter-|feit: It makes men|rich in great- est|po- - ver-|ty,||it makes men|rich, it makes men|rich in great- est|
+ A B3/2 A/4G/4 A | B z2 z | z f f _e | d f _e d |$ c B A2 | =B2 d2 | c G A3/2 A/ | G4- |$ G c c B | %28
+w: po- ver- ---|ty,|it makes men|rich in great- est|po- - ver-|ty, in|great- est po- ver-|ty;|* Makes wa- ter|
+ A G B A | G F G2 | z A A G |$ F B B A | G B A G | ^F G2 F | G2 z2 |$ z ^F F A | G/A/B/c/ B G | %37
+w: wine; turns wood- en|cups to gold;|makes wa- ter|wine, makes wa- ter|wine; turns wood- en|cups to_|gold;|The home- ly|whi- ---- stle,|
+ z A A c | B/c/d/_e/ d B |$ c d c c | B d B d | c/B/A/B/ c A | z B G B |$ A/G/F/G/ A d/d/ | %44
+w: the home ly|whi ---- stle|to sweet mu- sic's|strain, the home- ly|whi- ---- stle,|the home- ly|whi- ---- stle, the|
+ c3/2 d/ B3/2 c/ | A G A A | G D G F |$ E/D/E/F/ E A | G3/2 A/ F3/2 G/ | E D E E | ^F4 | %51
+w: home- ly whi- stle|to sweet mu- sic's|strain, the home- ly|whi- --- stle, the|home- ly whi- stle|to sweet mu- sic's|strain.|
+ z A3/2 A/ A |$ B2 A G- | G F G G | A A3/2 G/ F | E D ^C A |$ A2 G2 | A4 | A A/G/ F2 | G G/F/ E2 |$ %60
+w: Sel- dom it|comes; to few|_ from Hea- ven|sent, sel- dom it|comes; to few from|Hea- ven|sent,|sel- dom it comes,|sel- dom it comes,|
+ F F/E/ D D | ^C D D C | D2 z2 | z d c A |$ B G A3/2 A/ | G2 z2 | z c B G | A F G3/2 G/ |$ F2 z2 | %69
+w: sel- dom it comes; to|few from Hea- ven|sent,|That much in|lit- tle, all in|nought,|that much in|lit- tle, all in|nought,|
+ z A G E | F D E3/2 E/ | D2 z2 |$ z D E ^F | G3 ^F | E2 D2 | E2 E2 | ^F4- |$ F4 |] %78
+w: that much in|lit- tle, all in|nought,|that much in|lit- tle,|all in|nought con-|tent.|_|
+V:2
+ F2 F F | F F2 z | A2 A A | A/G/F/E/ F/G/A/F/ | G G G F |$ E3/2 F/ G A/B/ | c4- | c2 G A | %8
+w: There is a|jew- el,|there is a|jew- -------|- el which no|In- dian mines Can_|buy,|_ no_|
+ B A G F | G2 F2- | F2 E2 |$ F C C D/E/ | F E D2 | E F2 E | F F F _E |$ D C _E D | C B, C2 | %17
+w: chy- mic art can|coun- ter-||feit: It makes men_|rich in great-|est po- ver-|ty, it makes men|rich in great- est|po- - ver-|
+ D2 z2 | z4 |$ z f f _e | d c _e d | c B c c | B A G B |$ A G G ^F | G G G F | E D F E | D C D2 |$ %27
+w: ty,||it makes men|rich in great- est|po- ver- ty, it|makes men rich in|great- est po- ver-|ty; Makes wa- ter|wine; turns wood- en|cups to gold;|
+ E2 E D | C C D F | E F2 E | F F F E |$ D d d c | B B c2- | c B A A | =B G G G |$ ^F/G/A/B/ A F | %36
+w: makes wa- ter|wine; turns wood- en|cups_ to|gold; makes wa- ter|wine, makes wa- ter|wine; turns wood-|- en cups to|gold; The home- ly|whi- ---- stle,|
+ z G G B | A/B/c/d/ c A | z B B d |$ c B B A | B2 z2 | z c A c | B/A/G/A/ B G |$ z A F B | %44
+w: the home- ly|whi- ---- stle,|the whi- stle|to sweet mu- sic's|strain,|the home- ly|whi- ---- stle,|the home- ly|
+ A3/2 B/ G3/2 A/ | ^F G2 F | G3/2 F/ E D |$ ^C/=B,/C/D/ C F | E3/2 F/ D3/2 E/ | ^C D D C | D4 | %51
+w: whi- stle to sweet|mu- - sic's|strain, the home- ly|whi- --- stle, the|home- ly whi- stle|to sweet mu- sic's|strain.|
+ z F3/2 F/ F |$ G2 F E- | E F F E | F2 z A- | A/G/ F E E |$ D3 E | F F E2 | F F/G/ A2 | %59
+w: Sel- dom it|comes; to few|_ from Hea- ven|sent, sel-|- dom it comes; to|few from|Hea- ven sent,|sel- dom it comes,|
+ E E/F/ G2 |$ D D/E/ F G | A F E E | ^F =F G A | D G G ^F |$ G2 z2 | z E F G | C F F E | F2 z2 |$ %68
+w: sel- dom it comes,|sel- dom it comes; to|few from Hea- ven|sent, That much in|lit- tle, all in|nought,|that much in|lit- tle, all in|nought,|
+ z C D E | A, D D ^C | D2 z2 | z D C C |$ =B,3 A, | =B, ^C D2 | ^C2 D2- | D2 ^C2 | D4- |$ D4 |] %78
+w: that much in|lit- tle, all in|nought,|that much in|lit- tle,|all__|in nought|_ con-|tent.|_|
+V:3
+ D2 D D | D2 D,2 | D2 D D | D4 | C2 C F, |$ C3/2 D/ E F | C4 | C,4 | D,2 D,2 | E,2 F,2 | C,2 C,2 |$ %11
+w: There is a|jew- el,|there is a|jew-|el which no|In- dian mines can|buy,|no|chy- mic|art can|coun- ter-|
+ F,2 z2 | z4 | z4 | z F, F, G,/A,/ |$ B, A, G,2 | A, B,2 A, | B, F F _E | D F _E D |$ C B, C C | %20
+w: feit:|||it makes men_|rich in great-|est po- ver-|ty, it makes men|rich in great- est|po- ver- ty, in|
+ B, A, G, B, | F,2 F,2 | G, D, _E, B, |$ C C D D | G, G, G, A,/=B,/ | C =B, A,2 | =B, C2 B, |$ %27
+w: great- est po- ver-|ty, it|makes men rich in|great- est po- ver-|ty; Makes wa- ter_|wine; turns wood-|en cups to|
+ C C, C, D,/E,/ | F, E, G, F, | C3 C | F, F, F, G,/A,/ |$ B, B, B, C/D/ | _E D C E | D3 D | %34
+w: gold; makes wa- ter_|wine; turns wood- en|cups to|gold; makes wa- ter_|wine, makes wa- ter _|wine; turns wood- en|cups to|
+ G,4 |$ D,4 | G,4 | F,4 | B,3 B, |$ A, B, F F | B,2 B,2 | F,4 | G,4 |$ D3 D | D2 D2 | %45
+w: gold;|The|home-|ly|whi- stle|to sweet mu- sic's|strain, the|home-|ly|whi- stle|to sweet|
+ D2 D2 | G,4 |$ A,4 | A,4 | A,4 | D,4 | z D3/2 D/ D |$ G,2 A, C- | C F, C C | F, F3/2 E/ D | %55
+w: mu- sic's|strain,|sweet|mu-|sic's|strain.|Sel- dom it|comes; to few|_ from Hea- ven|sent, sel- dom it|
+ ^C D A, =C |$ B,2 B,2 | A,4 | D4 | C4 |$ B,4 | A,4 | z D C A, | B, G, A,3/2 A,/ |$ G, G,2 _G, | %65
+w: comes; to few from|Hea- ven|sent,|from|Hea-|ven|sent.|That much in|lit- tle, all in|nought, all in|
+ G, C B, G, | A, F, G,3/2 G,/ | F, F,2 E, |$ F, A, G, E, | F, D, E,3/2 E,/ | D, D,2 ^C, | %71
+w: nought, that much in|lit- tle, all in|nought, all in|nought, that much in|lit- tle, all in|nought, all in|
+ D, D, E, _G, |$ G,3 _G, | E,2 D,2 | A,4 | A,4 | D,4- |$ D,4 |] %78
+w: nought, that much in|lit- tle,|all in|nought|con-|tent.|_|
+
+X:10
+T:10. Ye Restless Thoughts
+C:John Wilbye
+%#Noindex
+%%score [1 2 3]
+L:1/4
+M:4/4
+I:linebreak $
+%%transpose 7
+K:Bb
+V:1 treble nm="Treble I"
+%%MIDI program 73
+V:2 treble nm="Treble II"
+%%MIDI program 73
+V:3 bass+8 nm="Bass" octave=-1
+%%MIDI program 73
+V:1
+ z2 d2 | B G d2 | z z2 g |$ e c g2 | z g e c | d2 e d- |$ d/c/ c2 =B | c4 | e3 d/c/ | d2 d2- |$ %10
+w: Ye|rest- less thoughts,|ye|rest- less thoughts,|ye rest- less|thoughts that har-|- bour dis- con-|tent,|Cease your as-|saults, cease|
+ d c/B/ A G | ^F B A A | =B2 z d | B G d2 |$ z z2 g | e c g2 | z g e c |$ d2 e d- | d/c/ c2 =B | %19
+w: _ your as- saults and|let my heart la-|ment. Ye|rest- less thoughts,|ye|rest- less thoughts,|ye rest- less|thoughts that har-|- bour dis- con-|
+ c4 | e3 d/c/ |$ d2 d2- | d c/B/ A G | ^F B A A | =B4 |$ z z2 d | d d c3/2 d/ | e d d c |$ %28
+w: tent,|Cease your as-|saults, cease|_ your as- saults and|let my heart la-|ment.|And|let my tongue have|leave to tell my|
+ d d>c B | A G ^F B | A G ^F2 |$ z G B c | d2 B e- | e d c c | d f f3/2 e/ |$ d d c2 | B2 A A | %37
+w: grief, That  she may|pi- ty though not|grant re- lief,|that she may|pi- ty though|_ not grant re-|lief, that she may|pi- ty though|not grant re-|
+ =B2 g2- | g f/=e/ d2- |$ d d d d | f3/2 e/ d d | B B c e | d4 |$ g3 f/=e/ | d3/2 =e/ f d | %45
+w: lief. Pi-|- ty would help,|_ pi- ty would|help, a- las, what|love hath al- most|slain.|Pi- ty would|help, a- las, what|
+ e3/2 d/ c c |$ d2 z d- | d c2 B | A B2 A- | A/G/ G2 ^F |$ G2 g2 | g f/=e/ d2- | d d d d | %53
+w: love hath al- most|slain, And|_ salve the|wound that fes-|- ter'd this dis-|dain. Pi-|- ty would help,|_ pi- ty would|
+ f3/2 e/ d d |$ B B c e | d4 | g3 f/=e/ |$ d3/2 =e/ f d | e3/2 d/ c c | d2 z d- |$ d c2 B | %61
+w: help, a- las, what|love hath al- most|slain.|Pi- ty would|help, a- las, what|love hath al- most|slain, And|_ salve the|
+ A B2 A- | A/G/ G2 ^F | G4- |$ G4 |] %65
+w: wound that fes-|- ter'd this dis|\-dain.|_
+V:2
+ d2 B G | d2 z G- | G c2 =B |$ c3 d | e d c c | B3/2 A/ G F |$ E E D D | =E2 z2 | c3 =B/A/ | %9
+w: Ye rest- less|thoughts, ye|_ rest- less|thoughts, ye|rest- less thoughts, ye|rest- less thoughts that|har- bour dis- con-|tent,|Cease your as-|
+ =B2 _B2- |$ B A/G/ ^F B | A G G ^F | G d B G | d2 G2- |$ G c2 =B | c3 d | e d c c |$ B3/2 A/ G F | %18
+w: saults, cease|_ your as- saults and|let my heart la-|ment. Ye rest- less|thoughts, ye|_ rest- less|thoughts, ye|rest- less thoughts, ye|rest- less thoughts that|
+ E E D D | =E2 z2 | c3 =B/A/ |$ =B2 _B2- | B A/G/ ^F B | A G G ^F | G3 G |$ G G B3/2 B/ | %26
+w: har- bour dis- con-|tent,|Cease your as-|saults, cease|_ your as- saults and|let my heart la-|ment. And|let my tongue have|
+ A/G/ G2 ^F | G A B G |$ ^F2 z d- | d/c/ B A G | ^F B A A |$ G B3/2 A/ G | ^F2 G c- | c/B/ B2 A | %34
+w: leave to tell, my|grief, to tell my|grief, That|_ she may pi- ty|though not grant re-|lief, that she may|pi- ty though|_ not grant re-|
+ B d3/2 d/ c |$ B3/2 B/ G A- | A G2 ^F | G4 | B3 A/G/ |$ ^F3 A | A A B3/2 A/ | G G A/G/ G- | %42
+w: lief, that she may|pi- ty though not|_ grant re-|lief.|Pi- ty would|help, pi-|ty would help, a-|las, what love hath al-|
+ G ^F G2- |$ G2 B2- | B A/G/ A B | c/B/ B2 A |$ B d c B | A A G G | ^F d2 c- | c B A A |$ =B4 | %51
+w: - most slain.|_ Pi-|- ty would help what|love hath al- most|slain, And salve the|wound, and salve the|wound that fes-|- ter'd this dis-|dain.|
+ ^A3 =A/G/ | ^F3 A | A A B3/2 A/ |$ G G A/G/ G- | G ^F G2- | G2 B2- |$ B A/G/ A B | c/B/ B2 A | %59
+w: Pi- ty would|help, pi-|ty would help, a-|las, what love hath al-|- most slain.|_ Pi-|- ty would help what|love hath al- most|
+ B d c B |$ A A G G | ^F d2 c- | c B A A | =B4- |$ B4 |] %65
+w: slain, And salve the|wound, and salve the|wound that fes-|- ter'd this dis|\-dain.|_
+V:3
+ z4 | z2 G2 | E C G2 |$ C C2 =B, | C2 C2 | G,2 G,2 |$ G,2 G,2 | C3 C | C C G,2- | G, G2 F/=E/ |$ %10
+w: |Ye|rest- less thoughts|ye rest- less|thoughts that|har- bour|dis- con-|tent, Cease|your as- saults,|_ cease your as-|
+ D2 D2 | D G, D D | G,4 | z2 z G |$ E C G2 | C C2 =B, | C2 C2 |$ G,2 G,2 | G,2 G,2 | C3 C | %20
+w: saults and|let my heart la-|ment.|Ye|rest- less thoughts|ye rest- less|thoughts that|har- bour|dis- con-|tent, Cease|
+ C C G,2- |$ G, G2 F/=E/ | D2 D2 | D G, D D | G,4 |$ z G, G, G, | B,2 A,2 | G, F, E, E, |$ %28
+w: your as- saults,|_ cease your as-|saults and|let my heart la-|ment.|And let my|tongue have|leave to tell my|
+ D,4 | D4 | D2 D2 |$ E2 E2 | D2 E2 | F2 F2 | B, B, F, F, |$ B,3/2 B,/ C C | %36
+w: grief, |That |she may|pi- ty|though not|grant re-|lief, that she may|pi- ty though not|
+ D2 D2 | G,4 | G3 F/=E/ |$ D4 | z D D D | E3/2 D/ C C | D D G,2- |$ G,2 G2- | G F/=E/ D G | %45
+w: grant re-|lief.|Pi- ty would|help,|pi- ty would|help what love hath|al- most slain,|_ Pi-|- ty would help what|
+ E E F F |$ B, B, A, G, | ^F,2 G,2 | D2 D2 | D2 D2 |$ G,4 | G3 F/=E/ | D4 | z D D D |$ %54
+w: love hath al- most|slain, And salve the|wound that|fes- ter'd|this dis-|dain.|Pi- ty would|help,|pi- ty would|
+ E3/2 D/ C C | D D G,2- | G,2 G2- |$ G F/=E/ D G | E E F F | B, B, A, G, |$ ^F,2 G,2 | D2 D2 | %62
+w: help what love hath|al- most slain,|_ Pi-|- ty would help what|love hath al- most|slain, And salve the|wound that|fes- ter'd|
+ D2 D2 | G,4- |$ G,4 |] %65
+w: this dis-|dain.|_
+
+

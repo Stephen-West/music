@@ -1,0 +1,453 @@
+%%textfont ZapfChancery-MediumItalic 64
+%%vskip 5cm
+%%center Omnes gentes. plaudite
+%%textfont Helvetica 36
+%%vskip 3cm
+%%center Giovanni Gabrieli
+%%textfont Helvetica 20
+%%vskip 3cm
+%%center Edited for recorders by Stephen West
+%%center Four choirs:
+%%center SSAT SATB SATGb ATBGb
+%%textfont Helvetica 24
+%%vskip 1cm
+%%textfont Times-Roman 20
+%%newpage
+%%center  
+%%newpage
+X:1
+T:Omnes gentes, plaudite
+C:Giovanni Gabrieli (1557-1612)
+%%measurenb 0
+%%score [1 2 3 4] [5 6 7 8] [9 10 11 12] [13 14 15 16]  
+%%squarebreve
+%%scale 0.7
+%%footer "$T	Page $P	SMW 2015"
+L:1/2
+M:4/2
+K:C
+V:1 clef=treble^8 name="Ch.1 V.1\nDescant" octave=1
+%%MIDI program 71
+[L:1/4]
+ d6 d2 | a8- | a4 ^f4 |[M:3/2] z6 | g3 g ^f2 | z6 | g3 g g2 | f4 f2 |[M:4/2] e2 aa a2 a2 | %9
+w: Om- nes~|gen-|* tes,~||plau- di- te,~||plau- di- te~|ma- ni-|bus.~ Ju- bi- la- te,~|
+ z2 aa a2 a2 | g4 fc f2 | e g2 d f2 ed- |[M:2/2] d^c d2 |[M:4/2] z2 g4 g2 | g4 z4 | %15
+w: ju- bi- la- te~|De- o~ in~ vo-|ce~ ex- ul- ta- ti- o-|* * nis!~|Quo- ni-|am~|
+ Z3 |[M:2/2] z4 |[M:4/2] Z3 | z2 g2 e4 | f2 a3 a a2 | g4 f4 | z2 a2 g2 f2 | %26
+w: |||Sub- je-|cit~ po- pu- los~|no- bis~|et~ gen- tes~|
+ z4 z2 g2 | f2 ff eA a2 | a4 z4 |Z5 | z2 d2 d2 e2 | f4 e4 | z4 z2 g2 | %37
+w: sub~|pe- di- bus~ no- * *|stris.~||E- le- git~|no- bis~|he-|
+ a2 g2 f2 e2- | e2 d4 ^c2 | d4 z2 d2- | d2 g2 f2 d2 | e2 z2 z e2 c | B2 A2 z2 z a- | %43
+w: re- di- ta- tem|* su- *|am~ spe-|* ci- em~ Ja-|cob~ quam~ di-|le- xit,~ quam|
+[M:2/2] af e2 |[M:3/2] d4 z2 | d2 d2 g2 | e4 e2 | g2 gf/e/ de | f3 f f2 | a2 ag/f/ e^f | %50
+w: * di- le-|xit.~|As- cen- dit~|De- us~|in~ ju- * * * *|* bi- lo,~|in~ ju- * * * *|
+ ^g>^f g a2 g | a6 | z6 | d2 d2 g2 | e4 e2 | g2 gf/e/ de | f3 f f2 | a2 ag/f/ e^f | %58
+w: * * * * bi-|lo.~||As- cen- dit~|De- us~|in~ ju- * * * *|* bi- lo,~|in~ ju- * * * *|
+ ^g>^f g a2 g |[M:4/2] a2 a4 f2- | ff f2 a2 f2- | ff f2 z gec | g4 cgec | g4 gdBG | %64
+w: * * * * bi-|lo,~ et~ Do-|* mi- nus,~ et~ Do-|* mi- nus~ in~ vo- ce~|tu- bae,~ in~ vo- ce~|tu- bae,~ in~ vo- ce~|
+ d2 d2 z2 z a | fd a4 e2 |[M:2/2] ^f4 |[M:4/2] Z2 | z2 a3 a ^g2 | a4 z4 | z g2 g ^f2 gg- | %72
+w: tu- bae,~ in~|vo- ce~ tu- *|bae.~||Al- le- lu-|ja,~|al- le- lu- ja,~ al-|
+[M:2/2] gf e2 | d4 |[M:4/2] Z2 | z2 a3 a ^g2 | a4 z4 | z g2 g ^f2 gg- |[M:2/2] gf e2 | %80
+w: * le- lu-|ja,~||Al- le- lu-|ja,~|al- le- lu- ja,~ al-|* le- lu-|
+[M:4/2] d2 f4 f2 | f3 e d4 | d2 d2 g2 g2 | ^f8- | f8|] %86
+w: ja,~ al- le-|lu- * *|ja,~ al- le- lu-|ja!||
+V:2 clef=treble^8 name="Ch.1 V.2\nDescant" octave=1
+%%MIDI program 71
+[L:1/4]
+ A6 A2 | AGFE D2 d2- | d2 ^c2 d4 |[M:3/2] z6 | d3 d d2 | z6 | d3 B e2 | c2 A3 d | %8
+w: Om- nes~|gen- * * * * *|* * tes,~||plau- di- te,~||plau- di- te~|ma- * ni-|
+[M:4/2] ^c2 cc d2 e2 | z2 ee d2 cf- | fe/d/ e2 fF A2 | G c2 _B A3 F |[M:2/2] A2 A2 | %13
+w: bus.~ Ju- bi- la- te,~|ju- bi- la- te~ De-|* * * * o~ in~ vo-|ce~ ex- ul- ta- ti-|o- nis!~|
+[M:4/2] z2 B4 B2 | G4 z4 | Z3 |[M:2/2] z4 |[M:4/2] Z3 | z2 G2 G2 c2 | %23
+w: Quo- ni-|am~||||Sub- je- *|
+ c2 c3 c c2 | c4 c4 | z2 c2 c2 c2 | z2 z4 d2 | d>d D2 z2 A2 | ^F4 z4 |Z5 | %34
+w: cit po- pu- los~|no- bis~|et~ gen- tes~|sub~|pe- di- bus~ no-|stris.~||
+ z2 B2 G3 c | c4 c4 | z4 z2 c2 | c3 B A2 G2 | F4 E4 | D4 z4 | d3 c c2 B2 | G2 z2 z E2 A | %42
+w: E- le- git~|no- bis~|he-|re- di- ta- tem~|su- *|am~|spe- ci- em~ Ja-|cob~ quam~ di-|
+ ^G2 A2 z2 z A- |[M:2/2] Ad ^c2 |[M:3/2] d4 z2 | B2 B2 B2 | G4 G2 | G2 d3 d | d4 z2 | z6 | %50
+w: le- xit,~ quam|* di- le-|xit.~|As- cen- dit~|De- us~|in~ ju- bi-|lo,~||
+ e2 e3 e | e6 | z6 | B2 B2 B2 | G4 G2 | G2 d3 d | d4 z2 | z6 | e2 e3 e | %59
+w: in~ ju- bi-|lo.~||As- cen- dit~|De- us~|in~ ju- bi-|lo,~||in~ ju- bi-|
+[M:4/2] e2 c2 c3 c | c8 | z cAF c4 | GGcc e2 c2 | z c e2 d2 z d | BG d2 d2 z A- | %65
+w: lo,~ et~ Do- mi-|nus~|in~ vo- ce~ tu-|bae,~ in~ vo- ce~ tu- bae,~|in~ vo- ce,~ in~|vo- ce~ tu- bae,~ in~|
+ AFD d2 ^c/B/ c2 |[M:2/2] d4 |[M:4/2] Z2 | z2 d3 c B2 | ^c2 z2 z4 | z e2 d d2 dd- | %72
+w: * vo- ce~ tu- * * *|bae.~||Al- le- lu~|ja,~|al- le- lu- ja,~ al-|
+[M:2/2] d>A A2 | A4 |[M:4/2] z8 | z8 | z2 d3 c B2 | ^c2 z2 z4 | z e2 d d2 dd- |[M:2/2] d>A A2 | %80
+w: * le- lu-|ja,~|||Al- le- lu~|ja,~|al- le- lu- ja,~ al-|* le- lu-|
+[M:4/2] A2 d4 d2 | d2 d2 z2 _B2- | B2 _B2 B3 c | d4 A4- | A8 |] %86
+w: ja al- le-|lu- ja,~ al-|* le- lu- *|* ja!||
+V:3 clef=treble name="Ch.1 V.3\nTreble" octave=1
+%%MIDI program 71
+ F3 F | F D z A- | A/A/ A A2 |[M:3/2] z3 | B3/2 B/ B | z3 | B3/2 B/ c | c/F/>G/ A A/ | %8
+w: Om- nes~|gen- tes,~ om-|* nes~ gen- tes,~||plau- di- te,~||plau- di- te~|ma- * * * ni-|
+[M:4/2] A A/A/ F A | z A/A/ F/>G/A/c/ | c2 c z/ C/ | E D/ D D/^C/D/ |[M:2/2] E D | %13
+w: bus.~ Ju- bi- la- te,~|ju- bi- la- * * te~|De- o~ in~|vo- ce~ ex- ul- ta- ti-|o- nis!~|
+[M:4/2] z D2 G,- | G, G, z2 | Z3 |[M:2/2] z2 |[M:4/2] Z3 | z G G2 | %23
+w: Quo- ni-|* am~||||Sub- je-|
+ A F3/2 F/F/C/- | C/4D/4E/4F/4 G A2 | z A c A | z4 | A A A/A,/ A, | A,2 z2 | Z5 | %33
+w: cit~ po- pu- los~ no-|* * * * * bis~|et~ gen- tes~||sub~ pe- di- bus~ no-|stris.~||
+  z G G E | C2 C2 | z4 | z G C B, | C D E/A,/ A | ^F z2 D- | D/G/ G z G | G z z/ E E/ | %42
+w: E- le- git~|no- bis~||he- re- di-|ta- tem~ su- * *|am~ spe-|* ci- em~ Ja-|cob~ quam~ di-|
+ E E z/ A A,/ |[M:2/2] F3/4G/4 A |[M:3/2] A2 z | D D3/2 G/ | G C2 | z3 | D A z/ A/ | A2 z | %50
+w: le- xit,~ quam~ di-|le-  * *|xit.~|As- cen- dit~|De- us~||in~ ju- bi-|lo,~|
+ E E3/2 E/ | E3 | z3 | D D3/2 G/ | G C2 | z3 | D A3/2 A/ | A2 z | E E3/2 E/ | %59
+w: in~ ju- bi-|lo.~||As- cen- dit~|De- us~||in~ ju- bi-|lo,~|in~ ju- bi-|
+[M:4/2] E A2 c- | c A A2 | z z/ A/G/E/ G- | G E z/ G/G/F/ | G2 G2- | G2 z F | A A A2 | %66
+w: lo,~ et~ Do-|* mi- nus~|in~ vo- ce~ tu-|* bae~ in~ vo- ce~|tu- bae,|* in~|vo- ce~ tu-|
+[M:2/2] A2 |[M:4/2] Z2 | z D3/2 E/ E | E2 z2 | z D3/2 D/ D |[M:2/2] D z | z2 |[M:4/2] Z2 | %75
+w: bae.~||Al- le- lu~|ja,~|al- le- lu-|ja,~|||
+  z D3/2 E/ E | E2 z2 | z D3/2 D/ D |[M:2/2] D z |[M:4/2] z2 _B2 | _B B F2 | z G D2- | %83
+w: Al- le- lu~|ja,~|al- le- lu-|ja,~|al-|le- lu- ja,~|al- le-|
+ D A A>G | ^F4 |] %86
+w: * lu- ja!_ |_|
+V:4 clef=treble name="Ch.1 V.4\nTenor" octave=1
+%%MIDI program 71
+[L:1/4]
+ D6 D2 | D3 C/B,/ A,4- | A,4 A,4 |[M:3/2] z6 | D3 D D2 | z6 | G,3 G, G,E, | A,4 A,2 | %8
+w: Om- nes~|gen- * * *|* tes,~||plau- di- te,~||plau- di- te *|ma- ni-|
+[M:4/2] A,2 A,A, A,2 A,2 | z2 A,A, A,3 F, | C4 F,2 z F, | C2 G,2 D>DA,_B, | %12
+w: bus.~ Ju- bi- la- te,~|ju- bi- la- te~|De- o~ in~|vo- ce~ ex- sul- ta- ti-|
+[M:2/2] A,2 D,2 |[M:4/2] z2 G,4 G,2 | G,4 z4 | Z3 |[M:2/2] z4 |[M:4/2] Z3 | %22
+w: o- nis!~|Quo- ni-|am~|||
+ z2 G,2 C4 | F,2 F,3 F, C2 | C4 C4 | z2 C2 C2 C2 | z4 z2 D2 | D2 DD, E,4 | D,4 z4 | Z5 | %31
+w: Sub- je~|cit~ po- pu- los~|no- bis~|et~ gen- tes~|sub~|pe- di- bus~ no-|stris.~||
+  z2 G,2 G,2 G,2 | A,4 G,4 | z4 z2 C2 | F,2 E,2 F,2 G,2 | A,8 | D,4 z4 | %40
+w: E- le- git~|no- bis~|he-|re- di- ta- tem~|su-|am~|
+ G,3 G, A,2 G,2 | G,2 z E,2 E,C>D | EE, A,2 z2 z A,- |[M:2/2] A,D, A,2 |[M:3/2] D,4 z2 | %45
+w: spe- ci- em~ Ja-|cob~ quam~ di- le- *|* * xit~ quam~|* di- le-|xit.~|
+ G,2 B,2 D2 | C4 G,2 | G,2 G,A, B,G, | A,3 A, A,2 | A,2 A,B, CA, | B,4 B,2 | A,6 | z6 | %53
+w: As- cen- dit~|De- us~|in~ ju- * * *|* bi- lo,~|in~ ju- * * *|* bi-|lo,~||
+ G,2 B,2 D2 | C4 G,2 | G,2 G,A, B,G, | A,3 A, A,2 | A,2 A,B, CA, | B,4 B,2 | %59
+w: As- cen- dit~|De- us~|in~ ju- * * *|* bi- lo,~|in~ ju- * * *|* bi-|
+[M:4/2] A,2 C2 A,3 A, | A,2 C2 A,3 A, | A,4 z2 G,2 | G,3 G, G,4 | z2 z G,B,D G,/A,/B,/C/ | %64
+w: lo,~ et~ Do- mi-|nus,~ et~ Do- mi-|nus,~ et~|Do- mi- nus~|in~ vo- ce~ tu- * * *|
+ D2 D2 z D,F,A, | D,/E,/F,/G,/ A,3 E, A,2 |[M:2/2] A,4 |[M:4/2] Z2| z2 D,3 A, E,2 | %70
+w: * bae,~ in~ vo- ce~|tu- * * * * * *|bae.~||Al- le- lu-|
+ A,4 z4 | z G,2 B, D2 B,B,- |[M:2/2] B,A, A,2 | A,4 |[M:4/2] Z2 | z2 D,3 A, E,2 | A,4 z4 | %78
+w: ja,~|al- le- lu- ja,~ al-|* le- lu-|ja,~||Al- le- lu-|ja,~|
+ z G,2 B, D2 B,B,- |[M:2/2] B,A, A,2 |[M:4/2] A,4 D4- | D2 D2 D3 C | _B,2 G,2 D4 | D8-| %85
+w: al- le- lu- ja,~ al-|* le- lu-|ja,~ al-|* le- lu- ja,~|al- le- lu-|ja!|
+ D8 |] %86
+w:_ |
+V:5 clef=treble  name="Ch.2 V.1\nTreble" octave=1
+%%MIDI program 71
+ z4 | F3 F | E2 D2 |[M:3/2] z3 | G3/2 D/ D | z3 | D3/2 D/ E | A, A A |[M:4/2] A A/A/ A A | %9
+w: |Om- nes~|gen- tes,~||plau- di- te,~||plau- di- te~|ma- * ni-|bus.~ Ju- bi- la- te,~|
+ z A/A/ A F | G2 A2 | z4 |[M:2/2] z2 |[M:4/2] D3 G | G G2 G | G3/2 F/ E2 | E2 z A | %17
+w: ju- bi- la- te~|De- o!~|||Quo- ni-|am~ Do- mi-|nus~ ex- cel-|sus,~ ter-|
+ A3 A |[M:2/2] G3/2 A/ |[M:4/2] F2 E2 | ^F3/2 G/ E/A/ ^G | A2 z D | D2 E2 | z A3/2 A/ c | c2 c2 | %25
+w: ri- bi-|lis~ rex~|mag- nus~|su- per~ om- nem~ ter-|ram.~ Sub-|je- cit~|po- pu- los~|no- bis~|
+ z F E F | z2 z D- | D A A/A/ A | A z z2 |Z5 | %34
+w: et~ gen- tes~|sub|* pe~ di- bus~ no-|stris.||
+ z G G G | F2 G E | C E C C | Z3 | G3/2 G/ C G | G z z2 | z z/ A F/ E |[M:2/2] D z | %44
+w: E- le- git~|no- bis~ he-|re- di- ta- tem~||spe- ci- em~ Ja-|cob~|quam~ di- le-|xit.~|
+[M:3/2] ^F F F | G2 G | z G G- | G/G/ D2 | z A A- | A/A/ E2 | E E3/2 E/ | ^C2 z | D D A | G2 G | %54
+w: As- cen- dit~|De- us~|in~ ju-|* bi- lo,~|in~ ju-|* bi- lo,~|in~ ju- bi-|lo.~|As- cen- dit~|De- us~|
+ z G G- | G/G/ D2 | z A A- | A/A/ E2 | E E3/2 E/ |[M:4/2] ^C/>D/ E z A- | A F3/2 F/ F- | %61
+w: in~ ju-|* bi- lo,~|in~ ju-|* bi- lo,~|in~ ju- bi-|lo, * * et|* Do- mi- nus,|
+ F c2 G- | G/G/ G z2 | z/ G/E/C/ D2 | D2 z/ A/F/D/ | A3/2 G/4F/4 E/A,/ A |[M:2/2] A2 | %67
+w: * et~ Do-|* mi- nus~|in~ vo- ce~ tu-|bae,~ in~ vo- ce~|tu- * * * * *|bae.~|
+[M:4/2] z G3/2 G/ ^F | G2 z2 | z A3/2 A/ B | A A3/2 G/ G | G2 z z/ G/- |[M:2/2] G/A/ A | A2 | %74
+w: Al- le- lu-|ja,~|al- le- lu-|ja,~ al- le- lu-|ja,~ al-|* le- lu-|ja,~|
+[M:4/2] z G3/2 G/ ^F | G2 z2 | z A3/2 A/ B | A A3/2 G/ G | G2 z z/ G/- |[M:2/2] G/A/ A | %80
+w: Al- le- lu-|ja,~|al- le- lu-|ja,~ al- le- lu-|ja,~ al-|* le- lu-|
+[M:4/2] A2 F2 | F F3/2 E/ D | D D D D | D3/2 E/ ^F2- | F4 |] %86
+w: ja,~ al-|le- lu- * *|ja,~ al- le- lu-|ja! * *||
+V:6 clef=treble  name="Ch.2 V.2\nTreble" octave=1
+%%MIDI program 71
+ z4 | A,3 A, | A,3 D |[M:3/2] z3 | D3/2 G,/ D | z3 | B,3/2 B,/ G, | z A,3/2 A,/ | %8
+w: |Om- nes~|gen- tes,~||plau- di- te,~||plau- di- te~|ma- ni-|
+[M:4/2] A, E/E/ F E | z E/E/ F3/2 C/ | C2 C2 | z4 |[M:2/2] z2 |[M:4/2] B,3 D | E E2 D | %15
+w: bus.~ Ju- bi- la- te,~|ju- bi- la- te~|De- o!~|||Quo- ni-|am~ Do- mi-|
+ C A, C B, | A, ^C D2- | D D E2- |[M:2/2] E E |[M:4/2] D2 ^C2 | D3/2 D/ E/E/ E | E2 z A, | %22
+w: nus~ ex- cel- *|sus,~ ter- ri-|* bi- lis|* rex~|ma- gnus~|su- per~ om- nem~ ter-|ram.~ Sub-|
+ B,2 G,2 | z C3/2 C/ F- | F E F2 | z C E C | z G,2 D | D/D/A,/B,/ ^C/D/ E | ^F2 z2 | Z5 | %31
+w: je- cit~|po- los~ no-|* * bis~|et~ gen- tes~|sub~ pe-|di- bus~ no- * * * *|stris.~||
+  z D D C | C2 C C | C3/2 C/ A, C | Z3 | D3/2 E/ A, D | C z z2 | %42
+w: E- le- git~|no- bis~ he-|re- di- ta- tem~||spe- ci- em~ Ja-|cob~|
+ z z/ c A/ A |[M:2/2] A z |[M:3/2] D D D | D2 B, | E E3/2 C/ | D2 z | F F3/2 F/ | E2 z | %50
+w: quam~ di- le-|xit.~|As- cen- dit~|De- us~|in~ ju- bi-|lo,~|in~ ju- bi-|lo,~|
+ E B,3/2 E/ | E2 z | D A, D | D2 B, | E E3/2 C/ | D2 z | F F3/2 D/ | E2 z | E B,3/2 E/ | %59
+w: in~ ju- bi-|lo.~|As- cen- dit~|De- us~|in~ ju- bi-|lo,~|in~ ju- bi-|lo,~|in~ ju- bi-|
+[M:4/2] E2 z A, | C3/2 C/ C2 | z C C>C | C z/ C E/G/C/4D/4 | E/4F/4 G C/ z G | D D z F | %65
+w: lo,~ et~|Do- mi- nus,~|et~ Do-  mi-|nus~ in~ vo- ce~ tu- *|* * * bae,~ in~|vo- ce,~ in~|
+ D D/A,/>B,/^C/4D/4 E |[M:2/2] D2 |[M:4/2] z D3/2 E/ D | D2 z2 | z A,3/2 C/ E | E C3/2 E/ B, | %71
+w: vo- ce~ tu- * * * *|bae.~|Al- le- lu-|ja,~|al- le- lu-|ja,~ al- le- lu-|
+ E z z/ D/D/G,/ |[M:2/2] D z | z2 |[M:4/2] z D3/2 E/ D | D2 z2 | z A,3/2 C/ E | E C3/2 E/ B, | %78
+w: ja,~ al- le- lu-|ja,~||Al- le- lu-|ja,~|al- le- lu-|ja,~ al- le- lu-|
+ E z z/ D/D/G,/ |[M:2/2] D z |[M:4/2] z2 z D | D D3/2 C/ _B,- | B, _B, z2 | z D D3/2 A,/ | A,4|] %85
+w: ja,~ al- le- lu-|ja,~|al-|le~ lu- * *|* ja,~|al- le- lu-|ja!|
+V:7 clef=treble  name="Ch.2 V.3\nTenor" octave=1
+%%MIDI program 71
+ z4 | F,2 F,2 | z A,2 A, |[M:3/2] z3 | B,3/2 G,/ A, | z3 | G,3/2 G,/ G, | z3 | %8
+w: |Om- nes~|gen- tes,~||plau- di- te,~||plau- di- te~||
+[M:4/2] z A,/A,/ D ^C | z ^C/C/ D A, | C/G,/ C A,2 | z4 |[M:2/2] z2 | %13
+w: iu- bi- la- te,~|iu- bi- la- te~|De- * * o!~|||
+[M:4/2] G,3/2 A,/ B, G, | G,2 G,3/2 G,/ | E, A,/ A, ^G,/4^F,/4 G, | A,2 z D, | A,3/2 B,/ C C | %18
+w: Quo- * * ni-|am~ Do- mi-|nus~ ex- cel- * * *|sus,~ ter-|ri- * * bi-|
+[M:2/2] B, C |[M:4/2] A,2 A, A,- | A,/D,/ D/4C/4B,/4A,/4 G,/C/ B, | A,2 z D, | D,2 C,2 | %23
+w: lis~ rex~|ma- gnus~ su-|* per~ om- * * * * nem~ ter-|ram.~ Sub-|je- cit~|
+ z F,3/2 F,/ F, | E,/C,/ C C2 | z F, G, A, | z4 | A, A, A,/A,/ A, | A,2 z2 | Z5 | %33
+w: po- pu- los~|no- * * bis~|et~ gen- tes~||sub~ pe- di- bus~ no-|stris.~||
+  z G, G,3/2 C,/ | C,2 C, E, | F, E, A, E, | Z3 | B,3/2 C/ C G, | G, z z2 | %42
+w: E- le- git~|no- bis~ he-|re- di- ta- tem~||spe- ci- em~ Ja-|cob~|
+ z z/ E, D,/ E, |[M:2/2] F, z |[M:3/2] A, A, A, | B,2 B, | z2 G, | G,3/2 G,/ D, | z2 A, | %49
+w: quam~ di- le-|xit.~|As- cen- dit~|De- us~|in~|ju- bi- lo,~|in~|
+ A,3/2 A,/ E, | E, E, E, | E,2 z | A, A, A, | B,2 B, | z2 G, | G,3/2 G,/ D, | z2 A, | %57
+w: ju- bi- lo,~|in~ ju- bi-|lo.~|As- cen- dit~|De- us~|in~|ju- bi- lo,~|in~|
+ A,3/2 A,/ E, | E, E, E, |[M:4/2] E,2 z C | A,3/2 A,/ A,2 | z F, G,>G, | %62
+w: ju- bi- lo,~|in~ ju- bi-|lo,~ et~|Do- mi- nus,~|et~ Do-  mi|
+ G, z/ G,/E,/C,/ G,- | G, G, z G, | G, D, z D- | D/ A, A,/ A,2 |[M:2/2] A,2 | %67
+w: nus~ in~ vo- ce~ tu-|* bae,~ in~|vo~ ce,~ in|* vo- ce~ tu-|bae:~|
+[M:4/2] z B,3/2 C/ A, | G,2 z2 | z F,3/2 E,/ E, | E, A,3/2 E,/ G, | G,2 z2 | %72
+w: al- le- lu-|ia,~|al- le- lu-|ja,~ al- le- lu-|ja,~|
+[M:2/2] z/ A,/ A,/>G,/ | ^F,2 |[M:4/2] z B,3/2 C/ A, | G,2 z2 | z F,3/2 E,/ E, | E, A,3/2 E,/ G, | %78
+w: al- le- lu-|ja,~|al- le- lu-|ia,~|al- le- lu-|ja,~ al- le- lu-|
+ G,2 z2 |[M:2/2] z/ A,/ A,/>G,/ |[M:4/2] ^F, D D D- | D/C/ _B,2 F, | z G, G,3/2 D,/ | D,4- | %84
+w: ja,~|al- le- lu-|ja,~ al- le- lu-|* * * ja,~|al- le- lu-|ja!|
+ D,4 |] %86
+w: |
+V:8 clef=bass^8   name="Ch.2 V.4\nBass" octave=1
+%%MIDI program 71
+ z4 | D,3 D, | A,,2 D,2 |[M:3/2] z3 | G,3/2 G,/ D, | z3 | G,3/2 G,/ E, | F,2 A, | %8
+w: |Om- nes~|gen- tes,~||plau- di- te,~||plau- di- te~|ma- ni-|
+[M:4/2] A, A,/A,/ D, A, | z A,/A,/ D, F, | C,2 F,2 | z4 |[M:2/2] z2 |[M:4/2] G,3 G, | %14
+w: bus.~ Ju- bi- la- te,~|ju- bi- la- te~|De- o!~|||Quo- ni-|
+ E, C,2 B,, | C, D, E,2 | A,, A,, F,2- | F, F, E,2- |[M:2/2] E, C, |[M:4/2] D,2 A,,2 | %20
+w: am~ Do- mi-|nus~ ex- cel-|sus,~ ter- ri-|* bi- lis~|* rex~|ma- gnus~|
+ D,3/2 G,,/ C,/A,,/ E, | A,,2 z D, | B,,2 C,2 | z F,,3/2 F,,/ A,, | C,2 F,,2 | z F, C, F, | %26
+w: su- per~ om- nem~ ter-|ram.~ Sub-|je- cit~|po- pu- los~|no- bis~|et~ gen- tes~|
+ z z2 G,, | D, D,/D,/ A,,2 | D,2 z2 |Z5 | z G,, G,, C, | F,,2 C, C, | %36
+w: sub~|pe- di- bus~ no-|stris.~||E- le- git~|no- bis~ he-|
+ F,, C, F, C, | Z3| G,3/2 E,/ F, G, | C, z z2 | z z/ A,, D,/ A,, |[M:2/2] D, z | %44
+w: re- di- ta- tem~||spe- ci- em~ Ja-|cob~|quam~ di- le-|xit~|
+[M:3/2] D, D, D, | G,, G,, z | C, C,3/2 C,/ | G,,3 | D, D,3/2 D,/ | A,,3 | E, E,3/2 E,/ | %51
+w: As- cen- dit~|De- us~|in~ ju- bi-|lo,~|in~ ju- bi-|lo,~|in~ ju- bi-|
+ A,,2 z | D, D, D, | G,, G,, z | C, C,3/2 C,/ | G,,3 | D, D,3/2 D,/ | A,,3 | E, E,3/2 E,/ | %59
+w: lo,~|As- cen- dit~|De- us~|in~ ju- bi-|lo,~|in~ ju- bi-|lo,~|in~ iu- bi-|
+[M:4/2] A,,2 A,2 | F,3/2 F,/ F,2 | z2 E, C,- | C,/C,/ C, z/ C,/E,/G,/ | %63
+w: lo,~ et~|Do- mi- nus,~|et~ Do-|* mi- nus~ in~ vo- ce~|
+ C,/4D,/4E,/4F,/4 G, G, z/ G,,/ | B,,/D,/ G,,/4A,,/4B,,/4C,/4 D, D, | z/ A,/F,/D,/ A, A,, | %66
+w: tu- * * * * bae,~ in~|vo- ce~ tu- * * * * bae,~|in~ vo- ce~ tu- bae.~|
+[M:2/2] z2 |[M:4/2] z G,,3/2 C,/ D, | G,,2 z2 | z D,3/2 A,,/ E, | A,, F, C,/G,/>F,/D,/ | %71
+w: |Al- le- lu-|ja,~|al- le- lu-|ja,~ al- * * le- lu-|
+ E, z2 G, |[M:2/2] D,/ A, A,,/ | D,2 |[M:4/2] z G,,3/2 C,/ D, | G,,2 z2 | z D,3/2 A,,/ E, | %77
+w: ja,~ al-|le- lu- *|ja,~|Al- le- lu-|ja,~|al- le- lu-|
+ A,, F, C,/G,/>F,/D,/ | E, z2 G, |[M:2/2] D,/ A, A,,/ |[M:4/2] D,2 z2 | _B,,3 B,, | %82
+w: ja,~ al- * * le- lu-|ja,~ al-|le- lu- *|ja,~|al- le-|
+ _B,,3/2 A,,/ G,,2 | D,4- | D,4 |] %86
+w: lu- * *|ja!||
+V:9 clef=treble^8  name="Ch.3 V.1\nDescant" octave=1
+%%MIDI program 71
+[L:1/4]
+ z8 | d6 A2 | A4 A4 |[M:3/2] B3 B A2 | z6 | B3 B A2 | B3 G G2 | z2 A2 A2 |[M:4/2] A4 z2 AA | %9
+w: |Om- nes~|gen- tes,~|plau- di- te,~||plau- di- te,~|plau- di- te~|ma- ni-|bus.~ Ju- bi-|
+ A2 A2 z4 | Z2 |[M:2/2] z4 |[M:4/2] d6 d2 | c4 z4 | Z3 |[M:2/2] z4 | %19
+w: la- te!~|||Quo- ni-|am~||
+[M:4/2] z8 | z4 z2 e2 | ^c4 d2 d2 | d3 G G4 | z2 F3 AAc- | cB/A/Gc c2 A2 | G2 F2 z4 | %26
+w: |Sub-|je- cit,~ sub-|je- * cit~|po- pu- los~ no-|* * * * * bis~ et~|gen- tes~|
+ z2 c2 B2 BB | A2 d4 ^c2 | d4 z4 | Z3 | z4 z2 A2 | A2 B2 c4 | B2 B2 B2 c2 | c4 c2 G2 | %36
+w: sub~ pe- di- bus~|no- * *|stris.~||E-|le- git~ no-|bis,~ e- le- git~|no- bis~ he-|
+ A2 G2 F2 E2 | Z4 | z e2 c B2 A2 | z8 |[M:2/2] z4 |[M:3/2] A2 A2 d2 | B4 B2 | %46
+w: re- di- ta- tem~||quam~ di- le- xit.~|||As- cen- dit~|De- us~|
+ c2 cB/A/ GA | B3 B B2 | d2 dc/B/ AB | c3 c c2 | B2 B3 B | A6 | A2 A2 d2 | B4 B2 | %54
+w: in~ ju- * * * *|* bi- lo,~|in ju- * * * *|* bi- lo,~|in~ ju-  bi-|lo.~ |As- cen- dit~|De- us~|
+ c2 cB/A/ GA | B3 B B2 | d2 dc/B/ AB | c3 c c2 | B2 B3 B |[M:4/2] ^c2 z4 A2 | A3 A A3 c | %61
+w: in~ ju- * * * *|* bi- lo,~|in~ ju- * * * *|* bi- lo,~|in~ ju- bi-|lo,~ et~|Do- mi- nus~ in~|
+ AF c4 GG | cc e4 E2 | z Gcc B4- | B4 A2 A2 | D3 A A4 |[M:2/2] A4 |[M:4/2] z8 | z2 d3 d ^c2 | %69
+w: vo- ce~ tu- bae,~ in~|vo- ce~ tu- bae,~|in~ vo- ce~ tu-|* bae,~ in~|vo- ce~ tu-|bae.~||Al- le- lu-|
+ d4 z4 | z2 c3 c B2 | c c2 B A2 Gd- |[M:2/2] dd ^c2 | d4 |[M:4/2] z8 | z2 d3 d ^c2 | d4 z4 | %77
+w: ja,~|al- le- lu-|ja,~ al- le- lu~ ja,~ al-|* le- lu-|ja,~||Al- le- lu-|ja,~|
+ z2 c3 c B2 | c c2 B A2 Gd- |[M:2/2] dd ^c2 |[M:4/2] d8 | z2 _B4 B2 | _B3 c d4 | d8- |  d8 |] %86
+w: al- le- lu-|ja,~ al- le- lu~ ja,~ al-|* le- lu-|ja,~|al- le-|lu- * *|ja.||
+V:10 clef=treble   name="Ch.3 V.2\nTreble" octave=1
+%%MIDI program 71
+[L:1/4]
+ z8 | D3 A, A,4 | A,4 z4 |[M:3/2] D3 D D2 | z6 | D3 D D2 | B,3 B, C2 | C4 D2 |[M:4/2] E4 z2 EE | %9
+w: |Om nes~ gen|tes,~|plau di te,~||plau di te,~|plau di te~|ma ni|bus.~ Ju- bi-|
+ D2 E2 z4 | Z2 |[M:2/2] z4 |[M:4/2] D6 B,2 | E4 z4 | Z3 |[M:2/2] z4 | %19
+w: la- te!~|||Quo- ni-|am~|||
+[M:4/2] z8 | z4 z2 E2 | E4 D2 D2 | D3 B, E4 | z2 A,3 C C2 | C4 C3 A, | C2 A,2 z4 | z2 E2 G3 D | %27
+w: |Sub-|je- cit,~ sub-|je- * cit~|po- pu- los~|no- bis~ et~|gen- tes~|sub~ pe- di-|
+ D4 z2 A2- | A2 A,2 z4 | Z3| z4 z2 A,2 | A,2 D2 E4 | D4 z2 C2 | C2 A,2 C4 | C4 z4 | %37
+w: bus~ no-|* stris.~||E-|le- git~ no-|bis,~ e-|le- git~ no-|bis~|
+ Z4 | z E2 A ^G2 A2 | z8 |[M:2/2] z4 |[M:3/2] D2 A,3 D | D4 G,2 | G2 G3 G | %47
+w: |quam~ di- le- xit.~|||As- cen- dit~|De- us~|in~ ju- bi-|
+ G4 D2 | D3 D G2- | G2 z2 E2 | E4 E2 | E4 z2 | A,2 A,3 D | D4 G,2 | G2 G3 G | G2 z2 D2 | %56
+w: lo,~ in~|ju- bi- lo,~|* in~|ju- bi-|lo.~|As- cen- dit~|De- us~|in~ ju- bi-|lo,~ in~|
+ D3 D G2- | G2 z2 E2 | E4 E2 |[M:4/2] E2 E2 F3 F | F4 C2 F2- | FFFC EG C/D/E/F/ | G4 E4- | %63
+w: ju- bi- lo,|* in~|ju- bi-|lo,~ et~ Do- mi-|nus,~ et~ Do-|* mi- nus~ in~ vo- ce~ tu- * * *|* bae,|
+ E4 z2 D2- | D B,2 G, A,2 A,2 | z2 A,2 A,A A2- |[M:2/2] A2 D2 |[M:4/2] z8 | z2 D3 D E2 | %69
+w: * in|* vo- ce~ tu- bae,~|in~ vo- ce~ tu-|* bae.~||Al- le- lu-|
+ ^F>G A2 z4 | z2 C2 C>G G2 | G2 z D DA,B,>C |[M:2/2] D2 z2 | z4 |[M:4/2] z8 | z2 D3 D E2 | %76
+w: ja, * *|al- le- * lu-|ja,~ al- le- lu- ja, *||||Al- le- lu-|
+ ^F>G A2 z4 | z2 C2 C>G G2 | G2 z D DA,B,>C |[M:2/2] D2 z2 |[M:4/2] z2 F2 F2 F2- | FE D4 D2 | %82
+w: ja, * *|al- le- * lu-|ja,~ al- le- lu- ja, *||al- le- lu-|* * * ja,~|
+ z2 D3 D C2 | D8- |  D8 |] %86
+w: al- le- lu-|ja!||
+V:11 clef=treble   name="Ch.3 V.3\nTenor" octave=1
+%%MIDI program 71
+[L:1/4]
+ z8 | D,4 D,2 A,2- | A,G,/F,/ E,2 ^F,4 |[M:3/2] G,3 D, D,2 | z6 | G,3 D, D,2 | D3 G, G,2 | %7
+w: |Om- nes~ gen-|* * * * tes,~|plau- di- te,~||plau- di- te,~|plau- di- te~|
+ z2 C2 F,2 |[M:4/2] A,4 z2 A,A, | A,2 A,2 z4 | Z2 |[M:2/2] z4 |[M:4/2] B,6 B,2 | %14
+w: ma- ni-|bus:~ ju- bi-|la- te!~|||Quo- ni-|
+ C4 z4 | Z3 |[M:2/2] z4 |[M:4/2] z8 | z4 z2 E,2- | E,2 A,4 D,2 | D,2 G,4 C,2 | %23
+w: am~||||Sub-|* je- cit,~|sub- je- cit~|
+ z2 F,3 F, C,2 | C,4 C,2 C2 | C2 C2 z4 | z2 G,2 G,2 G,G, | A,8 | A,4 z4 | Z3 | %32
+w: po- pu- los~|no- bis~ et~|gen- tes~|sub~ pe- di- bus~|no-|stris.~||
+ z4 z2 E,2 | ^F,2 F,2 G,4 | G,2 G,2 G,3 E, | A,4 E,2 G,2 | F,2 C2 C2 C2 | Z3 | %40
+w: E-|le- git~ no-|bis,~ e- le- git~|no- bis~ he-|re- di- ta- tem~||
+ z4 z2 z G,- | G,E,C>D EE, A,2 | z8 |[M:2/2] z4 |[M:3/2] D,2 ^F,2 A,2 | G,4 G,2 | G,2 G,3 G, | %47
+w: quam|* di- le- * * * xit~|||As- cen- dit~|De- us~|in~ ju- bi-|
+ G,4 z2 | F,2 F,3 F, | E,6 | E,2 E,3 E, | E,4 z2 | D,2 ^F,2 A,2 | G,4 G,2 | G,2 G,3 G, | G,4 z2 | %56
+w: lo,~|in~ ju- bi-|lo,~|in~ ju- bi-|lo.~|As- cen- dit~|De- us~|in~ ju- bi-|lo,~|
+ F,2 F,3 F, | E,6 | E,2 E,3 E, |[M:4/2] E,2 A,2 A,3 A, | A,2 F,4 C2- | CC C2 z2 G,2 | %62
+w: in~ ju- bi-|lo,~|in~ ju- bi-|lo,~ Et~ Do- mi-|nus,~ et~ Do-|* mi- nus,~ et~|
+ G,3 G, G,4 | z4 z G,B,D | G,/A,/B,/C/ D2 D2 z D, | F,A, D,/E,/F,/G,/ A,4 |[M:2/2] A,4 | %67
+w: Do- mi- nus~|in~ vo- ce~|tu- * * * * bae,~ in~|vo- ce~ tu- * * * *|bae.~|
+[M:4/2] z8 | z2 G,3 A, A,2 | A,4 z4 | z2 F,3 G, G,2 | G,4 z2 z D,- |[M:2/2] D,D, E,2 | ^F,4 | %74
+w: |Al- le- lu-|ja,~|al- * lu-|ja,~ al-|* le- lu-|ja,~|
+[M:4/2] z8 | z2 G,3 A, A,2 | A,4 z4 | z2 F,3 G, G,2 | G,4 z2 z D,- |[M:2/2] D,D, E,2 | %80
+w: |Al- le- lu-|ja,~|al- * lu-|ja,~ al-|* le- lu|
+[M:4/2] ^F,>G, A,2 z4 | D6 D2 | D3 C _B,4 | A,8- |  A,8 |] %86
+w: ja, * *|al- le-|lu- * *|ja!||
+V:12 clef=bass^8  name="Ch.3 V.4\nGt bass" octave=1
+%%MIDI program 71
+ z4 | D,3 D, | A,,2 D,2 |[M:3/2] G,,>G,, D, | z3 | G,,>G,, D, | %6
+w: |Om- nes~|gen- tes,~|plau- di- te~||plau- di- te,~|
+ G,,>G,, C, | F,,2 D, |[M:4/2] A,,2 z A,,/A,,/ | D, A,, z2 | Z2 |[M:2/2] z2 | %13
+w: plau- di- te~|ma- ni-|bus.~ Ju- bi-|la- te!~|||
+[M:4/2] G,,3 G,, | C,2 z2 | Z3 |[M:2/2] z2 |[M:4/2] z4 | z2 z E,, | A,,2 D, D, | %22
+w: Quo- ni-|am~||||Sub-|je- cit,~ sub-|
+ G,,2 C,2 | z F,,>F,, F,, | C,2 F,, F,, | C, F,, z2 | z C, G,, G,,/G,,/ | D,2 A,,2 | %28
+w: je- cit~|po- pu- los~|no- bis~ et~|gen- tes~|sub~ pe- di- bus~|no- *|
+ D,2 z2 | Z3 | z2 z A,, | D, D, C,2 | G,, G,, G,, C, | F,,2 C, C, | F,, E,, F,, C, | %37
+w: stris.~||E-|le- git~ no-|bis,~ e- le- git~|no- bis~ he-|re- di- ta- tem~|
+ Z4| z/ C, A,,/ E, A,, | z4 |[M:2/2] z2 |[M:3/2] D, D, D, | G,,2 G,, | %46
+w: |quam~ di- le- xit.~|||As- cen- dit~|De- us~|
+ C, C,>C,     | G,,3 | D, D,>D, | A,,3 | E,, E,,>E,, | A,,3 | %52
+w: in~ ju- bi-|lo,~ |in~ ju- bi-|lo,~  |in~ ju- bi-|lo.~ |
+ D, D, D,     | G,,2 G,, | C, C,>C, | G,,3 | D, D,>D, | A,,3 | %58
+w: As- cen- dit~|De- us~    |in~ ju- bi-|lo,~ |in~ ju- bi-|lo,~ |
+ E,, E,,>E,, |[M:4/2] A,, A,, F,>F, | F, F,, F,>F, | F,2 z E, | %62
+w: in~ ju- bi-|lo,~ et~ Do- mi-     |nus,~ et~ Do- mi-|nus,~ et~|
+ C,>C, C, z/ C,/ | E,/G,/ C,/4D,/4E,/4F,/4 G,2 | G,,2 z D, | D, D, A,,2 |[M:2/2] D,2 | %67
+w: Do- mi- nus~ in~|vo- ce~ tu- * * * *|bae,~ in~|vo- ce~ tu-|bae.~|
+[M:4/2] z4 | z G,,>D, A,, | D,2 z2 | z F,,>C, G,, | C,/ C, G,,/ D, G,,/G,,/- | %72
+w:         |Al- le- lu-   |ja,~    |al-  le- lu-  |ja,~ al- le- lu- ja,~ al-|
+[M:2/2] G,,/D,/ A,, | D,2 |[M:4/2] z4 | z G,,>D, A,, | D,2 z2 | z F,,>C, G,, | %78
+w: * le- lu-          |ja,~|            |Al- le- lu-   |ja,~    |al- le- lu-|
+ C,/ C, G,,/ D, G,,/G,,/- |[M:2/2] G,,/D,/ A,, |[M:4/2] D,2 _B,,2- | B,, _B,, B,,>A,, | %82
+w: ja,~ al- le- lu- ja,~ al-|* le- lu-|ja,~ al-|* le- lu-  *|
+ G,,4 | D,4- |  D,4 |] %86
+w: |ja!||
+V:13 clef=treble  name="Ch.4 V.1\nTreble" octave=1
+%%MIDI program 71
+ z2 D2- | D D A2- | A2 A2 |[M:3/2] G>G F | z3 | G>G ^F | G>G G | A2 A | %8
+w: Om-|* nes~ gen\-|* tes,~|plau- di- te,~||plau- di- te,~|plau- di- te~|ma- ni-|
+[M:4/2] A2 z E/E/ | F E z2 | Z2 |[M:2/2] z2 |[M:4/2] G3 G | G2 z2 | %15
+w: bus.~ Ju- bi-|la- te!~||                                |Quo- ni-|am |
+ Z3 |[M:2/2] z2 |[M:4/2] Z2 | %21
+w: |    |    |
+ z A ^F2         | G2 z2 | z F>F F    | G C z F    | E F z F      | E E/E/ D>E | F/G/ A2 A | z D D E | %29
+w:  Sub- je-|cit~   |po- pu- los~|no- bis~ et~|gen- tes~ sub~|pe- di- bus~ no * |* * * stris.~|E le git~|
+ F2 E2- | E2 z G | A G F E- | E D2 ^C | D2 z2 | Z2 | z G A G | F G z2 | z4 | ^F>G G F | %40
+w: no- bis|* he-|re- di~ ta- tem|* su- *|am~||he- re- di-|ta- tem~|        |spe-  ci- em~ Ja-|
+ G2 z2 | z4 | z/ E C/ F3/4G/4 A |[M:2/2] A z |[M:3/2] z3 | D D D | E2 E | D D>D | %48
+w: cob~|    |quam~ di- le-  * *|xit.~||As- cen- dit~|De- us~|in~ iu- bi-|
+ D3     | E E>E    | E2 z | E E A       | ^F2 F | G D D       | E2 E | D D>D | D3 | E E>E | %58
+w: lo,~ |in~ ju- bi|lo.~  |As- cen- dit~|De us,~|as- cen- dit~|De- us~|in~ ju- bi-|lo,~ |in~ ju- bi-|
+ E2 z |[M:4/2] E2 A>A | A2 F A- | A/A/ A z z/ G/ | E/C/ G2 C/G/ | E/C/ G2 D | %64
+w: lo,~|et~ Do- mi-|nus,~ et~ Do-|* mi- nus~ in~|vo- ce~ tu- bae,~ in~|vo- ce~ tu- bae,~|
+ z z/ G/ F/D/ A- | A A, A2 |[M:2/2] ^F2 |[M:4/2] z4 | z G>F E | D2 z2 | z F>E D | %71
+w: in~ vo- ce~ tu-||bae.~||Al- le- lu-|ia,~|al- le- lu-|
+ C/ G G/ A G/D/- |[M:2/2] D/F/ A | A2 |[M:4/2] z4 | z G>F E | D2 z2 | z F>E D | %78
+w: ja,~ al- le- lu- ja,~ al-|* le- lu-|ja,~||Al-  le- lu-|ia,~|al- le- lu-|
+ C/ G G/ A G/D/- |[M:2/2] D/F/ A |[M:4/2] A2 z2 | F3 F | G4 | A4- |  A4 |] %86
+w: ja,~ al- le- lu- ja,~ al-|* le- lu-|ja,~|al- le-|lu-|ja!||
+V:14 clef=treble   name="Ch.4 V.2\nTenor" octave=1
+%%MIDI program 71
+ z2 A,2- | A, A, A,3/2 B,/ | ^C/D/E/A,/ A,2 |[M:3/2] G,3/2 G,/ A, | z3 | B,3/2 B,/ D | %6
+w: Om-|* nes~ gen- *|* * * * tes,~|plau- di- te,~||plau- di- te,~|
+ D3/2 D/ C | z A, A, |[M:4/2] A,2 z ^C/C/ | D ^C z2 | Z2 |[M:2/2] z2 | %13
+w: plau- di- te~|ma- ni-|bus.~ Ju- bi-|la- te!~|||
+[M:4/2] G,3/2 F,/4E,/4 D,3/2 G,/ | G,2 z2 | Z3 |[M:2/2] z2 |[M:4/2] Z2 | %21
+w: Quo- * * * ni-|am~||||
+ z A,2 D- | D/D/ B, z2 | z C3/2 C/ C | C2 C F, | G, A, z C | C C/C/ D2- | D A, A,2 | z A, B, B, | %29
+w: Sub- je-|* * cit~|po- pu- los~|no- bis~ et~|gen- tes~ sub~|pe- di- bus~ no-|* * stris.~|E- le- git~|
+ C2 C2 | z G, A, G, | F, C,/G,/ A, G, | F, F, E,2 | D,2 z2 | Z2 | z C C3/2 B,/ | A, G, z2 | %38
+w: no- bis~|he- re- di-|ta- tem,~ he- re- di-|ta- tem~ su-|am~||he- re- di-|ta- tem~|
+ z4 | D3/2 D/ E D | D z z2 | z4 | z z/ A, D/ ^C |[M:2/2] D z |[M:3/2] z3 | B, B, B, | E,2 E, | %47
+w: |spe- ci- em~ Ja-|cob~||quam~ di- le-|xit.~||As- cen- dit~|De- us~|
+ z3 | F, F,3/2 F,/ | C3 | z3 | A, ^C E | D2 D | B, B, B, | E,2 E, | z3 | F, F,3/2 F,/ | %57
+w: |in~ ju- bi-|lo.~||As- cen- dit~|De- us,~|as- cen- dit~|De- us~||in~ ju- bi-|
+ C3 | z3 |[M:4/2] z C2 A,- | A,/A,/ A, C A,- | A,/A,/ A, z z/ C,/ | %62
+w: lo,~||et~ Do-|* mi- nus,~ et~ Do-|* mi- nus~ in~|
+ E,/G,/ C,/4D,/4E,/4F,/4 G, G, | z G, D,2- | D, D, F, D,- | D,/A,/ A,>A, A, |[M:2/2] A,2 | %67
+w: vo- ce~ tu- * * * * bae,~|in~ vo-|* ce~ tu~ bae,~|* in~ vo-  ce~ tu-|bae.~|
+[M:4/2] z4 | z B,3/2 A,/ A, | A,2 z2 | z A, C/>G,/ G, | G,/E,/G,/>D,/ D, D | %72
+w: |Al- le- lu-|ja,~|al- le- * lu-|ja,~ al- le- * lu- ja,~|
+[M:2/2] z/ A,/>E,/A,/ | ^F,2 |[M:4/2] z4 | z B,3/2 A,/ A, | A,2 z2 | z A, C/>G,/ G, | %78
+w: al- le- lu-|ja,~||Al- le- lu-|ja,~|al- le- * lu-|
+ G,/E,/G,/>D,/ D, D |[M:2/2] z/ A,/>E,/A,/ |[M:4/2] ^F,2 z D,- | D, D, D,2 | D2 z D- | D D, D,2 | %84
+w: ja,~ al- le- * lu- ja,~|al- le- lu-|ja,~ al-|* le- lu-|ja,~ al-|* le- lu-|
+ A,4 |] %86
+w: ja!~|
+V:15 clef=bass^8   name="Ch.4 V.3\nBass" octave=1
+%%MIDI program 71
+ z2 F,2- | F, F, F,3/2 E,/4D,/4 | E,/A,,/ A,2 D, |[M:3/2] D,3/2 D,/ D, | z3 | D,3/2 D,/ D, | %6
+w: Om-|* nes~ gen- * *|* * * tes,~|plau- di- te,~||plau- di- te,~|
+ D,3/2 G,/ G, | z F,3/2 A,/ |[M:4/2] A,2 z A,/A,/ | F, A, z2 | Z2 |[M:2/2] z2 | %13
+w: plau- di- te~|ma- ni-|bus.~ Ju- bi-|la- te!~|||
+[M:4/2] D,2 G,,2 | G,2 z2 | Z3 |[M:2/2] z2 |[M:4/2] Z2 | z E, ^F, A, | G,2 z2 | %23
+w: Quo- ni-|am~||||Sub- je- *|cit~|
+ z C,3/2 C,/ C, | C,2 C, C, | C, C, z F, | G, G,/G,/ G, D, | D,2 z2 | z ^F, G, G, | A,2 G, G, | %30
+w: po- pu- los~|no- bis~ et~|gen- tes~ sub~|pe- di- bus~ no- *|stris.~|E- le- git~|no- bis~ he-|
+ A, G, F, E, | z G, C, B,, | C, D, E,/A,,/ A, | ^F,2 z2 | Z2 | z C3/2 C, C,/ | C, C, z2 | %38
+w: re- di- ta- tem,~|he- re- di-|ta- tem~ su- * *|am~||he- re- di-|ta- tem~|
+ z2 z A,- | A, D C A, | B, z z2 | z4 | z z/ A, A,/ A, |[M:2/2] A, z |[M:3/2] z3 | G, G, G, | %46
+w: spe-|* ci- em~ Ja-|cob~||quam~ di- le-|xit.~||As- cen- dit~|
+ G,2 G, | G, G,3/2 D,/ | D, z A, | A,3/2 E,/ E, | z3 | E, A, A, | A,2 A, | G, G, G, | G,2 G, | %55
+w: De- us~|in~ ju- bi-|lo,~ in~|ju- bi- lo.~||As- cen- dit~|De- us,~|as- cen- dit~|De- us~|
+ G, G,3/2 D,/ | D, z A, | A,3/2 E,/ E, | z3 |[M:4/2] z C, C,3/2 C,/ | C, C, C,3/2 C,/ | %61
+w: in~ ju- bi-|lo,~ in~|ju- bi- lo,~||et~ Do- mi-|nus,~ et~ Do- mi-|
+ C,2 z/ C,/E,/G,/ | C,/4D,/4E,/4F,/4 G,3/2 C,/ C, | z2 z G,- | G,/ D, D,/ D, D, | z2 A,3/2 A,,/ | %66
+w: nus~ in~ vo- ce~|tu- * * * * * bae,~|in|* vo- ce~ tu- bae,~|tu- *|
+[M:2/2] A,,2 |[M:4/2] z4 | z D,3/2 F,/ A,- | A, D, z2 | z2 z/ G,/>A,/B,/ | G, z/ D, D,/ D, | %72
+w: bae.~||Al- le- lu-|* ja,~|al- le- lu-|ja,~ al- le- lu-|
+[M:2/2] D, z | z2 |[M:4/2] z4 | z D,3/2 F,/ A,- | A, D, z2 | z2 z/ G,/>A,/B,/ | G, z/ D, D,/ D, | %79
+w: ja,~|||Al- le- lu-|* ja,~|al- le- lu-|ja,~ al- le- lu-|
+[M:2/2] D, z |[M:4/2] z2 F,2- | F, F, F, D, | G, D, D,2 | D,3/2 E,/ ^F,2- |  F,4 |] %86
+w: ja,~|al-|* le- lu- ja,~|al- le- lu-|ja! * *||
+V:16 clef=bass^8   name="Ch.4 V.4\nGt bass" octave=1
+%%MIDI program 71
+ z2 D,2- | D, D, D,/E,/F,/G,/ | A, A,, z2 |[M:3/2] G,,3/2 G,,/ D, | z3 | G,,3/2 G,,/ D, | %6
+w: Om-   |* nes~ gen- * * *   |* tes~     |plau- di- te,~          |     |plau- di- te,|
+ G,,3/2 G,,/ C, | A,,2 D, |[M:4/2] A,,2 z A,,/A,,/ | D, A,, z2 | Z2 |[M:2/2] z2 | %13
+w:plau- di- te |  ma- ni- |bus.           Ju- bi-  |la- te!    |||
+[M:4/2] G,,3 G,, | C,2 z2 | Z3 |[M:2/2] z2 |[M:4/2] Z2 | z A,, D,2 | G,,2 z2 | %23
+w: Quo- ni-|am~||||Sub- je-|cit~|
+ z F,,3/2 F,,/ F,, | C,2 A,, F,, | C, F,, z F,, | C, C,/C,/ G,,/A,,/B,,/C,/ | %27
+w: po- pu- los~|no- bis~ et~|gen- tes~ sub~|pe- di- bus~ no- * * *|
+ D,/E,/F,/G,/ A, A,, | z D, G,, G,, | F,,2 C,2- | C,2 z C, | F,, E,, F,, G,, | A,,4 | D,2 z2 | %34
+w: * * * * * stris.~|E- le- git~|no- bis|* he-|re- di- ta- tem~|su-|am~|
+ Z2 | z C, F,, E,, | F,, C, z2 | z4 | D,3/2 B,,/ C, D, | G,, z z2 | z4 | z z/ A,, D,/ A,, | %43
+w: |he- re- di-|ta- tem~||spe- ci- em~ Ja-|cob~||quam~ di- le-|
+[M:2/2] D, z |[M:3/2] z3 | G,, G,, G,, | C,2 C, | B,, G,,3/2 G,,/ | D,2 z | A,, A,,3/2 A,,/ | %50
+w: xit.~||As- cen- dit~|De- us~|in~ ju- bi-|lo,~|in~ ju- bi-|
+ E,2 z | A,, A,, A,, | D, D, z | G,, G,, G,, | C,2 C, | B,, G,,3/2 G,,/ | D,2 z | %57
+w: lo.~|As- cen- dit~|De- us,~|as- cen- dit~|De- us~|in~ ju- bi-|lo,~|
+ A,, A,,3/2 A,,/ | E,3 |[M:4/2] z A,, F,,3/2 F,,/ | F,, F,, F,,3/2 F,,/ | F,, F,, C,3/2 C,/ | %62
+w: in~ ju- bi-|lo,~|et~ Do- mi-|nus,~ et~ Do- mi-|nus,~ et~ Do- mi-|
+ C, C, C,3/2 C,/ | C, C, G,,2- | G,,2 D,2 | D, D, A,,2 |[M:2/2] D,,2 |[M:4/2] z4 | %68
+w: nus,~ et~ Do- mi-|nus~ in~ vo-|* ce,~|vo- ce~ tu-|bae.~||
+ z G,,3/2 D,/ A,, | D,2 z2 | z F,,/>G,,/ A,,/C,/ G,, | C,/C,/C,/G,,/ D, G,,/>A,,/ | %72
+w: Al- le- lu-|ja,~|al- * * le- lu-|ja,~ al- le- lu- ja,~ al- *|
+[M:2/2] B,,/D,/ A,,- | A,, D, |[M:4/2] z4 | z G,,3/2 D,/ A,, | D,2 z2 | z F,,/>G,,/ A,,/C,/ G,, | %78
+w: * le- lu-|* ja,~||Al- le- lu-|ja,~|al- * * le- lu-|
+ C,/C,/C,/G,,/ D, G,,/>A,,/   |[M:2/2] B,,/D,/ A,, |[M:4/2] A,, D,2 D, | D,3/2 C,/ _B,, B,, | %82
+w: ja,~ al- le- lu- ja,~ al- *|* le- lu-            |ja, al- le-|lu- * * ja,~|
+ z G,, G,, D, | D,4- |  D,4 |] %86
+w: al le lu|ja!||
+

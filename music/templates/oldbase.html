@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+{% load staticfiles %}
+<html>
+<head>
+<style type="text/css">
+.bod {
+	padding: 0px;
+	border: 0px;
+	margin : 0px;
+	outline : 0;
+	}
+.bgnd {
+    background-image: url("/static/parch-dk.jpg");
+	padding: 0px;
+	border: 0px;
+	margin : 0px;
+	outline : 0;
+    }
+.main {
+    clear:both;
+    width:100%;
+	padding: 0px;
+	border: 0px;
+	margin : 0px;
+	outline : 0;
+}
+.menu {
+    background-image: url(/static/parch-dk.jpg);
+    float:left;
+    clear:left;
+    padding:10px;
+    width:18%;
+    border:0;
+    color: blue;   
+
+}
+.content {
+	border=0;
+    background-image: url(/static/parchmnt.jpg);
+    clear:right;
+    padding:10px;
+    overflow-x:auto;
+}
+</style>
+
+<meta charset="UTF-8">
+<title>{% block title %}Music for viols and recorders{% endblock %}</title>
+
+</head>
+<body class="bodd">
+
+{% block content %}
+{% endblock %}
+<center>
+<a href='/index.html'>Home page</a><br>
+<a href='/allpieces.html'>Full index of pieces by composer</a> |
+<a href='/recorderpieces.html'>Recorder pieces by composer</a> |
+<a href='/violpieces.html'>Viol pieces by composer</a><br>
+Recorder pieces in
+<a href='/recorderpieces_2.html'>two</a>,
+<a href='/recorderpieces_3.html'>three</a>,
+<a href='/recorderpieces_4.html'>four</a>,
+<a href='/recorderpieces_5.html'>five</a>,
+<a href='/recorderpieces_6.html'>six</a>,
+<a href='/recorderpieces_16.html'>sixteen</a>
+parts<br>
+Viol pieces in
+<a href='/violpieces_2.html'>two</a>,
+<a href='/violpieces_3.html'>three</a>,
+<a href='/violpieces_4.html'>four</a>,
+<a href='/violpieces_5.html'>five</a>,
+<a href='/violpieces_6.html'>six</a> parts
+</center>
+</div>
+</body>
+</html>
+
+

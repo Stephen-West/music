@@ -1,0 +1,48 @@
+%abc-2.1
+%
+% Original edition transcribed and edited by Albert Folop: 
+% http://imslp.org/wiki/Category:Folop_Viol_Music_Collection
+% That edition released under Creative Commons Attribution-NonCommercial-ShareAlike 3.0 licence
+% (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+% This edition converted to abc by Steve West and also released under 
+% Creative Commons Attribution-NonCommercial-ShareAlike 3.0 licence
+% (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+%%measurenb 0
+%%squarebreve
+%%stretchlast 1
+
+X:1
+T:"The Broken Consort"
+T:Set 1 - Saraband
+C:Matthew Locke
+C:VdGS# 4
+L:1/4
+%%score [ 1 2 3 ]
+%%linebreak
+M:3/4
+K:F
+%
+V:1 clef=treble
+%%MIDI program 40
+B B3/2 c1/2  | A A3/2 B1/2  | G c1/2d1/2 _e1/2d1/2  | c c2  | d d3/2 c1/2  | %Bar 5
+B b2  | a1/2g1/2 g1/2f1/2 f1/2e1/2  | e2 d  :: d3/2 d1/2 =B  |  Z  | %Bar 10
+f3/2 f1/2g1/2d1/2  | e2 f  | A3/2 A1/2 B  |  Z  | a3/2 a1/2b1/2d1/2  | %Bar 15
+^f2 g  :| 
+%
+V:2 clef=treble
+%%MIDI program 40
+d d3/2 c1/2  | d d3/2 B1/2  | c1/2d1/2 _e1/2d1/2 c1/2B1/2  | A f2  | d ^f3/2 f1/2  | %Bar 5
+g g3/2 a1/2  | f1/2e1/2 e1/2d1/2 d1/2e1/2  | ^c2 d  ::  Z  | c3/2 c1/2 A  | %Bar 10
+c d2  | G2 F  |  Z  | =B3/2 B1/2 c  | d1/2c1/2 B1/2A1/2 G  | %Bar 15
+A2 G  :| 
+%
+V:3 clef=bass
+%%MIDI program 42
+G, G,3/2 A,1/2  | ^F, F,3/2 G,1/2  | C, C,3/2 C,1/2  | F, F,2  | B, B, A,  | %Bar 5
+G,3/2 G,1/2 F,3/4E,1/4  | F, G,2  | A,2 D,  :: ^F, G,3/2 G,1/2  | E, F,3/2 F,1/2  | %Bar 10
+A,, B,,2  | C,2 F,,  | F, D,3/2 D,1/2  | G, E,3/2 E,1/2  | _G,, D,, B,,  | %Bar 15
+D,2 G,,  :| 
+%
+%
+%#Folop:0657

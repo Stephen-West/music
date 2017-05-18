@@ -1,0 +1,89 @@
+%abc-2.1
+%
+% Original edition transcribed and edited by Albert Folop: 
+% http://imslp.org/wiki/Category:Folop_Viol_Music_Collection
+% That edition released under Creative Commons Attribution-NonCommercial-ShareAlike 3.0 licence
+% (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+% This edition converted to abc by Steve West and also released under 
+% Creative Commons Attribution-NonCommercial-ShareAlike 3.0 licence
+% (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+%%measurenb 0
+%%squarebreve
+
+X:1
+T:Frottola I
+C:Alexandro Demophon
+L:1/4
+%%score [ 1 2 3 4 ]
+%%linebreak
+M:2/2
+K:C
+%
+V:1 clef=treble
+%%MIDI program 40
+A4  | c4  | B4  | A4-  | A2 G F  | %Bar 5
+G2 A2  | A4  | A4  | ^c4  | d3 ^c  | %Bar 10
+B4  | c3 B  | A2 B2  | G4  | F4  | %Bar 15
+^F4  | A4  | A4  | _B4-  | _B2 A2  | %Bar 20
+G2 F2  | E4  | D4  | D4  | A4  | %Bar 25
+c4  | B4  | A4-  | A2 G F  | G2 A2  | %Bar 30
+A4  | A4  | ^c4  | d3 ^c  | B4  | %Bar 35
+c3 B  | A2 B2  | G4  | F4  | ^F4  | %Bar 40
+A4  | A4  | B4-  | B2 A2  | G2 F2  | %Bar 45
+E4  | D4  | D4  | A4  | A2 A2  | %Bar 50
+D4  | D2 E2  | F2 G2  | F2 E2  | D4  | %Bar 55
+D4  | A4  | A2 A2  | D4  | D2 E2  | %Bar 60
+F2 G2  | F2 E2  | D4-  | D4  | D4-  | %Bar 65
+D4  | z2 D2-  | D2 C2  | D4-  | D4  |] 
+%
+V:2 clef=alto
+%%MIDI program 40
+F2 C2  | G4  | G3 F  | E2 F2  | E4  | %Bar 5
+E4  | E3 D  | C B, A,2  | A2 A2-  | A G ^F E  | %Bar 10
+D2 E2-  | E D C2  | D4  | G,4  | A,4  | %Bar 15
+A4  | F4  | E3 F  | G4  | D4  | %Bar 20
+C2 A,2  | A4  | z2 F2  | G2 D2  | D4  | %Bar 25
+G4  | G3 F  | E2 F2  | E4  | E4  | %Bar 30
+E3 D  | C B, A,2  | A2 A2-  | A G ^F E  | D2 E2-  | %Bar 35
+E D C2  | D4  | G,4  | A,4  | A4  | %Bar 40
+F4  | E3 F  | G4  | D4  | C2 A,2  | %Bar 45
+A4  | A2 A2-  | A2 G F  | E4  | ^F4  | %Bar 50
+G4  | G2 A2-  | A2 B2  | A4  | z2 F2  | %Bar 55
+G2 D2  | D4  | D4  | B4  | G2 A2-  | %Bar 60
+A2 B2  | A3 G  | F E D C  | B,4  | A,4-  | %Bar 65
+A,4  | B,4  | G,4  | A,4-  | A,4  |] 
+%
+V:3 clef=alto
+%%MIDI program 40
+C2 F2-  | F2 E2-  | E2 D2  | C2 D2  | B,3 A,  | %Bar 5
+B,4  | A,4-  | A,4  | E4  | ^F4  | %Bar 10
+G3 F  | E2 F2-  | F E D2-  | D2 C2  | D4  | %Bar 15
+D4  | C2 D2-  | D2 C2  | D2 G2-  | G2 F2  | %Bar 20
+E2 D2-  | D2 C2  | F2 _B2-  | _B A G2  | F4  | %Bar 25
+E4  | D2 E2  | C2 D2  | B,3 A,  | B,4  | %Bar 30
+A,4-  | A,4  | E4  | ^F4  | G3 F  | %Bar 35
+E2 F2-  | F E D2-  | D2 C2  | D4  | D4  | %Bar 40
+C2 D2-  | D2 C2  | D2 G2-  | G2 F2  | E2 D2-  | %Bar 45
+D2 C2  | D2 F2-  | F E D2-  | D2 C2  | D4  | %Bar 50
+B,3 A,  | G,2 C2  | D2 D2-  | D2 C2  | F2 _B2-  | %Bar 55
+B A G2-  | G2 F E  | F4  | G4  | z2 C2  | %Bar 60
+D2 D2-  | D2 C2  | D2 B2-  | B A G2-  | G2 F E  | %Bar 65
+F4  | G4-  | G4  | ^F4-  | ^F4  |] 
+%
+V:4 clef=bass
+%%MIDI program 42
+F,4  | C,4  | G,4  | A,2 D,2  | E,4  | %Bar 5
+E,4  | z2 E2-  | E D C B,  | A,4  | D,4  | %Bar 10
+G,4  | A,3 G,  | F,2 G,2  | E,4  | D,4  | %Bar 15
+D,4  | F,3 G,  | A,4  | G,4  | G,4  | %Bar 20
+C,2 D,2  | A,4  | _B,3 A,  | G,4  | D,4  | %Bar 25
+C,4  | G,2 E,2  | A,2 D,2  | E,4  | E,4  | %Bar 30
+z2 E2-  | E D C B,  | A, G, F, E,  | D,4  | G,4  | %Bar 35
+A,3 G,  | F,2 G,2  | E,4  | D,4  | D,4  | %Bar 40
+F,3 G,  | A,4  | G,4  | G,4  | C,2 D,2  | %Bar 45
+A,4  | D,3 E,  | F,2 G,2  | A,4  | D,4  | %Bar 50
+G,3 A,  | B,2 A,2  | D,2 G,2  | A,4  | _B,3 A,  | %Bar 55
+G,4  | D,4  | D,4  | G,3 A,  | B,2 A,2  | %Bar 60
+D,2 G,2  | A,4  | D,4  | G,4  | D,4-  | %Bar 65
+D,4  | G,4  | E,4  | D,4-  | D,4  |] 

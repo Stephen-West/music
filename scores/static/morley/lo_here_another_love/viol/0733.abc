@@ -1,0 +1,55 @@
+%abc-2.1
+%
+% Original edition transcribed and edited by Albert Folop: 
+% http://imslp.org/wiki/Category:Folop_Viol_Music_Collection
+% That edition released under Creative Commons Attribution-NonCommercial-ShareAlike 3.0 licence
+% (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+% This edition converted to abc by Steve West and also released under 
+% Creative Commons Attribution-NonCommercial-ShareAlike 3.0 licence
+% (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% Canzonet
+% Lo Heere Another Love
+% Thomas Morley
+%%measurenb 0
+%%squarebreve
+%%stretchlast 1
+
+X:1
+T:Canzonet
+T:Lo Heere Another Love
+C:Thomas Morley
+L:1/4
+%%score [ 1 2 ]
+%%linebreak
+M:4/4
+K:F
+%
+V:1 clef=treble
+%%MIDI program 40
+ Z  | G G1/2^F1/2 G A  | B2 z2  | d d1/2c1/2 d e  | f d G B  | %Bar 5
+A d3/2 ^c1/4=B1/4 c  | d2 z G  | c B A2  | =B4  | G G1/2^F1/2 G A  | %Bar 10
+B2 z2  | G G1/2^F1/2 G A  | B2 z G  | D F E1/2F1/2 G-  | G1/2F1/2 F1/2E1/4D1/4 E2  | %Bar 15
+D d G B  | A1/2G1/2 G2 ^F  | G2 z d  | d f3/2 f1/2 e  | f d e ^f  | %Bar 20
+g G1/2A1/2 B1/2c1/2 d  | ^c d e2  | d D E ^F  | G2 z G  | F E D G  | %Bar 25
+B3/2 c1/2 d G1/2A1/2  | B1/2c1/2 d c B-  | B A B2  | z g f e  | d G B3/2 c1/2  | %Bar 30
+d G F B  | A G A2  | =B G G _B-  | B1/2B1/2 A B G  | A B c A  | %Bar 35
+G1/2A1/2B1/2c1/2 d1/2e1/2 f  | e d2 ^c  | d2 z A  | B G d2  | z g f e  | %Bar 40
+d G B3/2 c1/2  | d B _e d  | c2 B G  | F E D G  | B3/2 c1/2 d G  | %Bar 45
+F1/2E1/2D1/2E1/2 F1/2G1/2 A  | ^F G2 F  | G4-  | G4  |] 
+%
+V:2 clef=treble
+%%MIDI program 40
+G G1/2^F1/2 G A  | B2 z2  | G G1/2^F1/2 G A  | B2 z G  | D F E1/2F1/2 G-  | %Bar 5
+G1/2F1/2 F1/2E1/4D1/4 E2  | D d G B  | A1/2G1/2 G2 ^F  | G4  |  Z  | %Bar 10
+G G1/2^F1/2 G A  | B2 z2  | d d1/2c1/2 d e  | f d G B  | A d3/2 ^c1/4=B1/4 c  | %Bar 15
+d2 z G  | c B A2  | =B G G _B-  | B1/2B1/2 A B G  | A B c A  | %Bar 20
+G1/2A1/2B1/2c1/2 d1/2e1/2 f  | e d2 ^c  | d2 z A  | B G d2  | z g f e  | %Bar 25
+d G B3/2 c1/2  | d B _e d  | c2 B G  | F E D G  | B3/2 c1/2 d G  | %Bar 30
+F B A G  | ^F G2 F  | G2 z d  | d f3/2 f1/2 e  | f d e ^f  | %Bar 35
+g G1/2A1/2 B1/2c1/2 d  | ^c d e2  | d D E ^F  | G2 z G  | F E D G  | %Bar 40
+B3/2 c1/2 d G1/2A1/2  | B1/2c1/2 d c B-  | B A B2  | z g f e  | d G B3/2 c1/2  | %Bar 45
+d3 c-  | c B A2  | =B4-  | =B4  |] 
+%
+%
+%#Folop:0733

@@ -1,0 +1,678 @@
+%%pageheight 29.7cm
+%%pagewidth 21cm
+%%botmargin 1.5cm
+%%textfont ZapfChancery-MediumItalic 64
+%%vskip 5cm
+%%center Viol Consort Music
+%%textfont Helvetica 36
+%%vskip 3cm
+%%center Tom\'as Luis de Victoria 
+%%vskip 3cm
+%%center Alma Redemptoris Mater
+%%textfont Helvetica 24
+%%vskip 1cm
+%%center Florigelium sacrarum cantionum, Petri Phalesij, 1609
+%%textfont Times-Roman 12
+%%newpage
+%%topmargin 2.5cm
+%leftmargin 2cm
+%rightmargin 2cm
+%%topspace 0
+%%titlespace 0cm
+%%scale 1.0
+%%MIDI program 1 40
+%%MIDI program 2 41
+%%MIDI program 3 41
+%%MIDI program 4 42
+%%MIDI program 5 42
+%%footer "$T	Page $P	Gumbleton Music, 2011\n"
+%%stretchlast false
+X:1
+T:Alma Redemptoris Mater
+C:Tom\'as Luis de Victoria (1548-1611)
+O:Florigelium sacrarum cantionum, Petri Phalesij, 1609
+L:1/8
+M:4/2
+%%score [1 2 3 4 5]
+%%measurenb 0
+%%squarebreve
+%%scale 0.75
+K:F
+V:1
+z4 F4  A3 B c4 | d4 c4 =B4 c4 | z2 G2 A4 B4 c4 |
+w:Al - - - - - - ma Re-dem-pto-ris 
+F8 G4 z2 c2-|c2 c2 F4  G4 A4 | c4 d4 c8 |
+w:Ma-ter, Re - dem-pto - ris Ma - ter
+z4 c4  d3 d e4 | f3 edcBA G2 E2 FGAF | G4 A2 A2 =B3 B c4 |
+w:quae per-vi-a coe - - - - - - - - - - - - li, quae per-vi-a
+%19
+d6 =B2  c4 c4 | z4 z2 c2 d2 e2 f4-|f2 e2 d4  c8 |
+w:coe - - li por-ta ma - - - - nes,
+%25
+z4 z2 c2  d2 e2 f4-|f2 e2 d4 c2 A2 B2 c2 |d6 c2  B2 G2 c4 |
+w:     por-ta ma - - - -      nes, por-ta ma - - - - nes.
+%31
+c8  =B4 c4-|c4 d4  c4 z4 | z2 G2G2 G2 c4  c4 |
+w:Et stel-la_ ma-ris, et stel-la ma-ris,
+%37
+z4 f8 e4 | f4 d4  e2 e2 f4 | f2 e2 d2 c2  B2 G2 z2 c2 |
+w: et stel-la ma-ris suc-cur-re ca-den - - ti, suc-
+%43
+d4 d2 c2 B3 cde f2-|f2 e2 z4  c3 c d4 |e3 e f4 z8|
+w:cur-re ca-den -----ti. Sur-ge-re, sur-ge-re
+%49
+z8 c4 d4 | c2 ABcA B3 AAG/F/ G2 G2 |A4 A4  B4 c4 |
+w:qui cu-rat, po --------- pu-lo, qui cu-rat,
+%55
+c6 c2  c8 ||[Q:"Secunda pars"]c6 B2  A2 G2 ABcA | BAAG/F/ G4 A4 z4 |
+w:po-pu-lo: Tu quae ge-nu-i ---------sti,
+%61
+z16 |	f6 e2  d2 c2 B2 A2 | c8  A2 c2 c4 |
+w:tu quae ge-nu-i -- sti, na-tu-
+%67
+A2 F2 f3 edc d3 cBA | G2 F2 G4  A3 B c4 | z2 A2 f3 e  d8 |
+w:ra mi-ran ------------ te, mi-ran -- 
+%73
+  c8  z2 A2 B2 d2-|d2 c2  B2 A2  c4 c4 | z4 c8 d4 |
+w:te,    tu-um san - ctum Ge-ni-to-rem, tu- um
+%79
+  e4  c2  c2 d2  e2 f4- |f4 e8 c4-|c4 d8 d4-|
+w:san-ctum Ge-ni -  to   - rem, vir - go pri-
+%85
+d4 c2 A2  B2 c2 dc c2-|c2 =B2 c2 A2 G3 G A4 | z4 z2 F2  G2 A2 B4-| 
+w:- us ac po-ste - -------ri-us, ac po - ste-
+%91
+ B2 B2 A4-A8 | z4 z2 c4 c2 d4 |=B2 B2 c4  c4 z2 d2-|
+w:- ri-us,_          Ga- bri-  e-lis ab o-re, Ga-
+%97
+dd d2 c2 G2  c4 c4-|c4 z4  F8 | c8 c8 |
+w:- bri-e-lis ab o-re._ Su - mens
+%103
+z8  B8-|B4 c8 d4-|d8-d4 c4-|c4 z2 c2-\
+w:  il -   lud A  - - ve,_ pec-
+%110
+c2 B2 A4 | A8 z2 d4 c2 |B3 A G4  A4 z4 | z4  A4  =B4 c4 |
+w:- ca-to-rum mi-se-re -- re, pec-ca-to-
+A2 c4 c2  d4 G2 c2-|cBAG A3 B  c2 d4 c2 | B6 AG A8 |]
+w:rum mi-se-re-re, mi -------- se-re --re.
+V:2
+C4 D3 EFG A3 B c2 | B3 A G2 E2  F4 G4-|G4 z4  z8 |
+w:Al ------------ ma_ 
+z8 z2 G4 G2 | C4 D4  E4 F3 G | ABcA B6 A2 G4 |
+w:    Re-dem-pto-ris Ma ---------
+%13
+  A4 z2 F4 G3 G A2-|A2 B3 AGFED G3 F F2-|F2 E2 F4 z8|
+w:ter, quae per-vi-a_ coe ---------- li,
+%19
+F8  G3 G A4 | B6 A2 G4 F2 F2 | G2 A2 B4  A4 z2 E2 |
+w:quae per-vi-a coe --li por - ta ma-nes, por-
+%25
+  F2 G2 A6 G2 F2 D2 |G4 z4  z8 | z2 F2 G2 A2  B4 A4|
+w:ta ma ----nes, por - ta ma-nes.
+%31
+A4 G2 A2  F3 E/F/ G2 A2 | G4 z4  c8 |=B4 c4 A6 GF |
+w:Et stel-la ma ----ris, et stel-la ma --
+%37
+G4 F4  z4 c4-|c4 =B4  c4 A4 |G4 z2 A2  B4 B2 A2 |
+w:- ris, et_ stel-la ma-ris suc-cur-re ca-
+%43
+G2 FE F4  G2 D2 F4 | G2 G2 A4  A2 G2 F4 |         E2 C3 C D4 E3 E F2-|
+w:den ---ti, suc-cur-re, suc-cur-re ca-den-ti. Sur-ge-re, sur-ge-re,
+%49
+ F2 G4  G2 A2 A2  B4 | A2 FGAF   G3 F F4 E2 | F2  C2  D3 EF4 F4 |
+w:_ sur-ge-re qui cu-rat, po --- -  - -  pu-  lo, qui cu --  rat,
+%55
+G6 G2  A8||[Q:"Secunda pars"] z4 F6 E2 D2 C2 | DE F4 E2  F4 z4 |
+w:po-pu-lo:                      Tu quae ge-nu-i ---sti,
+%61
+Z | F4 z2 G2  FGAF G2 F2 | G2 A2 G4  F2 A2 A4 |
+w:tu quae ge ----nu-i -- sti, na-tu-
+%67
+F4 A4  B3 A G2 F2 | E2 F4 E2  F2 c2 c2 A2-|A2 F2 A4  B2 F2 B4 |
+w:ra mi-ran ------te, na-tu-ra_ mi-ran-te, mi-ran-
+%73
+A2 GF G4  A4 z4 | F8  G4 A4 | B4 G2 G2  A2 c4 =B2 |
+w:----te, tu-um san - ctum Ge-ni-to - 
+%79
+   c4  A2 A4 G2 F4 | D4 G8 A4-|A4 A8 B4-|
+w:rem, Ge-ni -  to   -  rem, vir - go pri-
+%85
+B4 A2 F4 G2 A4-| A2 GF E2 F4 E2 F4 |z4 z2 B,2  D2 F4 ED |
+w:- us ac po-ste -  -- -  - ri-us,        ac po-ste --
+%91
+E2 E2 F4-F8 | z2 G4 G2  A4 F2 F2 |G3 FED E2  F2 A3 A A2 |
+w:- ri-us,_ Ga-bri-e-lis ab 0 ---- re, Ga-bri-e-
+%97
+B2 B2 G4  A8-|A4 z4  z2 B4 AG | A2 GF G2 A2  B2 B,2 D2 E2|
+w:lis ab o-re._ Su -------mens il - lud
+%103
+F8 F4 z2 G2 | G2 B4 AG  A2 A2 B3 A |G2 F2 B3 A G2 F2 E2 F2-|F2 E2 F2 A2 \
+w:A-ve, Su-mens il ---lud A -- ve, A -------ve, pec-
+%110
+G4   E4 | F4 z2 A4 G2 F2 E2 | D4 z4  z2 A2 G4 | E4 ^F4  G4 E4 |
+w:ca-tao-rum    mi- se-re - re, pec-ca-to-rum mi-se-
+%117
+  F3 GAF G3 F F4 E2 |F16-|F16|]
+w:re --- -  - -  -   re._
+V:3 clef=alto
+z8  z2 F4 E2 |DEFDEF G3 F F4 ED |E4 F4 z8|
+w:Al ------------- ma
+%7
+z4 z2 C2  D4 E4 | F4 z4  z2 C4 C2 | F,G,A,F, B,2 B,2 C8|
+w:Re-dem-pto-ris, Re-dem-pto ---- ris Ma-
+%13
+C4 A,4 B,3 B, C4 | D4 B,4  C4 D4 | C4 z4 z8 |
+w:ter, quae per-vi-a coe --- li,
+%19
+z8  z2 C4 A,2 | G,4 F,4 z8 | z2 C2 D2 E2  FEFG A2 G2 |
+w:port-ta ma-nes, por-ta ma ------
+%25
+F2 ED C3 B,A,G, C4 =B,2 | C2 E2 F2 G2 A4 G2 F2-|FEDC B,2 C2  D2 B,2 C4 |
+w:---------nes, por-ta ma -----------nes.
+%31
+F4 E2 F2  D3 C/D/ E2 F2-|F2 E2 D4  E4 C4 | D4 C4 z4 C4-|
+w: Et stel-la ma ----------ris, et
+%37
+C4 A,4  F,4 G,4 | F,4 z2 G,2  C4 C4 | z2 E2 F4 F2 E2 D2 C2 |
+w:_ stel-la ma-ris suc-cur-re, suc-cur-re ca-den-ti,
+%43
+z4z2 F,2 B,4 B,2 A,2 | G,4 F,2 C2  F,2 G,2 A,2 F,2 | G,4 z4  z4 C3 C |
+w:suc-cur-re ca-den-ti, ca-den --- ti. Sur-ge-
+D4 E3 E  F2 F,2 B,CDE | F6 _E2 D2 D2 C4 | z2 F,4 F3 E D2 C2 F2-|
+w:re, sur-ge-re qui cu ---- rat, po-pu-lo, qui cu -- rat, po-
+FE/D/ E4 E2  F8||[Q:"Secunda pars"] Z2 |
+w: ----pu-lo:
+%61
+z8  z4 C4-|C2 B,2 A,2 G,2  A,B,CA,B,C D2 | C2 F,2 C4  C4 z2 C2 |
+w:Tu_ quae ge-nu-i --------- sti, na-
+%67
+C2 A,4 F,2  FEDC B,2 F,2 | C2 A,2 G,2 C2  C4 A,2 F,2 | F3 E D2 C2  C8 |
+w:tu-ra mi-ran -------te, na-tu-ra mi-ran ----
+%73
+C8  C4 z4 | z2 C2 D2 F4 E2 F2 F,2 |B,4 C4  F,4 z2 G,2-|
+w:- te, tu-um san- ctum Ge-ni-to - rem, Ge-
+%79
+G,2 G2 F3 EDC C4 =B,A, | =B,4 C4  z4 F4-|F4 F8 F4-|
+w:- ni-to ------- rem, vir - go pri-
+%85
+F4 F4  z8|z8 z2 C4 D2 | E2 F3 EDC  B,2 C2 DCB,A, |
+w:- us ac po-ste ----------
+%91
+B,2 B,2 CB,A,G, F,4 z2 D2-|D2 D2 E4  C2 F3 EDC |D4 C4  F,4 z4 |
+w:- ri ---- us, Ga - bri-e-lis ab____ o-re.
+%97
+z8  F,8 | C8  D8 | z8  B,8 |
+w:Su - mens il-
+%103
+C8  D3 CB,A, B,2-|B,2 G,2 C8 B,4 | B,3 A, G,2 F,2 B,3 A, G,2 A,2 |G,4 F,2 F2 \
+w:lud A ------- ve, A -- ve, A ---- ve, pec-
+%110
+E2 D4 ^C2 | D2 F4 E2  D2 G,2 A,2 A2 |G2 F4 E2  D2 C4 B,2 |A,2 A4 D4 G3 FED |
+w:ca-to - rum mi-se-re - re, mi-se-re ---- re, pec-ca- to --- 
+%117
+C3 B, A,2 G,2 A,2 F,2 G,4 |F,16-|F,16|]
+w:- - - rum mi-se-re-re_
+V:4 clef=alto
+z8  F,4 A,4 | B,4 C4 D4 C4 |z2 C4 D4 E4 F2 |
+w:Al ---- ma Re-dem- pto-ris
+%7
+D3 C D2 C4 =B,2 C2 G,2 |A,4 B,2 D2 C4 F,2 F2-|F2 F2 F4 F2 F4 E2 |
+w:Ma ----ter, Re-dem-pto-ris Ma-ter, Re - dem-pto-ris Ma  -
+%13
+F8  z8 |z16 |z2 C4 D3 D E4 F2-|
+w:ter, quae per- vi-a coe-
+%z8 | F,4 C4 | D4 E4 | F4 E4 | z2 E4 F2-|F2 G4 A2 |
+%D2 C D2 C2- | C2 =B2 C2 G2 | A4 B2 D2 | C4 F,2 D2 | C4 F,2 F2-|F2 F2 F4 | F2 F4 E2 |
+%F8 | Z3 | z2 C4 D2-|D D E4 F2-|
+FEDCDE F4 E2 F2 C2 | D2 E2 F3 E  D2 C2 z4 | z2 E2 F2 G2  AGFE F2 E2 |
+w:-------- li por-ta ma ---nes, por-ta ma ------
+D2 CB, A,2 F,2  z8| z2 C2 D2 E2  F3 E D2 C2 | B,3 A,G,F, F4 E2 F4 |
+w:---- nes, por-ta ma ---------- nes.
+z16| z4 G8 ^F4 | G4 E4  F4 z4 |
+w:Et stel-la ma-ris 
+C8  =B,4 C4 | A,4 G,8 z2 F,2 | C4 B,2 A,2  G,4 F,4 |
+w:et stel-la ma-ris suc-cur-re ca-den-ti,
+%43
+z4 z2 C2  D4 D2 C2 |B,2 C3 B,A,G,A,F, C4 =B,2 |C4 A,3 A, =B,4 z4 |
+w:suc-cur-re ca-den -------- ti. Sur-ge-re,
+z4 z2 C4 F2 F4 | z8 z4 z2 C2-|C2 F3 E D3 C B,4 A,2 |
+w:sur- ge-re qui_ cu ---- rat,
+C6 C2  C8|| [Q:"Secunda pars"]z16 | z4 C6 B,2 A,2 G,2 |
+w:po-pu-lo: Tu quae ge-nu-
+A,B,CA, B,A,A,G,/F,/  G,4 A,4 | z4 C4 z2 F2 DEFD |EC F4 E2  F8 |
+w:i --------- sti, tu quae ge ------ nu-i-
+%67
+C4 z2 F2  F4 D4 | z2 C2 C4  A,2 F,2 F3 E | D2 C2 z2 F,2  F3 E F2 G2-|
+w:sti, na-tu-ra, na-tu-ra mi-ran -- te, mi-ran ---
+%73
+GF F4 E2  F4 D4 | z8  z4 C4 | D2 F4 E2 F2 A2 G3 F |
+w:-----te, tu-um san-ctum Ge-ni-to -
+%79
+ED C3 B, A,G,  F,2 G,2 A,G,F,E, | F,4 G,4  C8 |A,8  D6 C2 |
+w:------------- rem, vir-go pri -
+%85
+B,4 C2 C2 D2 E2 F3 E |D2 D2 C4  z4 z2 A,2 | B,2 C2 DCB,A, G,2 F,2 B,4 |
+w:- us ac po - ste --ri-us, ac po - ste ----ri-us,
+%91
+z4 z2 C4 C2 D4 | =B,2 B,2 C3 B, A,8 | G,2 G4 G2 A4 F2 F2 |
+w:Ga- bri-e-lis ab o -- re, Ga-bri-e-lis ab
+%97
+GF F4 E2  F4 z2 A,2-|A,2 G,F, G,2 A,2 B,4 z2 F2-|F2 ED E2 F3 EDCB,A, G,2 |
+w:o ---re. Su ----- mens, su -----------
+%103
+F,8  z2 F4 ED | E2 D2 F8 F4 | z4 B,6 F,2 C4-|C4 C4 \
+w:mens il --- lud A- ve, A --- ve,
+%110
+z8|z8 z4 z2 A,2 |B,4 C4 F,2 F2 E2 D2-|D2 ^C2 D4  z2 D2 =C2 G,2|
+w:pec-ca-to-rum mi-se-re -- re, mi-se -
+%117
+A,3 B,CD C4 =B,2 C4 | A,2 C3 B,A,G, A,4 B,2 C2 |D4 C12|]
+w:re ------ re, mi ---- se - re-re.
+V:5 clef=bass
+z16| z8 z4 z2 C2-|C2 C2 F,4 G,4 A,4 |
+w:Re - dem-pto - ris
+%7
+B,6 A,2 G,4 C,4 |F,4 z4  z4 z2 F,2-|F,2 F,2 B,,4 F,4 C,4 |
+w:Ma --- ter, Re - dem-pto-ris Ma-
+%13
+F,8  z8|z16 | z4 F,4  G,3 G, A,4 |
+w:ter, quae per-vi-a
+%19
+B,3 A,B,C D2 C4 F,4 | z4 z2 A,2  B,2 C2 D4 | C4 z4 z4 z2 C,2 |
+w:coe ----- li por-ta ma - nes, por-
+%25
+D,2 E,2 F,6 E,2 D,4 |C,4 z4  z2 F,2 G,2 A,2 |B,6 A,2 G,4 F,4 |
+w:ta ma --- nes, por-ta ma --- nes.
+%31
+z8  z4 C4-|C4 =B,4  C4 A,4 | G,4 z4  F,8 |
+w:Et_ stel-la ma-ris et
+E,4 F,4  D,4 C,4 | z8 C,4 F,4 | C,4 z4  z4 z2 A,2 |
+w: stel-la ma-ris suc-cur-re, suc-
+B,4 B,2 A,2  G,4 F,4 | z2 C,2 F,4  F,2 E,2 D,4 | C,4 F,3 F,  G,4 A,3 A,|
+w:cur-re ca-den-ti, suc-cur-re ca-den-ti. Sur-ge-re, sur-ge-
+B,4 C3 C  F,4 z4 | z8  z4 C,4 | F,3 E, D,3 C, B,,4 F,4 |
+w:re, sur-ge-re qui cu ---- rat,
+C,6 C,2  F,8 || [Q:"Secunda pars"]z16|z8 F,6 E,2 |
+w:po-pu-lo: Tu quae
+  D,2 C,2 D,E, F,4 E,2 F,3 E, |D,4 C,4 F,4 z4 | z8  F,8|
+w:ge-nu-i ------- sti, na-
+%67
+F,4 D,4  B,,8 | C,8  F,8-|F,8  z8 |
+w:tu-ra mi-ran-te_
+%73
+z8 F,4 G,2 B,2-|B,2 A,2 B,2 D2 C4 F,4| z8 z4 G,4 |
+w:tu-um san - ctum Ge-ni-to-rem, Ge-
+%79
+  C,4 F,6 E,2 D,4-|D,4 C,8 F,4-|F,4 D,8 B,,4-|
+w:ni-to   -   -    -  rem, vir -    go pri-
+%85
+B,,4 F,4 z4 z2 F,2-|F,2 G,2 A,2 F,2  C3 C F,2 F,2 | G,2 A,2 B,6 A,2 G,4-|
+w: - us ac_ po-ste -- ri-us, ac po - ste --
+%91
+G,2 G,2 F,4  z2 F,4 F,2 | G,4 E,2 E,2  F,3 E, D,4 | G,4 C,2 C4 C2 D4 |
+w:- ri-us, Ga-bri-e-lis ab o ---re, Ga- bri-e-
+%97
+B,2 B,2 C4 F,4 z2 F,2-|F,2 E,D, E,2 F,2 B,,2 B,4 D2 |C6 F,2  z2 G,2 G,2 B,2-|
+w:lis ab o-re. Su -----mens il-lud A-ve, su-mens il-
+%103
+B,2 A,G, A,2 A,2 B,3 A, G,4-|G,4 F,8 B,,4-|B,,12 C,4-|C,4 z2 F,2 \
+w:---- lud A --- ve, A - ve,_ pec-
+%110
+G,4 A,4 | D,2 D4 C2  B,4 A,4 | z8  F,4 G,4 | A,4 D,4 G,4 C,4 |
+w:ca-to-rum mi-se-re-re, pec-ca-to-rum mi-se-
+F,6 E,2 D,4 C,4 | F,4 z2 F,3 E,D,C, B,,2 A,,2 |B,,4 F,12|]
+w:re ---re, mi ----se-re-re.
+
+X:2
+T:Alma Redemptoris Mater
+T:Cantus part
+C:Tom\'as Luis de Victoria (1548-1611)
+O:Florigelium sacrarum cantionum, Petri Phalesij, 1609
+L:1/8
+M:4/2
+%%measurenb 0
+%%squarebreve
+%%scale 0.8
+%%newpage 1
+%%continueall true
+%%footer "$T (Cantus)	Page $P	Gumbleton Music, 2011\n"
+K:F clef=treble
+z4 F4  A3 B c4 | d4 c4 =B4 c4 | z2 G2 A4 B4 c4 |
+w:Al - - - - - - ma Re-dem-pto-ris 
+F8 G4 z2 c2-|c2 c2 F4  G4 A4 | c4 d4 c8 |
+w:Ma-ter, Re - dem-pto - ris Ma - ter
+z4 c4  d3 d e4 | f3 edcBA G2 E2 FGAF | G4 A2 A2 =B3 B c4 |
+w:quae per-vi-a coe - - - - - - - - - - - - li, quae per-vi-a
+%19
+d6 =B2  c4 c4 | z4 z2 c2 d2 e2 f4-|f2 e2 d4  c8 |
+w:coe - - li por-ta ma - - - - nes,
+%25
+z4 z2 c2  d2 e2 f4-|f2 e2 d4 c2 A2 B2 c2 |d6 c2  B2 G2 c4 |
+w:     por-ta ma - - - -      nes, por-ta ma - - - - nes.
+%31
+c8  =B4 c4-|c4 d4  c4 z4 | z2 G2G2 G2 c4  c4 |
+w:Et stel-la_ ma-ris, et stel-la ma-ris,
+%37
+z4 f8 e4 | f4 d4  e2 e2 f4 | f2 e2 d2 c2  B2 G2 z2 c2 |
+w: et stel-la ma-ris suc-cur-re ca-den - - ti, suc-
+%43
+d4 d2 c2 B3 cde f2-|f2 e2 z4  c3 c d4 |e3 e f4 z8|
+w:cur-re ca-den -----ti. Sur-ge-re, sur-ge-re
+%49
+z8 c4 d4 | c2 ABcA B3 AAG/F/ G2 G2 |A4 A4  B4 c4 |
+w:qui cu-rat, po --------- pu-lo, qui cu-rat,
+%55
+c6 c2  c8 ||[Q:"Secunda pars"]c6 B2  A2 G2 ABcA | BAAG/F/ G4 A4 z4 |
+w:po-pu-lo: Tu quae ge-nu-i ---------sti,
+%61
+z16 |	f6 e2  d2 c2 B2 A2 | c8  A2 c2 c4 |
+w:tu quae ge-nu-i -- sti, na-tu-
+%67
+A2 F2 f3 edc d3 cBA | G2 F2 G4  A3 B c4 | z2 A2 f3 e  d8 |
+w:ra mi-ran ------------ te, mi-ran -- 
+%73
+  c8  z2 A2 B2 d2-|d2 c2  B2 A2  c4 c4 | z4 c8 d4 |
+w:te,    tu-um san - ctum Ge-ni-to-rem, tu- um
+%79
+  e4  c2  c2 d2  e2 f4- |f4 e8 c4-|c4 d8 d4-|
+w:san-ctum Ge-ni -  to   - rem, vir - go pri-
+%85
+d4 c2 A2  B2 c2 dc c2-|c2 =B2 c2 A2 G3 G A4 | z4 z2 F2  G2 A2 B4-| 
+w:- us ac po-ste - -------ri-us, ac po - ste-
+%91
+ B2 B2 A4-A8 | z4 z2 c4 c2 d4 |=B2 B2 c4  c4 z2 d2-|
+w:- ri-us,_          Ga- bri-  e-lis ab o-re, Ga-
+%97
+dd d2 c2 G2  c4 c4-|c4 z4  F8 | c8 c8 |
+w:- bri-e-lis ab o-re._ Su - mens
+%103
+z8  B8-|B4 c8 d4-|d8-d4 c4-|c4 z2 c2-\
+w:  il -   lud A  - - ve,_ pec-
+%110
+c2 B2 A4 | A8 z2 d4 c2 |B3 A G4  A4 z4 | z4  A4  =B4 c4 |
+w:- ca-to-rum mi-se-re -- re, pec-ca-to-
+A2 c4 c2  d4 G2 c2-|cBAG A3 B  c2 d4 c2 | B6 AG A8 |]
+w:rum mi-se-re-re, mi -------- se-re --re.
+
+X:3
+T:Alma Redemptoris Mater
+T:Altus part
+C:Tom\'as Luis de Victoria (1548-1611)
+O:Florigelium sacrarum cantionum, Petri Phalesij, 1609
+L:1/8
+M:4/2
+%%measurenb 0
+%%squarebreve
+%%scale 0.75
+%%newpage 1
+%%continueall true
+%%footer "$T (Altus)	Page $P	Gumbleton Music, 2011\n"
+K:F
+C4 D3 EFG A3 B c2 | B3 A G2 E2  F4 G4-|G4 z4  z8 |
+w:Al ------------ ma_ 
+z8 z2 G4 G2 | C4 D4  E4 F3 G | ABcA B6 A2 G4 |
+w:    Re-dem-pto-ris Ma ---------
+%13
+  A4 z2 F4 G3 G A2-|A2 B3 AGFED G3 F F2-|F2 E2 F4 z8|
+w:ter, quae per-vi-a_ coe ---------- li,
+%19
+F8  G3 G A4 | B6 A2 G4 F2 F2 | G2 A2 B4  A4 z2 E2 |
+w:quae per-vi-a coe --li por - ta ma-nes, por-
+%25
+  F2 G2 A6 G2 F2 D2 |G4 z4  z8 | z2 F2 G2 A2  B4 A4|
+w:ta ma ----nes, por - ta ma-nes.
+%31
+A4 G2 A2  F3 E/F/ G2 A2 | G4 z4  c8 |=B4 c4 A6 GF |
+w:Et stel-la ma ----ris, et stel-la ma --
+%37
+G4 F4  z4 c4-|c4 =B4  c4 A4 |G4 z2 A2  B4 B2 A2 |
+w:- ris, et_ stel-la ma-ris suc-cur-re ca-
+%43
+G2 FE F4  G2 D2 F4 | G2 G2 A4  A2 G2 F4 |         E2 C3 C D4 E3 E F2-|
+w:den ---ti, suc-cur-re, suc-cur-re ca-den-ti. Sur-ge-re, sur-ge-re,
+%49
+ F2 G4  G2 A2 A2  B4 | A2 FGAF   G3 F F4 E2 | F2  C2  D3 EF4 F4 |
+w:_ sur-ge-re qui cu-rat, po --- -  - -  pu-  lo, qui cu --  rat,
+%55
+G6 G2  A8||[Q:"Secunda pars"] z4 F6 E2 D2 C2 | DE F4 E2  F4 z4 |
+w:po-pu-lo:                      Tu quae ge-nu-i ---sti,
+%61
+Z | F4 z2 G2  FGAF G2 F2 | G2 A2 G4  F2 A2 A4 |
+w:tu quae ge ----nu-i -- sti, na-tu-
+%67
+F4 A4  B3 A G2 F2 | E2 F4 E2  F2 c2 c2 A2-|A2 F2 A4  B2 F2 B4 |
+w:ra mi-ran ------te, na-tu-ra_ mi-ran-te, mi-ran-
+%73
+A2 GF G4  A4 z4 | F8  G4 A4 | B4 G2 G2  A2 c4 =B2 |
+w:----te, tu-um san - ctum Ge-ni-to - 
+%79
+   c4  A2 A4 G2 F4 | D4 G8 A4-|A4 A8 B4-|
+w:rem, Ge-ni -  to   -  rem, vir - go pri-
+%85
+B4 A2 F4 G2 A4-| A2 GF E2 F4 E2 F4 |z4 z2 B,2  D2 F4 ED |
+w:- us ac po-ste -  -- -  - ri-us,        ac po-ste --
+%91
+E2 E2 F4-F8 | z2 G4 G2  A4 F2 F2 |G3 FED E2  F2 A3 A A2 |
+w:- ri-us,_ Ga-bri-e-lis ab 0 ---- re, Ga-bri-e-
+%97
+B2 B2 G4  A8-|A4 z4  z2 B4 AG | A2 GF G2 A2  B2 B,2 D2 E2|
+w:lis ab o-re._ Su -------mens il - lud
+%103
+F8 F4 z2 G2 | G2 B4 AG  A2 A2 B3 A |G2 F2 B3 A G2 F2 E2 F2-|F2 E2 F2 A2 \
+w:A-ve, Su-mens il ---lud A -- ve, A -------ve, pec-
+%110
+G4   E4 | F4 z2 A4 G2 F2 E2 | D4 z4  z2 A2 G4 | E4 ^F4  G4 E4 |
+w:ca-tao-rum    mi- se-re - re, pec-ca-to-rum mi-se-
+%117
+  F3 GAF G3 F F4 E2 |F16-|F16|]
+w:re --- -  - -  -   re._
+
+X:4
+T:Alma Redemptoris Mater
+T:Tenor I part
+C:Tom\'as Luis de Victoria (1548-1611)
+O:Florigelium sacrarum cantionum, Petri Phalesij, 1609
+L:1/8
+M:4/2
+%%measurenb 0
+%%squarebreve
+%%scale 0.8
+%%newpage 1
+%%continueall true
+%%footer "$T (Tenor I)	Page $P	Gumbleton Music, 2011\n"
+K:F clef=alto
+z8  z2 F4 E2 |DEFDEF G3 F F4 ED |E4 F4 z8|
+w:Al ------------- ma
+%7
+z4 z2 C2  D4 E4 | F4 z4  z2 C4 C2 | F,G,A,F, B,2 B,2 C8|
+w:Re-dem-pto-ris, Re-dem-pto ---- ris Ma-
+%13
+C4 A,4 B,3 B, C4 | D4 B,4  C4 D4 | C4 z4 z8 |
+w:ter, quae per-vi-a coe --- li,
+%19
+z8  z2 C4 A,2 | G,4 F,4 z8 | z2 C2 D2 E2  FEFG A2 G2 |
+w:port-ta ma-nes, por-ta ma ------
+%25
+F2 ED C3 B,A,G, C4 =B,2 | C2 E2 F2 G2 A4 G2 F2-|FEDC B,2 C2  D2 B,2 C4 |
+w:---------nes, por-ta ma -----------nes.
+%31
+F4 E2 F2  D3 C/D/ E2 F2-|F2 E2 D4  E4 C4 | D4 C4 z4 C4-|
+w: Et stel-la ma ----------ris, et
+%37
+C4 A,4  F,4 G,4 | F,4 z2 G,2  C4 C4 | z2 E2 F4 F2 E2 D2 C2 |
+w:_ stel-la ma-ris suc-cur-re, suc-cur-re ca-den-ti,
+%43
+z4z2 F,2 B,4 B,2 A,2 | G,4 F,2 C2  F,2 G,2 A,2 F,2 | G,4 z4  z4 C3 C |
+w:suc-cur-re ca-den-ti, ca-den --- ti. Sur-ge-
+D4 E3 E  F2 F,2 B,CDE | F6 _E2 D2 D2 C4 | z2 F,4 F3 E D2 C2 F2-|
+w:re, sur-ge-re qui cu ---- rat, po-pu-lo, qui cu -- rat, po-
+FE/D/ E4 E2  F8||[Q:"Secunda pars"] Z2 |
+w: ----pu-lo:
+%61
+z8  z4 C4-|C2 B,2 A,2 G,2  A,B,CA,B,C D2 | C2 F,2 C4  C4 z2 C2 |
+w:Tu_ quae ge-nu-i --------- sti, na-
+%67
+C2 A,4 F,2  FEDC B,2 F,2 | C2 A,2 G,2 C2  C4 A,2 F,2 | F3 E D2 C2  C8 |
+w:tu-ra mi-ran -------te, na-tu-ra mi-ran ----
+%73
+C8  C4 z4 | z2 C2 D2 F4 E2 F2 F,2 |B,4 C4  F,4 z2 G,2-|
+w:- te, tu-um san- ctum Ge-ni-to - rem, Ge-
+%79
+G,2 G2 F3 EDC C4 =B,A, | =B,4 C4  z4 F4-|F4 F8 F4-|
+w:- ni-to ------- rem, vir - go pri-
+%85
+F4 F4  z8|z8 z2 C4 D2 | E2 F3 EDC  B,2 C2 DCB,A, |
+w:- us ac po-ste ----------
+%91
+B,2 B,2 CB,A,G, F,4 z2 D2-|D2 D2 E4  C2 F3 EDC |D4 C4  F,4 z4 |
+w:- ri ---- us, Ga - bri-e-lis ab____ o-re.
+%97
+z8  F,8 | C8  D8 | z8  B,8 |
+w:Su - mens il-
+%103
+C8  D3 CB,A, B,2-|B,2 G,2 C8 B,4 | B,3 A, G,2 F,2 B,3 A, G,2 A,2 |G,4 F,2 F2 \
+w:lud A ------- ve, A -- ve, A ---- ve, pec-
+%110
+E2 D4 ^C2 | D2 F4 E2  D2 G,2 A,2 A2 |G2 F4 E2  D2 C4 B,2 |A,2 A4 D4 G3 FED |
+w:ca-to - rum mi-se-re - re, mi-se-re ---- re, pec-ca- to --- 
+%117
+C3 B, A,2 G,2 A,2 F,2 G,4 |F,16-|F,16|]
+w:- - - rum mi-se-re-re_
+
+X:5
+T:Alma Redemptoris Mater
+T:Tenor II part
+C:Tom\'as Luis de Victoria (1548-1611)
+O:Florigelium sacrarum cantionum, Petri Phalesij, 1609
+L:1/8
+M:4/2
+%%measurenb 0
+%%squarebreve
+%%scale 0.75
+%%newpage 1
+%%continueall true
+%%footer "$T (Tenor II)	Page $P	Gumbleton Music, 2011\n"
+K:F clef=alto
+z8  F,4 A,4 | B,4 C4 D4 C4 |z2 C4 D4 E4 F2 |
+w:Al ---- ma Re-dem- pto-ris
+%7
+D3 C D2 C4 =B,2 C2 G,2 |A,4 B,2 D2 C4 F,2 F2-|F2 F2 F4 F2 F4 E2 |
+w:Ma ----ter, Re-dem-pto-ris Ma-ter, Re - dem-pto-ris Ma  -
+%13
+F8  z8 |z16 |z2 C4 D3 D E4 F2-|
+w:ter, quae per- vi-a coe-
+%z8 | F,4 C4 | D4 E4 | F4 E4 | z2 E4 F2-|F2 G4 A2 |
+%D2 C D2 C2- | C2 =B2 C2 G2 | A4 B2 D2 | C4 F,2 D2 | C4 F,2 F2-|F2 F2 F4 | F2 F4 E2 |
+%F8 | Z3 | z2 C4 D2-|D D E4 F2-|
+FEDCDE F4 E2 F2 C2 | D2 E2 F3 E  D2 C2 z4 | z2 E2 F2 G2  AGFE F2 E2 |
+w:-------- li por-ta ma ---nes, por-ta ma ------
+D2 CB, A,2 F,2  z8| z2 C2 D2 E2  F3 E D2 C2 | B,3 A,G,F, F4 E2 F4 |
+w:---- nes, por-ta ma ---------- nes.
+z16| z4 G8 ^F4 | G4 E4  F4 z4 |
+w:Et stel-la ma-ris 
+C8  =B,4 C4 | A,4 G,8 z2 F,2 | C4 B,2 A,2  G,4 F,4 |
+w:et stel-la ma-ris suc-cur-re ca-den-ti,
+%43
+z4 z2 C2  D4 D2 C2 |B,2 C3 B,A,G,A,F, C4 =B,2 |C4 A,3 A, =B,4 z4 |
+w:suc-cur-re ca-den -------- ti. Sur-ge-re,
+z4 z2 C4 F2 F4 | z8 z4 z2 C2-|C2 F3 E D3 C B,4 A,2 |
+w:sur- ge-re qui_ cu ---- rat,
+C6 C2  C8|| [Q:"Secunda pars"]z16 | z4 C6 B,2 A,2 G,2 |
+w:po-pu-lo: Tu quae ge-nu-
+A,B,CA, B,A,A,G,/F,/  G,4 A,4 | z4 C4 z2 F2 DEFD |EC F4 E2  F8 |
+w:i --------- sti, tu quae ge ------ nu-i-
+%67
+C4 z2 F2  F4 D4 | z2 C2 C4  A,2 F,2 F3 E | D2 C2 z2 F,2  F3 E F2 G2-|
+w:sti, na-tu-ra, na-tu-ra mi-ran -- te, mi-ran ---
+%73
+GF F4 E2  F4 D4 | z8  z4 C4 | D2 F4 E2 F2 A2 G3 F |
+w:-----te, tu-um san-ctum Ge-ni-to -
+%79
+ED C3 B, A,G,  F,2 G,2 A,G,F,E, | F,4 G,4  C8 |A,8  D6 C2 |
+w:------------- rem, vir-go pri -
+%85
+B,4 C2 C2 D2 E2 F3 E |D2 D2 C4  z4 z2 A,2 | B,2 C2 DCB,A, G,2 F,2 B,4 |
+w:- us ac po - ste --ri-us, ac po - ste ----ri-us,
+%91
+z4 z2 C4 C2 D4 | =B,2 B,2 C3 B, A,8 | G,2 G4 G2 A4 F2 F2 |
+w:Ga- bri-e-lis ab o -- re, Ga-bri-e-lis ab
+%97
+GF F4 E2  F4 z2 A,2-|A,2 G,F, G,2 A,2 B,4 z2 F2-|F2 ED E2 F3 EDCB,A, G,2 |
+w:o ---re. Su ----- mens, su -----------
+%103
+F,8  z2 F4 ED | E2 D2 F8 F4 | z4 B,6 F,2 C4-|C4 C4 \
+w:mens il --- lud A- ve, A --- ve,
+%110
+z8|z8 z4 z2 A,2 |B,4 C4 F,2 F2 E2 D2-|D2 ^C2 D4  z2 D2 =C2 G,2|
+w:pec-ca-to-rum mi-se-re -- re, mi-se -
+%117
+A,3 B,CD C4 =B,2 C4 | A,2 C3 B,A,G, A,4 B,2 C2 |D4 C12|]
+w:re ------ re, mi ---- se - re-re.
+
+X:6
+T:Alma Redemptoris Mater
+T:Bassus part
+C:Tom\'as Luis de Victoria (1548-1611)
+O:Florigelium sacrarum cantionum, Petri Phalesij, 1609
+L:1/8
+M:4/2
+%%measurenb 0
+%%squarebreve
+%%scale 0.8
+%%newpage 1
+%%continueall true
+%%footer "$T (Bassus)	Page $P	Gumbleton Music, 2011\n"
+K:F clef=bass
+z16| z8 z4 z2 C2-|C2 C2 F,4 G,4 A,4 |
+w:Re - dem-pto - ris
+%7
+B,6 A,2 G,4 C,4 |F,4 z4  z4 z2 F,2-|F,2 F,2 B,,4 F,4 C,4 |
+w:Ma --- ter, Re - dem-pto-ris Ma-
+%13
+F,8  z8|z16 | z4 F,4  G,3 G, A,4 |
+w:ter, quae per-vi-a
+%19
+B,3 A,B,C D2 C4 F,4 | z4 z2 A,2  B,2 C2 D4 | C4 z4 z4 z2 C,2 |
+w:coe ----- li por-ta ma - nes, por-
+%25
+D,2 E,2 F,6 E,2 D,4 |C,4 z4  z2 F,2 G,2 A,2 |B,6 A,2 G,4 F,4 |
+w:ta ma --- nes, por-ta ma --- nes.
+%31
+z8  z4 C4-|C4 =B,4  C4 A,4 | G,4 z4  F,8 |
+w:Et_ stel-la ma-ris et
+E,4 F,4  D,4 C,4 | z8 C,4 F,4 | C,4 z4  z4 z2 A,2 |
+w: stel-la ma-ris suc-cur-re, suc-
+B,4 B,2 A,2  G,4 F,4 | z2 C,2 F,4  F,2 E,2 D,4 | C,4 F,3 F,  G,4 A,3 A,|
+w:cur-re ca-den-ti, suc-cur-re ca-den-ti. Sur-ge-re, sur-ge-
+B,4 C3 C  F,4 z4 | z8  z4 C,4 | F,3 E, D,3 C, B,,4 F,4 |
+w:re, sur-ge-re qui cu ---- rat,
+C,6 C,2  F,8 || [Q:"Secunda pars"]z16|z8 F,6 E,2 |
+w:po-pu-lo: Tu quae
+  D,2 C,2 D,E, F,4 E,2 F,3 E, |D,4 C,4 F,4 z4 | z8  F,8|
+w:ge-nu-i ------- sti, na-
+%67
+F,4 D,4  B,,8 | C,8  F,8-|F,8  z8 |
+w:tu-ra mi-ran-te_
+%73
+z8 F,4 G,2 B,2-|B,2 A,2 B,2 D2 C4 F,4| z8 z4 G,4 |
+w:tu-um san - ctum Ge-ni-to-rem, Ge-
+%79
+  C,4 F,6 E,2 D,4-|D,4 C,8 F,4-|F,4 D,8 B,,4-|
+w:ni-to   -   -    -  rem, vir -    go pri-
+%85
+B,,4 F,4 z4 z2 F,2-|F,2 G,2 A,2 F,2  C3 C F,2 F,2 | G,2 A,2 B,6 A,2 G,4-|
+w: - us ac_ po-ste -- ri-us, ac po - ste --
+%91
+G,2 G,2 F,4  z2 F,4 F,2 | G,4 E,2 E,2  F,3 E, D,4 | G,4 C,2 C4 C2 D4 |
+w:- ri-us, Ga-bri-e-lis ab o ---re, Ga- bri-e-
+%97
+B,2 B,2 C4 F,4 z2 F,2-|F,2 E,D, E,2 F,2 B,,2 B,4 D2 |C6 F,2  z2 G,2 G,2 B,2-|
+w:lis ab o-re. Su -----mens il-lud A-ve, su-mens il-
+%103
+B,2 A,G, A,2 A,2 B,3 A, G,4-|G,4 F,8 B,,4-|B,,12 C,4-|C,4 z2 F,2 \
+w:---- lud A --- ve, A - ve,_ pec-
+%110
+G,4 A,4 | D,2 D4 C2  B,4 A,4 | z8  F,4 G,4 | A,4 D,4 G,4 C,4 |
+w:ca-to-rum mi-se-re-re, pec-ca-to-rum mi-se-
+F,6 E,2 D,4 C,4 | F,4 z2 F,3 E,D,C, B,,2 A,,2 |B,,4 F,12|]
+w:re ---re, mi ----se-re-re.

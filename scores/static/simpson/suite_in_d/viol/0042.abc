@@ -1,0 +1,50 @@
+%abc-2.1
+%
+% Original edition transcribed and edited by Albert Folop: 
+% http://imslp.org/wiki/Category:Folop_Viol_Music_Collection
+% That edition released under Creative Commons Attribution-NonCommercial-ShareAlike 3.0 licence
+% (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+% This edition converted to abc by Steve West and also released under 
+% Creative Commons Attribution-NonCommercial-ShareAlike 3.0 licence
+% (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+%%measurenb 0
+%%squarebreve
+
+X:1
+T:Suite in D
+T:Ayre
+C:Christopher Simpson
+C:VdGS# 4
+L:1/4
+%%score [ 1 2 3 ]
+%%linebreak
+M:4/4
+K:D
+%
+V:1 clef=treble
+%%MIDI program 40
+d A d e  | f e1/2d1/2 a2-  | a c1/2d1/2 e e  | f1/2f1/2 e1/2d1/2 a d1/2d1/2  | d c1/2B1/2 g2-  | %Bar 5
+g f e2  | z a3/2 g1/2 g  | z f2 e  | d2 A2-  | A3/2 ^G1/2 A2  | %Bar 10
+z d3/2 c1/2 c  | z B2 A  | G F E3/2 D1/2  | D4  :: d d d2  | %Bar 15
+e1/2f1/2 g f2  | z1/2 f1/2f1/2f1/2 f c  | d e f2-  | f e1/2d1/2 e1/2 e e1/2  | f2 c2-  | %Bar 20
+c B ^A2  | f B1/2B1/2 B A  | ^G A B2  | A2 z2  | a d1/2d1/2 d c1/2B1/2  | %Bar 25
+c2 d2  | z b3/2 d1/2 c1/2B1/2  | c2 a2-  | a f e2  | f4  :| 
+%
+V:2 clef=treble
+%%MIDI program 40
+ Z  | d A d e  | f1/2f1/2 e1/2d1/2 a2-  | a d1/2d1/2 d3/2 c1/2  | B c1/2d1/2 e2-  | %Bar 5
+e d c2  | d3 c  | d2 A2  | z f3/2 e1/2 e  | z d2 c  | %Bar 10
+B B2 A  | G2 F d  | c1/2d1/2d1/2d1/2 c3/2 d1/2  | d4  :: B B B1/2c1/2 d-  | %Bar 15
+d c d2  | d d1/2d1/2 c F  | B c d2-  | d c1/2d1/2 c B  | ^A3 f-  | %Bar 20
+f d1/2c1/2 c c  | B2 z2  | B2 e2-  | e A1/2A1/2 A G  | F2 z2  | %Bar 25
+z a3/2 d1/2 d1/2c1/2  | B4  | A a3/2 f1/2 e1/2d1/2  | c1/2d1/2d1/2d1/2 c3/2 d1/2  | d4  :| 
+%
+V:3 clef=bass
+%%MIDI program 42
+D,2 D, A,,  | D,3/2 E,1/2 F, E,1/2D,1/2  | D C1/2B,1/2 C B,1/2A,1/2  | D2 F,2  | G,3 F,1/2E,1/2  | %Bar 5
+A,3 G,  | F,2 E,2  | D,2 C,2  | D,2 C,2  | B,,2 A,,2  | %Bar 10
+B,,2 F,,2  | G,,2 D,,2  | E,, F,,1/2G,,1/2 A,,2  | D,,4  :: G, G, G, F,  | %Bar 15
+E,2 D,2  | B,,2 ^A,,2  | B,,3 =A,,  | G,,4  | F,,4  | %Bar 20
+F,3 E,  | ^D,4  | E, E,,1/2E,,1/2 E, D,  | C,4  | D, D,,1/2D,,1/2 F,, G,,  | %Bar 25
+A,,2 F,,2  | G,,4  | A,,2 F,, G,,  | A,,4  | D,,4  :| 

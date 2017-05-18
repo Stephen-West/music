@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% block content %}
+{%autoescape off %}
+<CENTER><H1>Viol and recorder music</H1></CENTER> 
+[Warning: experimental site while deciding whether to do something permanent]
+<p>
+This site is a collection of downloadable music, mostly from the renaissance and mostly transcribed into modern notation, for viols or recorders. Some of these pieces are my own transcriptions: others are taken from the Albert Folop Collection which is available from the <a href="http://imslp.org/wiki/Category:Folop_Viol_Music_Collection">IMSLP project website</a>. Initially I simply converted the original Folop files into abc notation, but I am working through them and making changes according to my own editorial preferences. It should be readily apparent which files are straight conversions to abc and which have been further edited. 
+<p>
+The collection currently contains {{pieces}} pieces of music by {{composers}} composers.
+<p>
+The recorder music uses treble, octave treble or bass clef, as appropriate. The viol music is in string clefs, with tenor parts in alto clef.
+
+<h2>
+Organisation of the site</h2>
+The main groupings of files are by instrument and number of parts. Indexes are accessible from the navigation panel on the left of every page.
+
+
+<h2>File formats</h2>
+All the music is downloadable as pdf files, which are generally formatted as A4 pages. In most cases, there are separate pdfs for parts and score. Mostly, I have typeset the music using the abc language and the excellent abcm2ps application for generating printable scores. I am gradually adding the abc source files and making them available for download. My usual method of working is to write out the abc notes in separate files and then use a script to automate the assembly of them into a single abc file, using the abc pre-processor, and the conversion to a final pdf file. The 'machine-assembled' abc files may not end up as well laid out as they would if the whole operation was done by hand. <p>
+I have usually formatted pages to suit my own requirements but, using the abc source files, users should be able to create versions to their own preferences. abc notation tools are available for all major platforms and are free.
+
+<h2>Licensing</h2>
+The music itself was all written pre-1700 and is out of copyright. These specific editions are are distributed under either:
+
+<ul>
+<li>the  <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>, or
+<li>the <a rel="licence" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 licence</a>
+</ul>
+
+
+
+{% endautoescape %}
+{% endblock %}

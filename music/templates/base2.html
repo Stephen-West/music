@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+{% load staticfiles %}
+<html>
+<head>
+<head>
+    <meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="Content-Language" content="en-uk" />
+	     
+    <meta http-equiv="imagetoolbar" content="no" />
+    <meta name="MSSmartTagsPreventParsing" content="true" />
+    <meta name="description" content="Free music for recorder and viol" />
+    <meta name="keywords" content="free scores, music, sheet music, recorder, viol, viola da gamba, renaissance, early music" />
+    <meta name="author" content="Steve West" />
+    <style type="text/css" media="all">
+html, body {
+	margin: 0;
+	padding: 0;
+	background-color: #e0e0ff;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+	}
+
+td.button {
+    background-color: #808080;
+
+
+    }
+td.button:hover {
+    background-color: black;
+    color:white;
+}
+td.head {
+    background-color: black;
+    color: white;
+    }
+div.title{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #90ddbb;
+    font-size: 24px;
+    }
+nav {
+    float: left;
+    width: 200px;
+    border: 3px solid #808080;
+
+}
+table.left{
+        width:100%;
+        }
+section {
+    margin-left: 206px;
+    color: black;
+    padding: 5px;
+}
+    </style> 
+<title>{% block title %}Music for viols and recorders{% endblock %}</title>
+
+</head>
+<body>
+<div class='title' width=100% onClick="document.location.href='index.html';"><center>Free renaissance music for viols and recorders</center></div>
+<nav>
+<table class='left'>
+<tr><td class='button' onClick="document.location.href='index.html';">Home page</td></tr>
+<tr><td></td></tr>
+<tr><td class='head'>All music</td></tr>
+<tr><td class='button' onClick="document.location.href='allpieces.html';">All scores</td></tr>
+<tr><td class='button' onClick="document.location.href='allpieces_2.html';">2-part scores</td></tr>
+<tr><td class='button' onClick="document.location.href='allpieces_3.html';">3-part scores</td></tr>
+<tr><td class='button' onClick="document.location.href='allpieces_4.html';">4-part scores</td></tr>
+<tr><td class='button' onClick="document.location.href='allpieces_5.html';">5-part scores</td></tr>
+<tr><td class='button' onClick="document.location.href='allpieces_6.html';">6-part scores</td></tr>
+<tr><td class='button' onClick="document.location.href='allpieces_7.html';">>6-part scores</td></tr>
+<tr><td class='button' onClick="document.location.href='composers.html';">Composer index</td></tr>
+<tr><td></td></tr>
+<tr><td class='head'>Viol music</td></tr>
+<tr><td class='button' onClick="document.location.href='violpieces.html';">All viol scores</td></tr>
+<tr><td class='button' onClick="document.location.href='violpieces_2.html';">2-part viol scores</td></tr>
+<tr><td class='button' onClick="document.location.href='violpieces_3.html';">3-part viol scores</td></tr>
+<tr><td class='button' onClick="document.location.href='violpieces_4.html';">4-part viol scores</td></tr>
+<tr><td class='button' onClick="document.location.href='violpieces_5.html';">5-part viol scores</td></tr>
+<tr><td class='button' onClick="document.location.href='violpieces_6.html';">6-part viol scores</td></tr>
+<tr><td></td></tr>
+<tr><td class='head'>Recorder music</td></tr>
+<tr><td class='button' onClick="document.location.href='recorderpieces.html';">All recorder scores</td></tr>
+<tr><td class='button' onClick="document.location.href='recorderpieces_2.html';">2-part recorder scores</td></tr>
+<tr><td class='button' onClick="document.location.href='recorderpieces_3.html';">3-part recorder scores</td></tr>
+<tr><td class='button' onClick="document.location.href='recorderpieces_4.html';">4-part recorder scores</td></tr>
+<tr><td class='button' onClick="document.location.href='recorderpieces_5.html';">5-part recorder scores</td></tr>
+<tr><td class='button' onClick="document.location.href='recorderpieces_6.html';">6-part recorder scores</td></tr>
+<tr><td class='button' onClick="document.location.href='recorderpieces_7.html';">>6-part recorder scores</td></tr>
+</table>
+</nav>
+<section>
+{% block content %}
+{% endblock %}
+<center>
+<a href='/index.html'>Home page</a><br>
+<a href='/allpieces.html'>Full index of pieces by composer</a> |
+<a href='/recorderpieces.html'>Recorder pieces by composer</a> |
+<a href='/violpieces.html'>Viol pieces by composer</a><br>
+Recorder pieces in
+<a href='/recorderpieces_2.html'>two</a>,
+<a href='/recorderpieces_3.html'>three</a>,
+<a href='/recorderpieces_4.html'>four</a>,
+<a href='/recorderpieces_5.html'>five</a>,
+<a href='/recorderpieces_6.html'>six</a>,
+<a href='/recorderpieces_16.html'>sixteen</a>
+parts<br>
+Viol pieces in
+<a href='/violpieces_2.html'>two</a>,
+<a href='/violpieces_3.html'>three</a>,
+<a href='/violpieces_4.html'>four</a>,
+<a href='/violpieces_5.html'>five</a>,
+<a href='/violpieces_6.html'>six</a> parts
+</center>
+</section>
+
+
+
+
+</div>
+</body>
+</html>
+
+

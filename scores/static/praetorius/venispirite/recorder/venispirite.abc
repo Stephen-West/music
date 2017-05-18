@@ -1,0 +1,92 @@
+%%measurenb 0
+%%squarebreve
+%%transpose 5
+%%scale 0.6
+%%leftmargin 1cm
+%%rightmargin 1cm
+%%topmargin 0
+%%footer "$T	Page $P	SMW 2016"
+X:1
+%%maxshrink 0.7
+%%breaklimit 0.6
+T:Veni Sancte Spiritus
+C:Michael Praetorius (1571 – 1621)
+%%score [1 2 3 4]
+L:1/4
+M:4/2
+K:C
+V:1 treble 
+%%MIDI program 68
+V:2 treble 
+%%MIDI program 58
+V:3 treble 
+%%MIDI program 57
+V:4 clef=bass^8
+%%MIDI program 60
+V:1
+ d2 B2 z2 d2 | B G/A/B/c/ d G2 z2 | d B c A B G A/B/c/A/ | d2 c2 B B A2- |     A G2 ^F G2 D2 | G4 z4 | %6
+w:Ve- ni, ve- ni san ---- cte, ve- ni sanc- te, ve- ni san ---- cte spi- ri- tus,_ spi -- ri- tus:
+ z d B G d/c/B/A/ G2 | E e c A e/d/c/B/ A2 | D2 d2 d d e2 |     d2 B2 c2 B2 | d4 B4 | z2 B2 c2 A2 | %12
+w: re- ple tu- o ---- rum, re- ple tu ---- - rum, re- ple tu- o- rum, re- ple tu- o- rum, cor- da fi- 
+ B A G2 z2 A2 | c G A G ^F4 |     G2 c c B A G2- | G G d B e d/c/ d d | A4 F G A B | c2 F2 C D E F |     %18
+w:de- li- um, cor- da fi- de- li- um, cor- da fi- de- li- um,_ cor- da fi- de --- li- um: et tu- i a- mo- ris, et tu- i a-
+ G2 c G2 A B c | d2 G2 D E ^F F | G A B2 A4 | z2 A B c2 A2 | G4 B2 A2- |     A G ^F2 F2 z A | %24
+w:mo- ris, et tu- i a- mo- ris, et tu- i a- mo -- ris, in __ e- is ig- nem_ ac- cen- de, i-
+ G F E2 E E F>G | A G ^F2 F3 F | G A B3 B c2 | G2 A2 G4- |     G4 ^F4- | F2 G2 G4 | G6 G2 | %31
+w:  gnem ac- cen- de, ig- nem__ ac- cen- de. Qui per- di- ver- si- ta- tem lin- gua - rum_ cun- cta- rum, gen-
+ c c c c e4 | c2 e3 d d2- |     d2 ^c2 d2 A A | A/G/^F/E/F/G/ A D2 A A | A/G/^F/E/F/G/ A B2 B2- |     %36
+w: tes in u- ni- ta- te fi - - - de- i con- gre ga ------ sti, con- gre- ga ------ sti. Al-
+ B c B c B c d2 | B G2 ^F G/F/E/F/ G2 | A B c G2 A G A | G F/E/ D2 D d2 ^c |     d/c/B/c/ d G A2 D2- | %41
+w:- le- lu- ---- ja, al- le- lu ---- ja,__ al- le- lu ----- ja, al- le- lu ----  ja, al le-
+ D2 D2 D2 d2- | d2 B2 A4 | B8 |] %44
+w:- lu- ja, al - le- lu- ja.
+V:2
+ z2 d2 B2 z d- | d B2 G/A/B/c/ d G2 | z4 d B c A | B G A/B/c/A/ d2 c2 |     B B A3 G2 ^F | %5
+w: Ve- ni, ve - ni san ---- cte, ve- ni san- cte, ve- ni san ---- cte Spi- ri- tus, Spi- ri- 
+ G4 z d B G | d/c/B/A/ G2 D2 z d | c A e/d/c/B/ A3/2 B/ c2 | B3 B G B c2 |     B2 G2 G2 G2 | A4 G3 G | %11
+w: tus: re- ple tu- o ---- rum, re- ple tu- o ------ rum, re- ple tu- o- rum, re- ple tu- o- rum, cor-
+ c2 G2 A G F2 | z2 E2 F E D C/D/ | E D/E/ F E D A d A |     c d e2 z2 B2 | c>c B G c A B B | %16
+w: da fi- de- li- um, cor- da fi- de ------ li- um, cor- da fi- de- li- um, fi- de- li- um, cor- da fi- de li
+ c2 F G A B c2 | F2 C D E F G A |     E F G2 C2 G A | B c d2 G2 z2 | d3 e f2 d2 | c2 d2 G2 c2- | %22
+w:um: et tu- i a- mo- ris, et tu- i a- mo ---- ris, et tu- i a- mo- ris, in__ e- is ig- nem, in
+ c2 c2 d3 d |     d B A A d A3/2 B/c/d/ | e d ^c4 d A | d B A2 A4 | z8 | z2 c2 B4 |     e4 A4- | %29
+w:_ e- is i- gnem ac- cen- de, i- gnem____ ac- cen- de, ig- nem ac- cen- de. Lin- gua -  rum
+  A2 c2   B4 | c2  G2   c   c  c  c | e4  c2 c2 | G   G  c  c   c2  A2 | A   A   E2 F   A    A/G/^F/E/ | %34
+w:_  cun- cta- rum, gen- tes in u- ni- ta- te gen- tes, in u- ni- ta- te   fi- de- i con- gre- ga ---
+ ^F/G/ A D2 F A A/G/F/E/ | ^F/G/ A2 D2 d2 e |     d e d e d c/B/ A2 | G B2 A B A B c | d2 G2 z2 c2 | %39
+w:--- sti, con- gre- ga ------ sti. Al- le- lu- ------- ja, al- le- lu ---- ja, al- 
+ c2 B2 A A2 G |     F G A B c2 B B | A G ^F G A B A/G/F/E/ | ^F2 G4 F2 | G8 |] %44
+w:le- lu- ja, al- le- lu ---- ja, al- le ----------- lu- ja.
+V:3
+ z4 d2 B2 | z d2 B2 G/A/B/c/ d | G2 A ^F G2 z2 | d B c A B G A/B/c/A/ |     d2 c2 B2 A2 | B4 z2 z d | %6
+w:Ve- ni, ve- ni san ---- cte Spi- ri- tus, ve- ni san- cte, ve- ni san --- - cte Spi- ri- tus: re- 
+ B G d/c/B/A/ G2 D2 | A c A e/d/c/B/ A2 G/F/ | G2 G G D G G2- |     G2 D2 E2 D3/2 E/ | ^F G F2 G2 d2 | %11
+w:ple tu- o ---- rum, re- ple tu- o ---- -- - rum, re- ple tu- o - rum, re- ple__ tu- o- rum, cor- 
+ e2 d2 A B c2 | G2 c G A G F2 | G2 c2 A D2 D |     E F G2 D2 G D | E E D2 C2 G D | F F C2 z2 F G | %17
+w:da fi- de- li- um, cor- da fi- de- li- um, cor- da fi- de- li- um,__ cor- da fi- de- li- um, cor- da fi- de- li- um: et tu-
+ A B c B/A/ G2 C2 |     C D E3/2 F/ G2 D2 | G A B c d2 A2 | z2 D3 E F G | A2 F2 E2 F2- | %22
+w: i a- mo- --- ris, et tu- i a- mo- ris, et tu- i a- mo- ris, et tu- i a- mo- ris in e-
+ F2 E2 G2 C3/2 E/ |     ^F G D4 E2 | z4 z A D3/2 E/ | ^F G D2 D3 D | D3 D D D E2- | E2 F2 D2 D2- |     %28
+w:- is ig- nem__ ac- cen- de, ig- nem__ ac- cen- de. Qui per di- ver- si- ta - tem lin- gua-
+ D ^C/B,/ C2 D4- | D2 E2 D4 | E4 E2 E E | G G G4 G2 | E3/2 F/ G4 F2 |     E2 A A A/G/^F/E/F/G/ A | %34
+w:- --- rum_ cun- cta- rum, gen- tes in u- ni- ta- te fi -- de- i con- gre- ga ------ 
+ D2 A A A/G/^F/E/F/G/ A | D D3/2 E/ ^F G4 |     z2 G2 G2 ^F2 | G D2 C D C D E | F2 E E2 F E F | %39
+w:sti, con- gre- ga ------ sti, con- gre- ga- sti. Al- le- lu- ja, al- le- lu ---- ja, al- le- lu -
+ E F G2 ^F F2 G |     A G F E2 ^F G2 | ^F G A G F G F3/2 G/ | A2 D2 D4- | D8 |] %44
+w:--- ja, al- le- lu ----- ja, al- le ------ lu- ja._
+V:4
+ Z5 | z4 G,4 | G,4 G,4 | A,8 | G,3 G, B, G, C2 |     G,3 G, E,2 G,2 | D,4 G,4 | %11
+w: Re- ple tu- o- rum, re- ple tu- o- rum, re- ple tu- o- rum,
+ z8 | z2 C,2 F,4 | C,4 D,2 D,2 |     C,4 G,4 | C2 G,2 A,2 G,2 | F,4 z4 | F, G, A, B, C4 |     %18
+w: cor- da fi- de- li- um, cor- da- fi- de- li- um: et tu- i a- mo- 
+ C,2 C,3/2 D,/ E, F, G,2 | G,2 G, A, B, C D2 | G,4 D,3 E, | F,2 D,2 C,4- | C,4 z4 |     %23
+w:ris, et tu- i a- mo- ris, et tu- i a- mo- ris in__ e- is_
+ z4 z D A,3/2 B,/ | C D A,2 A,2 z2 | z4 z2 D,2 | G,3 G, G, G, C2- | C2 F,2 G,4 |     E,4 D,4- | %29
+w: ig- nem__ ac- cen- de. Qui per di- ver- si- ta - tem lin- gua- rum
+ D,2 C,2 G,4 | C,6 C2 | C2 C2 C2 C2 | C2 C2 A,4- |     A,2 A,2 D,4 | D,6 D,2 | D,4 G,4 |     %36
+w:_ cun- cta- rum, gen- tes in u- ni- ta- te fi - de- i con- gre- ga- sti.
+ G,4 G,2 D,2 | G,2 G, A, G, A, G, F,/E,/ | D,2 C,2 C,4 | C,2 G,2 D,2 D E |     D E D C/B,/ A,2 G,2 | %41
+w:Al- le- lu- ja, al- le- lu ----- ja, al- le- lu- ja, al- le- lu ----- ja,
+ D,4 D,4 | D,8 | G,8 |] %44
+w:al- le- lu- ja.
+

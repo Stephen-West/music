@@ -1,0 +1,347 @@
+%Paper size for A4:
+%%pageheight  29.7cm
+%%pagewidth  21cm
+%
+%Bottom margin for inkjet printer:
+%%botmargin 1.5cm
+%%footer "$T. Page $P		SMW 2012"
+%
+%%staffsep 1.0cm
+X: 0
+T: Clorinda False
+C: Thomas Morley
+C:Madrigals to four voices: 1594
+L: 1/4
+M: C
+%#Voices: 4
+%#Instrument: Recorders
+%%score [1 2 3 4]
+%%scale 0.7
+%%measurenb 0
+%%squarebreve
+V:1 name="Treble I"
+%%MIDI program 1 -1
+V:2 name="Treble II"
+%%MIDI program 2 -1
+V:3 name="Tenor" clef=treble octave=1
+%%MIDI program 3 -1
+V:4 name="Bass" clef=bass
+%%MIDI program 4 -1
+K: F
+[V:1]  
+z4 |z2 G2 |: d3/ e/ f d | c3/ B/ A G | A2 =B d | d d d2 |
+w:Clo- rin- da false, a- dieu, thy love tor- ments me, thy love tor-ments
+ d4 |z2 z f | e d c3/ d/ | B3/ c/ A d | 
+w:me;  Let Thyr-sis, Thyr-sis have thy heart, since 
+B c/d/ _e e | d4 |[1 =B4 |z2 G2 :| [2 =B2 d2 |
+w:he___ con-tents thee. Clo- thee. O
+_e3 e | d2 G2 | c d B2 | A4 | z4 |
+w: grief and bit-ter an --guish,
+z2 d2 | g3 g | f2 d2 | _e4 | d2 d2- | 
+w: O grief and bit-ter an-guish; for
+d2 c2- | c B B2- | B2 A2 | B4 |z2 f f/_e/ | 
+w:_ thee_ I lan --guish. Fain I a-
+d d f2 | c4 | d d/_e/ f d | g4 | f f3/ f/ f | 
+w:las would hide it, fain I a-las would hide it. O but who
+f e f2 | d2 d2 | c/B/c/d/ _e e | d4 | =B4 |
+w:can a-bide it? I can, I can-not I a-bide it.
+z2 z d | _e/d/e/d/ e d |z2 z d | _e/d/e/d/ e d |
+w:A-dieu, a-dieu, a-dieu then, a-dieu, a-dieu, a-dieu then,
+z2 d2- | d2 A2 |z =B3/ B/ B | c d _e2 | d2 d2 | 
+w:fare - well leave me, death now de-sir-ing, thou
+f3 f | e d d ^c | d3 f | e3/ c/ d3/ B/ | c A B G | 
+w: hast, lo, thy re-quir - ing. Thus spake Phil-is-tus, on his hook re-
+d dz g | f3/ d/ _e3/ c/ | d B A A |z d f2- | 
+w:ly-ing, thus spake he, on his hook re-ly-ing, and sweet-
+f e d c | B A3/ G/ G- | G ^F/E/ F2 | G4 |z2 z g | 
+w:- ly, sweet-ly, sweet fell a-dy ----ing. Thus
+f3/ d/ _e3/ c/ | d3/ B/ c3/ d/ | B A G2 | ^F2z =f | e3/ c/ d3/ B/ | 
+w:spake Phil-is-tus, on his hook re-ly -- ing, thus spake Phil-is-tus,
+c A B G | d dz g | f3/ d/ _e3/ c/ | d B A A |
+w:on his hook re-ly-ing,  thus spake he, on his hook re-ly-ing,
+z d f2- | f e d c | B A3/ G/ G- | G ^F/E/ F2 | G4|]
+w:and sweet - ly, sweet-ly, sweet fell a-dy ----ing.
+%
+[V:2] 
+ D4 | G3/ A/ B G |: F3/ E/ D D | E3/ E/ ^F G | ^F2 G B | A G A2 | 
+w: Clo-rin-da false, a-dieu thy love, a-dieu, thy love tor-ments me thy love tor-ments
+=B2z _B | A3/ G/ A F | G2 A2 | D G F B | 
+w:me; Let Thyr-sis, Thyr-sis  have thy heart, since he con-
+G3 A | ^F G2 F |[1 G2 D2 | G3/ A/ B G :|[2  G4 |
+w:tents, con-tents __ thee. Clo-rin-da false, a- thee.
+z2 G2 | B3 B | A ^F G2- | G2 ^F2 | G2 G2 | 
+w:O grief and bit-ter an -- guish, O
+d3 d | B2 c2 | d2 =B2 | c4 | =B2 _B2 | 
+w:grief and bit-ter an -- guish; for
+G2 G2 | F4- | F4 | F4 |z2 d d/c/ | 
+w:thee I lan - guish. Fain I a-
+B B d2 | A4 | B B/c/ d B | _e4 | d d d3/ d/ | 
+w:las would hide it, fain I a-las would hide it. O but who
+c B B A | B2 B2 | A3 G | ^F G G F | G4 |
+w:can a-bide_ it? I can-not I, a-bide_ it.
+z2 z =B | c/=B/c/B/ c B |z2 z =B | c/=B/c/B/ c B |
+w:A-dieu, a-dieu, a-dieu then, a-dieu, a-dieu a-dieu then,
+z2 G2- | G2 ^F2 |z G3/ G/ G | G G G2 | G2 B2 | 
+w:fare -well leave me, death now de-sir-ing, thou
+A3 A | A F/G/ A2 | A B A3/ F/ | G3/ A/ F3/ G/ | E D D/D/ B | 
+w:hast, lo, thy re - quir-ing. Thus spake Phil-is-tus, on his hook re-ly-ing, thus
+A3/ F/ G3/ _E/ | F B A G | ^F G F A | B2 A2 | 
+w:spake Phil-is-tus, on his hook re-ly - ing, and sweet-ly,
+D2 A2 | F2 D2 | D4 | =B,2z B | A3/ F/ G3/ A/ | 
+w:sweet-ly, fell a-dy-ing. Thus spake Phil-is-tus, 
+B B2 A | B B A3/ A/ | G F B, C | D/D/ ^F A3/ =F/ | G3/ A/ F3/ G/ | 
+w:once, thus spake he, thus spake he, on his hook re-ly-ing, thus spake Phil-is-tus, on his
+E D D/D/ B | A3/ F/ G3/ _E/ | F B A G | ^F G F A | 
+w: hook re-ly-ing, thus spake Phil-is-tus, on his hook re-ly -ing, and
+B2 A2 | D2 A2 | F2 D2 | D4 | D4|]
+w:sweet-ly, sweet-ly, fell a-dy-ing. 
+%
+[V:3]  
+z4 | z4 |: z2 z B, | C3/ C/ D _E | D2 G, G | ^F G G F | 
+w:A-dieu thy love tor-ments me, thy love tor-ments_
+G2 G,2 | D3/ E/ F D | C/C/B,/B,/ A,2 | G, D D F | 
+w:me; Clo-rin-da false, a-dieu thy love tor-ments me; Let Thyr-sis
+_E B, C3/ B,/ | A, G, A,2 | [1 G,4- | G,4 :|[2  G,4- |
+w:have thy heart, since he con-tents thee._ thee.
+G,4 | z4 |z2 G,2 | D3 D | B, G, B,2 | 
+w:_ O grief and bit-ter an-
+A,2 F, F, | G,4 | A,2 G,2- | G,2 G2- | G2 F2 | 
+w:guish, bit-ter an-guish; for_ thee_ un-
+_E4- | E2 D2 | C4 | D2 D D/C/ | B, B, B,/C/D/_E/ | 
+w:kind_ I lan-guish. Fain I a-las would hide___
+F F F, F,/G,/ | A, F, F F | F F/_E/ D D | B,/A,/G,/A,/ B, C | D B, F, F,/G,/ | 
+w:_ it, fain I a-las would hide it, fain I a-las would hide______ it. O but who
+A, B, C2 | B,2 F, F,/G,/ | A,3/ B,/ C2- | C B, A,2 | G,3 D | 
+w:can a-bide it? I can-not I a-bide,_ a-bide it. A-
+_E/D/E/D/ E D |z2 z D | _E/D/E/D/ E D | z4 | 
+w:dieu, a-dieu, a-dieu then, a-dieu, a-dieu, a-dieu then,
+B,4 | A,2z D- | D/D/ D D D | _E D C2 | =B,2 D2- | 
+w:fare-well leave_ me, death now de-sir --ing, thou
+D2 A,3/ =B,/ | ^C D E2 | D3 D | C3/ A,/ B,3/ G,/ | A, ^F, G, G, | 
+w:_ hast, lo, thy re-quir-ing. Thus spake Phil-is-tus, on his hook re-
+D,/D,/ D B,3/ C/ | A, D C G, | A, B,/C/ D2 | D2 D2 | 
+w:ly-ing, Thus spake Phil-is-tus, on his hook re - ly-ing, and
+F3 E | D C B,2 | A, G, A,2 | G,3 G | F3/ D/ _E3/ C/ | 
+w:sweet-ly, sweet-ly, fell_ a-dy-ing. Thus spake Phil-is-tus
+D B, C/D/ _E | F G E3/ D/ | D D G, G, | A,2 A, D | C3/ A,/ B,3/ G,/ | 
+w:once, thus spake__ he, thus spake he,  on his hook re-ly-ing, thus spake Phil-is-tus,
+A, ^F, G, G, | D,/D,/ D B,3/ C/ | A, D C G, | A, B,/C/ D2 |
+w: on his hook re-ly-ing, thus spake Phil-is-tus,  on his hook re -ly- 
+D2 D2 | F3 E | D C B,2 | A, G, A,2 | G,4|]
+w:ing, and sweet-ly, sweet-ly, fell a-dy - ing. 
+%
+[V:4] 
+ z4 | z4 |: z4 | z4 | z4 |z2 D,2 | 
+w:Clo-
+G,3/ A,/ B, G, | F,3/ E,/ D, D, | E,/F,/ G,2 ^F, | G, G, D, B,, | 
+w:rin-da false, a-dieu thy love tor-ments___ me; Let Thyr-sis
+_E,3/ D,/ C, C, | D, D, D,2 | [1 G,,4- | G,,4 :|[2  G,,4- |
+w:have thy heart, since he con-tents thee._ thee.
+G,,4 | z4 | z4 |z2 D,2 | G,3 G, | 
+w:_ O grief and
+F,2 D,2 | _E,4 | D,2 G,2 | C,3/ D,/ _E, F, | G,2 B,2 | 
+w:bit-ter an-guish;  for thee un-kind I lan-guish.
+_E,4 | F,4- | F,4 | B,,2 B, B,/A,/ | G, G, B,2 | 
+w: I lan -guish. Fain I a-las would hide 
+B,,4 | F, F,/G,/ A, F, | B,2 B,2 | _E, E,/F,/ G, A, | B, B,, D, D,/_E,/ | 
+w:it, fain I a-las would hide it, fain I a-las would hide it. O but who
+F, G, F,2 | B,, B,, B,,/C,/D,/E,/ | F,2 C,2 | D,4 | G,,3 G, | 
+w:can a-bide it? I can, I can-not I a-bide it. A-
+C/=B,/C/B,/ C G, |z2 z G, | C/=B,/C/B,/ C G, | z4 | 
+w:dieu, a-dieu, a-dieu then, a-dieu, a-dieu, a-dieu then,
+G,4 | D,4 |z G,3/ G,/ G, | C, =B,, C,2 | G,2 G,2 | 
+w:fare-well leave me, death now de-sir-ing, thou
+D,3/ E,/ F,3/ G,/ | A, B, A,2 | D,4 | z4 |z2 z G, | 
+w:hast, lo, thy re-quir --ing. Thus
+F,3/ D,/ _E,3/ C,/ | D, B,, C, _E, | D,4 | D,2 D,2 | 
+w:spake Phil-is-tus, on his hook re-ly-ing, and
+D,4 | D,4 | D,4 | G,,4 | z4 |
+w:fell a-dy-ing.
+z2 z C | B,3/ G,/ A,3/ ^F,/ | G, D, _E, E, | D,2 D,2 | z4 |
+w:Thus spake Phil-is-tus, on his hook re-ly-ing,
+z2 z G, | F,3/ D,/ _E,3/ C,/ | D, B,, C, _E, | D,4 | 
+w:thus spake Phil-is-tus, on his hook re-ly-
+D,2 D,2 | D,4 | D,4 | D,4 | G,,4|]
+w:ing, and fell a-dy-ing. 
+
+%To get title near top of page:
+%%titlespace 0
+%%topspace 0
+%%notespacingfactor 1.2
+X: 1
+T: Clorinda False
+T:Descant
+C: Thomas Morley
+L: 1/4
+M: C
+%#Noindex
+%%measurenb 0
+%%squarebreve
+%%scale 0.95
+K: F 
+z4 |z2 G2 |: d3/ e/ f d | c3/ B/ A G | A2 =B d | d d d2 |
+w:Clo- rin- da false, a- dieu, thy love tor- ments me, thy love tor-ments
+ d4 |z2 z f | e d c3/ d/ | B3/ c/ A d | 
+w:me;  Let Thyr-sis, Thyr-sis have thy heart, since 
+B c/d/ _e e | d4 |[1 =B4 |z2 G2 :| [2 =B2 d2 |
+w:he___ con-tents thee. Clo- thee. O
+_e3 e | d2 G2 | c d B2 | A4 | z4 |
+w: grief and bit-ter an --guish,
+z2 d2 | g3 g | f2 d2 | _e4 | d2 d2- | 
+w: O grief and bit-ter an-guish; for
+d2 c2- | c B B2- | B2 A2 | B4 |z2 f f/_e/ | 
+w:_ thee_ I lan --guish. Fain I a-
+d d f2 | c4 | d d/_e/ f d | g4 | f f3/ f/ f | 
+w:las would hide it, fain I a-las would hide it. O but who
+f e f2 | d2 d2 | c/B/c/d/ _e e | d4 | =B4 |
+w:can a-bide it? I can, I can-not I a-bide it.
+z2 z d | _e/d/e/d/ e d |z2 z d | _e/d/e/d/ e d |
+w:A-dieu, a-dieu, a-dieu then, a-dieu, a-dieu, a-dieu then,
+z2 d2- | d2 A2 |z =B3/ B/ B | c d _e2 | d2 d2 | 
+w:fare - well leave me, death now de-sir-ing, thou
+f3 f | e d d ^c | d3 f | e3/ c/ d3/ B/ | c A B G | 
+w: hast, lo, thy re-quir - ing. Thus spake Phil-is-tus, on his hook re-
+d dz g | f3/ d/ _e3/ c/ | d B A A |z d f2- | 
+w:ly-ing, thus spake he, on his hook re-ly-ing, and sweet-
+f e d c | B A3/ G/ G- | G ^F/E/ F2 | G4 |z2 z g | 
+w:- ly, sweet-ly, sweet fell a-dy ----ing. Thus
+f3/ d/ _e3/ c/ | d3/ B/ c3/ d/ | B A G2 | ^F2z =f | e3/ c/ d3/ B/ | 
+w:spake Phil-is-tus, on his hook re-ly -- ing, thus spake Phil-is-tus,
+c A B G | d dz g | f3/ d/ _e3/ c/ | d B A A |
+w:on his hook re-ly-ing,  thus spake he, on his hook re-ly-ing,
+z d f2- | f e d c | B A3/ G/ G- | G ^F/E/ F2 | G4|]
+w:and sweet - ly, sweet-ly, sweet fell a-dy ----ing.
+
+X: 2
+T: Clorinda False
+T:Treble 
+C: Thomas Morley
+%#Noindex
+L: 1/4
+M: C
+%%measurenb 0
+%%squarebreve
+%%scale 0.95
+K: F octave=1
+ D4 | G3/ A/ B G |: F3/ E/ D D | E3/ E/ ^F G | ^F2 G B | A G A2 | 
+w: Clo-rin-da false, a-dieu thy love, a-dieu, thy love tor-ments me thy love tor-ments
+=B2z _B | A3/ G/ A F | G2 A2 | D G F B | 
+w:me; Let Thyr-sis, Thyr-sis  have thy heart, since he con-
+G3 A | ^F G2 F |[1 G2 D2 | G3/ A/ B G :|[2  G4 |
+w:tents, con-tents __ thee. Clo-rin-da false, a- thee.
+z2 G2 | B3 B | A ^F G2- | G2 ^F2 | G2 G2 | 
+w:O grief and bit-ter an -- guish, O
+d3 d | B2 c2 | d2 =B2 | c4 | =B2 _B2 | 
+w:grief and bit-ter an -- guish; for
+G2 G2 | F4- | F4 | F4 |z2 d d/c/ | 
+w:thee I lan - guish. Fain I a-
+B B d2 | A4 | B B/c/ d B | _e4 | d d d3/ d/ | 
+w:las would hide it, fain I a-las would hide it. O but who
+c B B A | B2 B2 | A3 G | ^F G G F | G4 |
+w:can a-bide_ it? I can-not I, a-bide_ it.
+z2 z =B | c/=B/c/B/ c B |z2 z =B | c/=B/c/B/ c B |
+w:A-dieu, a-dieu, a-dieu then, a-dieu, a-dieu a-dieu then,
+z2 G2- | G2 ^F2 |z G3/ G/ G | G G G2 | G2 B2 | 
+w:fare -well leave me, death now de-sir-ing, thou
+A3 A | A F/G/ A2 | A B A3/ F/ | G3/ A/ F3/ G/ | E D D/D/ B | 
+w:hast, lo, thy re - quir-ing. Thus spake Phil-is-tus, on his hook re-ly-ing, thus
+A3/ F/ G3/ _E/ | F B A G | ^F G F A | B2 A2 | 
+w:spake Phil-is-tus, on his hook re-ly - ing, and sweet-ly,
+D2 A2 | F2 D2 | D4 | =B,2z B | A3/ F/ G3/ A/ | 
+w:sweet-ly, fell a-dy-ing. Thus spake Phil-is-tus, 
+B B2 A | B B A3/ A/ | G F B, C | D/D/ ^F A3/ =F/ | G3/ A/ F3/ G/ | 
+w:once, thus spake he, thus spake he, on his hook re-ly-ing, thus spake Phil-is-tus, on his
+E D D/D/ B | A3/ F/ G3/ _E/ | F B A G | ^F G F A | 
+w: hook re-ly-ing, thus spake Phil-is-tus, on his hook re-ly -ing, and
+B2 A2 | D2 A2 | F2 D2 | D4 | D4|]
+w:sweet-ly, sweet-ly, fell a-dy-ing. 
+
+X: 3
+T: Clorinda False
+T:Tenor
+C: Thomas Morley
+%#Noindex
+L: 1/4
+M: C
+%%measurenb 0
+%%squarebreve
+%%scale 0.9
+K: F clef=treble octave=1
+z4 | z4 |: z2 z B, | C3/ C/ D _E | D2 G, G | ^F G G F | 
+w:A-dieu thy love tor-ments me, thy love tor-ments_
+G2 G,2 | D3/ E/ F D | C/C/B,/B,/ A,2 | G, D D F | 
+w:me; Clo-rin-da false, a-dieu thy love tor-ments me; Let Thyr-sis
+_E B, C3/ B,/ | A, G, A,2 | [1 G,4- | G,4 :|[2  G,4- |
+w:have thy heart, since he con-tents thee._ thee.
+G,4 | z4 |z2 G,2 | D3 D | B, G, B,2 | 
+w:_ O grief and bit-ter an-
+A,2 F, F, | G,4 | A,2 G,2- | G,2 G2- | G2 F2 | 
+w:guish, bit-ter an-guish; for_ thee_ un-
+_E4- | E2 D2 | C4 | D2 D D/C/ | B, B, B,/C/D/_E/ | 
+w:kind_ I lan-guish. Fain I a-las would hide___
+F F F, F,/G,/ | A, F, F F | F F/_E/ D D | B,/A,/G,/A,/ B, C | D B, F, F,/G,/ | 
+w:_ it, fain I a-las would hide it, fain I a-las would hide______ it. O but who
+A, B, C2 | B,2 F, F,/G,/ | A,3/ B,/ C2- | C B, A,2 | G,3 D | 
+w:can a-bide it? I can-not I a-bide,_ a-bide it. A-
+_E/D/E/D/ E D |z2 z D | _E/D/E/D/ E D | z4 | 
+w:dieu, a-dieu, a-dieu then, a-dieu, a-dieu, a-dieu then,
+B,4 | A,2z D- | D/D/ D D D | _E D C2 | =B,2 D2- | 
+w:fare-well leave_ me, death now de-sir --ing, thou
+D2 A,3/ =B,/ | ^C D E2 | D3 D | C3/ A,/ B,3/ G,/ | A, ^F, G, G, | 
+w:_ hast, lo, thy re-quir-ing. Thus spake Phil-is-tus, on his hook re-
+D,/D,/ D B,3/ C/ | A, D C G, | A, B,/C/ D2 | D2 D2 | 
+w:ly-ing, Thus spake Phil-is-tus, on his hook re - ly-ing, and
+F3 E | D C B,2 | A, G, A,2 | G,3 G | F3/ D/ _E3/ C/ | 
+w:sweet-ly, sweet-ly, fell_ a-dy-ing. Thus spake Phil-is-tus
+D B, C/D/ _E | F G E3/ D/ | D D G, G, | A,2 A, D | C3/ A,/ B,3/ G,/ | 
+w:once, thus spake__ he, thus spake he,  on his hook re-ly-ing, thus spake Phil-is-tus,
+A, ^F, G, G, | D,/D,/ D B,3/ C/ | A, D C G, | A, B,/C/ D2 |
+w: on his hook re-ly-ing, thus spake Phil-is-tus,  on his hook re -ly- 
+D2 D2 | F3 E | D C B,2 | A, G, A,2 | G,4|]
+w:ing, and sweet-ly, sweet-ly, fell a-dy - ing. 
+
+X: 4
+T: Clorinda False
+T:Bass
+C: Thomas Morley
+%#Noindex
+L: 1/4
+M: C
+%%measurenb 0
+%%squarebreve
+%%scale 1.0
+K: F clef=bass
+ z4 | z4 |: z4 | z4 | z4 |z2 D,2 | 
+w:Clo-
+G,3/ A,/ B, G, | F,3/ E,/ D, D, | E,/F,/ G,2 ^F, | G, G, D, B,, | 
+w:rin-da false, a-dieu thy love tor-ments___ me; Let Thyr-sis
+_E,3/ D,/ C, C, | D, D, D,2 | [1 G,,4- | G,,4 :|[2  G,,4- |
+w:have thy heart, since he con-tents thee._ thee.
+G,,4 | z4 | z4 |z2 D,2 | G,3 G, | 
+w:_ O grief and
+F,2 D,2 | _E,4 | D,2 G,2 | C,3/ D,/ _E, F, | G,2 B,2 | 
+w:bit-ter an-guish;  for thee un-kind I lan-guish.
+_E,4 | F,4- | F,4 | B,,2 B, B,/A,/ | G, G, B,2 | 
+w: I lan -guish. Fain I a-las would hide 
+B,,4 | F, F,/G,/ A, F, | B,2 B,2 | _E, E,/F,/ G, A, | B, B,, D, D,/_E,/ | 
+w:it, fain I a-las would hide it, fain I a-las would hide it. O but who
+F, G, F,2 | B,, B,, B,,/C,/D,/E,/ | F,2 C,2 | D,4 | G,,3 G, | 
+w:can a-bide it? I can, I can-not I a-bide it. A-
+C/=B,/C/B,/ C G, |z2 z G, | C/=B,/C/B,/ C G, | z4 | 
+w:dieu, a-dieu, a-dieu then, a-dieu, a-dieu, a-dieu then,
+G,4 | D,4 |z G,3/ G,/ G, | C, =B,, C,2 | G,2 G,2 | 
+w:fare-well leave me, death now de-sir-ing, thou
+D,3/ E,/ F,3/ G,/ | A, B, A,2 | D,4 | z4 |z2 z G, | 
+w:hast, lo, thy re-quir --ing. Thus
+F,3/ D,/ _E,3/ C,/ | D, B,, C, _E, | D,4 | D,2 D,2 | 
+w:spake Phil-is-tus, on his hook re-ly-ing, and
+D,4 | D,4 | D,4 | G,,4 | z4 |
+w:fell a-dy-ing.
+z2 z C | B,3/ G,/ A,3/ ^F,/ | G, D, _E, E, | D,2 D,2 | z4 |
+w:Thus spake Phil-is-tus, on his hook re-ly-ing,
+z2 z G, | F,3/ D,/ _E,3/ C,/ | D, B,, C, _E, | D,4 | 
+w:thus spake Phil-is-tus, on his hook re-ly-
+D,2 D,2 | D,4 | D,4 | D,4 | G,,4|]
+w:ing, and fell a-dy-ing. 
+
+

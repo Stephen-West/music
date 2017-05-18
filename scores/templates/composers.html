@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block content %}
+{%autoescape off %}
+<CENTER><H1>Index of compsers</H1></CENTER> 
+
+<ul>
+{%for row in composers %}
+<li><a href='composers/{{row.shortname}}.html'>{{row.surname}}, {{row.names}}</a>
+{% endfor %}
+</ul>
+
+{% endautoescape %}
+{% endblock %}

@@ -1,0 +1,68 @@
+%abc-2.1
+%
+% Original edition transcribed and edited by Albert Folop: 
+% http://imslp.org/wiki/Category:Folop_Viol_Music_Collection
+% That edition released under Creative Commons Attribution-NonCommercial-ShareAlike 3.0 licence
+% (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+% This edition converted to abc by Steve West and also released under 
+% Creative Commons Attribution-NonCommercial-ShareAlike 3.0 licence
+% (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% Fantasia
+% 2. Turne Round About
+% Michael East
+% 0352
+%%measurenb 0
+%%squarebreve
+
+X:1
+T:Fantasia
+T:2. Turne Round About
+C:Michael East
+L:1/4
+%%score [ 1 2 3 ]
+%%linebreak
+M:2/2
+K:C
+%
+V:1 clef=treble
+%%MIDI program 40
+d2 z1/2 B1/2B1/2c1/2  | d c B G  | g2 z1/2 G1/2G1/2G1/2  | G2 c d  | e2 d2  | %Bar 5
+z c3/2 B1/2 A  | ^G2 A B1/2A1/2  | ^G A2 G  | A A d3/2 B1/2  | e3/2 c1/2 f3/2 d1/2  | %Bar 10
+g1/2f1/2 e3/2 d1/2 c-  | c B A2  | B4  | d2 z1/2 B1/2B1/2c1/2  | d c B G  | %Bar 15
+g2 z1/2 G1/2G1/2G1/2  | G2 c d  | e2 d2  | z c3/2 B1/2 A  | ^G2 A B1/2A1/2  | %Bar 20
+^G A2 G  | A A d3/2 B1/2  | e3/2 c1/2 f3/2 d1/2  | g1/2f1/2 e3/2 d1/2 c-  | c B A2  | %Bar 25
+B d1/2c1/2 B3/4c1/4 B1/2A1/2  | G2 z g1/2f1/2  | e3/4f1/4 e1/2d1/2 c2  | d1/2e1/2 f e2  | z d1/2c1/2 B3/4c1/4 B1/2A1/2  | %Bar 30
+G2 z g1/2f1/2  | e3/4f1/4 e1/2d1/2 c2  | d B A2  | G2 z A1/2G1/2  | ^F G2 F  | %Bar 35
+G d1/2c1/2 B3/4c1/4 B1/2A1/2  | G2 z g1/2f1/2  | e3/4f1/4 e1/2d1/2 c2  | d1/2e1/2 f e2  | z d1/2c1/2 B3/4c1/4 B1/2A1/2  | %Bar 40
+G2 z g1/2f1/2  | e3/4f1/4 e1/2d1/2 c2  | d B A2  | G2 z A1/2G1/2  | ^F G2 F  | %Bar 45
+G4-  | G4  |] 
+%
+V:2 clef=treble
+%%MIDI program 40
+ Z  | z2 d2  | z1/2 B1/2B1/2c1/2 d2  | e1/2f1/2 g e d  | c2 B2  | %Bar 5
+z e3/2 d1/2 c  | B2 A d-  | d c B2  | A2 z G-  | G A2 B-  | %Bar 10
+B c3/2 B1/2A1/2G1/2  | ^F G2 F  | G2 d2  | z1/2 B1/2B1/2c1/2 d2  | z2 d2  | %Bar 15
+z1/2 B1/2B1/2c1/2 d2  | e1/2f1/2 g e d  | c2 B2  | z e3/2 d1/2 c  | B2 A d-  | %Bar 20
+d c B2  | A2 z G-  | G A2 B-  | B c3/2 B1/2A1/2G1/2  | ^F G2 F  | %Bar 25
+G4  | z g1/2f1/2 e3/4f1/4 e1/2d1/2  | c2 z c1/2B1/2  | A d2 ^c  | d2 G2  | %Bar 30
+z g1/2f1/2 e3/4f1/4 e1/2d1/2  | c2 z c1/2B1/2  | A G G ^F  | G g1/2f1/2 e1/2d1/2c1/2B1/2  | A G A2  | %Bar 35
+B2 z2  | z g1/2f1/2 e3/4f1/4 e1/2d1/2  | c2 z c1/2B1/2  | A d2 ^c  | d2 G2  | %Bar 40
+z g1/2f1/2 e3/4f1/4 e1/2d1/2  | c2 z c1/2B1/2  | A G G ^F  | G g1/2f1/2 e1/2d1/2c1/2B1/2  | A G A2  | %Bar 45
+B4-  | B4  |] 
+%
+V:3 clef=alto
+%%MIDI program 40
+z2 G2  | z1/2 D1/2E1/2F1/2 G2  | z1/2 G,1/2G,1/2A,1/2 B,2  | C1/2D1/2 E2 B,  | C2 G,2  | %Bar 5
+z C3/2 G,1/2 A,  | E2 F D  | E3 E  | A,2 B,2  | C2 D2  | %Bar 10
+E3/2 D1/2 C2  | D4  | G,4  | z2 G2  | z1/2 D1/2E1/2F1/2 G2  | %Bar 15
+z1/2 G,1/2G,1/2A,1/2 B,2  | C1/2D1/2 E2 B,  | C2 G,2  | z C3/2 G,1/2 A,  | E2 F D  | %Bar 20
+E3 E  | A,2 B,2  | C2 D2  | E3/2 D1/2 C2  | D4  | %Bar 25
+G,2 z G1/2F1/2  | E3/4F1/4 E1/2D1/2 C2  | z C1/2B,1/2 A, A1/2G1/2  | F1/2E1/2 D A A,  | D2 z G1/2F1/2  | %Bar 30
+E3/4F1/4 E1/2D1/2 C2  | z C1/2B,1/2 A,3/2 G,1/2  | ^F, G, z D1/2C1/2  | B, E1/2D1/2 C C  | D4  | %Bar 35
+G,2 z G1/2F1/2  | E3/4F1/4 E1/2D1/2 C2  | z C1/2B,1/2 A, A1/2G1/2  | F1/2E1/2 D A A,  | D2 z G1/2F1/2  | %Bar 40
+E3/4F1/4 E1/2D1/2 C2  | z C1/2B,1/2 A,3/2 G,1/2  | ^F, G, z D1/2C1/2  | B, E1/2D1/2 C C  | D4  | %Bar 45
+G,4-  | G,4  |] 
+%
+%
+%#Folop:0352

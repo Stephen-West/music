@@ -1,0 +1,56 @@
+{% extends "base.html" %}
+{% block content %}
+{%autoescape off %}
+<CENTER><H1>{{piece.title}}</H1>
+{{piece.subtitle}}
+<table>
+<tr><th align=right>Composer:</th><td align=left>{{piece.composer.name}}
+{% if piece.composer.dates%}({{piece.composer.dates}}){% endif %}</td></tr>
+
+{% if piece.lyricist%}
+<tr><th align=right>Words by:</th><td align=left>{{piece.lyricist}}</td></tr>
+{% endif %}
+{% if piece.vdgs %}
+<tr><th align=right>VdGS no:</th><td align=left>{{piece.vdgs}}</td></tr>
+{% endif %}
+<tr><th align=right>Parts:</th><td align=left>{{piece.parts}}</td></tr>
+<tr><th align='right' valign='top'>Instruments:</th>
+<td>
+{%for instrument in piece.instrument.all %}
+{{instrument}}<br>
+{%endfor%}
+</td></tr>
+<tr><th align='right' valign='top'>Instrumentation:</th>
+<td>
+{%for instrument in piece.instrumentation.all %}
+{{instrument}}<br>
+{%endfor%}
+</td></tr>
+{% if piece.source %}<tr><th align='right'>Transcribed and edited by:</th><td>{{piece.source}}</td></tr>{% endif%}
+{% if piece.conversion %}<tr><th align='right'>Conversion to ABC notation by:</th><td>{{piece.conversion}}</td></tr>{% endif%}
+{% if piece.editor %}<tr><th align='right'>This edition edited by:</th><td>{{piece.editor}}</td></tr>{% endif%}
+<tr><th align='right'>Licensing:</th><td><a rel="license" href="{{piece.licence.url}}">{{piece.licence.short_name}}</a></td></tr>
+{% if piece.lulu %}
+<tr><th align='right'>Published edition:</th><td><a rel="license" href="{{piece.lulu}}">Available from Lulu.com</a></td></tr>
+{% endif %}
+</table></CENTER> 
+
+{% if piece.description %}
+{{piece.description}}
+{% endif%}
+<center>
+<table border=1>
+<tr><th>Filename</th><th>Name</th><th>Description</th></tr>
+{% for file in piece.files.all%}
+<tr><td>
+    <a href='/static/{{piece.composer.shortname}}/{{piece.shortname}}/{{piece.shortinst}}/{{file.filename}}'>{{file.filename}}</a>
+    </td><td>{{file.title}}</td><td>{{file.description}}</td></tr>
+{%endfor %}
+
+</table>
+</center>
+<p>
+
+
+{% endautoescape %}
+{% endblock %}

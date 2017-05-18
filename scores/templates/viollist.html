@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% block content %}
+{%autoescape off %}
+<CENTER><H1>Full list of pieces by composer</H1></CENTER> <BR clear=all> 
+<p>
+
+<p/>
+{%for row in oeuvres_list %}
+    <h2>{{row.composer}}</h2>
+	<table border=1>
+
+	{% for piece in row.piece_list %}
+    <tr><td><a href='/pieces/{{piece.id}}.html'>{{piece.title}}</a></td>
+    <td>{%for inst in piece.instrument.all%}{{inst}}<br>{%endfor%}</td>
+    <td>{{piece.parts}}</td>
+    <td>{% for inst in piece.instrumentation.all%}{{inst}}<br>{%endfor%}</td></tr>
+    {% endfor %}
+    </table>
+
+{% endfor %}
+<p/>
+
+{% endautoescape %}
+{% endblock %}

@@ -1,0 +1,58 @@
+%abc-2.1
+%
+% Original edition transcribed and edited by Albert Folop: 
+% http://imslp.org/wiki/Category:Folop_Viol_Music_Collection
+% That edition released under Creative Commons Attribution-NonCommercial-ShareAlike 3.0 licence
+% (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+% This edition converted to abc by Steve West and also released under 
+% Creative Commons Attribution-NonCommercial-ShareAlike 3.0 licence
+% (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+%%measurenb 0
+%%squarebreve
+
+X:1
+T:Fantasia
+T:1. Trip It Lightly
+C:Michael East
+L:1/4
+%%score [ 1 2 3 ]
+%%linebreak
+M:2/2
+K:C
+%
+V:1 clef=treble
+%%MIDI program 40
+d2 z1/2 d1/2d1/2d1/2  | B G2 G  | d B e2  | d3/2 c1/2 B G  | A ^f e2  | %Bar 5
+d2 d B  | A G ^F2  | z d c A  | B2 G E-  | E1/2^F1/2 G2 F  | %Bar 10
+G2 z2  | d2 z1/2 d1/2d1/2d1/2  | B G2 G  | d B e2  | d3/2 c1/2 B G  | %Bar 15
+A ^f e2  | d2 d B  | A G ^F2  | z d c A  | B2 G E-  | %Bar 20
+E1/2^F1/2 G2 F  | G2 z c  | B3/2 B1/2 A d  | d ^c d B-  | B1/2A1/2 G ^F G  | %Bar 25
+z d3/2 A1/2 B1/2G1/2  | A d3/2 A1/2 B1/2G1/2  | A2 G E-  | E1/2^F1/2 G2 F  | G2 z c  | %Bar 30
+B3/2 B1/2 A d  | d ^c d B-  | B1/2A1/2 G ^F G  | z d3/2 A1/2 B1/2G1/2  | A d3/2 A1/2 B1/2G1/2  | %Bar 35
+A2 G E-  | E1/2^F1/2 G2 F  | G4-  | G4  |] 
+%
+V:2 clef=treble
+%%MIDI program 40
+ Z  | d2 z1/2 d1/2d1/2d1/2  | B G c2  | B3/2 c1/2 d g  | ^f d d ^c  | %Bar 5
+d B A G  | ^F G A2  |  Z  | z d2 c-  | c B A2  | %Bar 10
+G2 B2  | z1/2 B1/2B1/2B1/2 A G  | z d z1/2 d1/2d1/2d1/2  | B G c2  | B3/2 c1/2 d g  | %Bar 15
+^f d d ^c  | d B A G  | ^F G A2  |  Z  | z d2 c-  | %Bar 20
+c B A2  | B2 z e  | d3/2 d1/2 d f  | e2 d2  | z2 z d-  | %Bar 25
+d1/2A1/2B1/2G1/2 A d-  | d1/2A1/2B1/2G1/2 A G  | ^F1/2G1/2 A d c-  | c B A2  | B2 z e  | %Bar 30
+d3/2 d1/2 d f  | e2 d2  | z2 z d-  | d1/2A1/2B1/2G1/2 A d-  | d1/2A1/2B1/2G1/2 A G  | %Bar 35
+^F1/2G1/2 A d c-  | c B A2  | B4-  | B4  |] 
+%
+V:3 clef=alto
+%%MIDI program 40
+ Z  | z2 G2  | z1/2 G1/2G1/2G1/2 E C  | G2 G,2  | D2 A,2  | %Bar 5
+D G ^F G  | D B, D2  | z D E ^F  | G G,1/2A,1/2 B, C-  | C G, D D  | %Bar 10
+G,2 G2  | z1/2 G1/2G1/2G1/2 ^F G  | G,2 z G  | z1/2 G1/2G1/2G1/2 E C  | G2 G,2  | %Bar 15
+D2 A,2  | D G ^F G  | D B, D2  | z D E ^F  | G G,1/2A,1/2 B, C-  | %Bar 20
+C G, D D  | G,2 z C  | G3/2 G1/2 F D  | A A, D G-  | G1/2D1/2E1/2C1/2 D B,  | %Bar 25
+D G ^F G  | D G, ^F, G,  | D3/2 A,1/2 B,1/2G,1/2C1/2D1/2  | E B,1/2C1/2 D D  | G,2 z C  | %Bar 30
+G3/2 G1/2 F D  | A A, D G-  | G1/2D1/2E1/2C1/2 D B,  | D G ^F G  | D G, ^F, G,  | %Bar 35
+D3/2 A,1/2 B,1/2G,1/2C1/2D1/2  | E B,1/2C1/2 D D  | G,4-  | G,4  |] 
+%
+%
+%#Folop:0351

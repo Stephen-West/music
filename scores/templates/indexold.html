@@ -1,0 +1,77 @@
+{% extends "base.html" %}
+{% block content %}
+{%autoescape off %}
+<CENTER><H1>Viol and recorder music</H1></CENTER> 
+
+This site is a collection of free music, mostly from the renaissance and mostly transcribed into modern notation, by me, for viols or recorders. Some of these pieces are also available on the ISMLP website but, since the introduction of a membership plan on that site, I have decided to offer all my music for free download from my own site. The collection currently contains {{pieces}} pieces of music by {{composers}} composers.
+<p>
+The recorder music uses treble, octave treble or bass clef, as appropriate. The viol music is in string clefs, with tenor parts in alto clef.
+
+<h2>
+Organisation of the site</h2>
+The files are indexed in several different ways. The following table links to the main groupings.
+<table border=1>
+<tr><th>Parts</th><th>All music</th><th>Recorder music</th><th>Viol music</th></tr>
+<tr>
+    <td>All</td>
+    <td><a href='allpieces.html'>All music</a></td>
+    <td><a href='recorderpieces.html'>All recorder music</a></td>
+    <td><a href='violpieces.html'>All viol music</a></td>
+</tr>
+<tr>
+    <td>2</td>
+    <td><a href='allpieces_2.html'>All 2-part music</a></td>
+    <td><a href='recorderpieces_2.html'>2-part recorder music</a></td>
+    <td><a href='violpieces_2.html'>2-part viol music</a></td>
+</tr>
+<tr>
+    <td>3</td>
+    <td><a href='allpieces_3.html'>All 3-part music</a></td>
+    <td><a href='recorderpieces_3.html'>3-part recorder music</a></td>
+    <td><a href='violpieces_3.html'>3-part viol music</a></td>
+</tr>
+<tr>
+    <td>4</td>
+    <td><a href='allpieces_4.html'>All 4-part music</a></td>
+    <td><a href='recorderpieces_4.html'>4-part recorder music</a></td>
+    <td><a href='violpieces_4.html'>4-part viol music</a></td>
+</tr>
+<tr>
+    <td>5</td>
+    <td><a href='allpieces_5.html'>All 5-part music</a></td>
+    <td><a href='recorderpieces_5.html'>5-part recorder music</a></td>
+    <td><a href='violpieces_5.html'>5-part viol music</a></td>
+</tr>
+<tr>
+    <td>6</td>
+    <td><a href='allpieces_6.html'>All 6-part music</a></td>
+    <td><a href='recorderpieces_6.html'>6-part recorder music</a></td>
+    <td><a href='violpieces_6.html'>6-part viol music</a></td>
+</tr>
+</table>
+
+<h2>File formats</h2>
+All the music is downloadable as pdf files, which are generally formatted as A4 pages. In most cases, there are separate pdfs for parts and score. Mostly, I have typeset the music using the abc language and the excellent abcm2ps application for generating printable scores. I am gradually adding the abc source files and making them available for download. My usual method of working is to write out the abc notes in separate files and then use a script to automate the assembly of them into a single abc file, using the abc pre-processor, and the conversion to a final pdf file. The 'machine-assembled' abc files may not end up as well laid out as they would if the whole operation was done by hand. 
+
+<h2>Copyright</h2>
+Unless otherwise stated, these works are the copyright of Stephen West and are distributed under the  <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. In summary, this means that
+you are free to:
+<ul>
+<li>Share — copy and redistribute the material in any medium or format
+<li>Adapt — remix, transform, and build upon the material
+    for any purpose, even commercially.
+</ul>
+
+You must comply with  the following terms:
+<ul>
+<li>Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+<li>ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+<lI>No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+</ul>
+
+
+{% endautoescape %}
+{% endblock %}

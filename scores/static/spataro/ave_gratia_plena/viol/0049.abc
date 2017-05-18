@@ -1,0 +1,116 @@
+%abc-2.1
+%
+% Original edition transcribed and edited by Albert Folop: 
+% http://imslp.org/wiki/Category:Folop_Viol_Music_Collection
+% That edition released under Creative Commons Attribution-NonCommercial-ShareAlike 3.0 licence
+% (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+% This edition converted to abc by Steve West and also released under 
+% Creative Commons Attribution-NonCommercial-ShareAlike 3.0 licence
+% (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+%%measurenb 0
+%%squarebreve
+
+X:1
+T:Motetto
+T:Ave gratia plena
+C:Giovanni Spataro
+L:1/4
+%%score [ 1 2 3 4 ]
+%%linebreak 
+M:4/4
+K:C
+%
+V:1 clef=treble
+%%MIDI program 40
+ Z4  | F4  | %Bar 5
+G4  | F3 E1/2D1/2  | E2 C2  | D4  | C4-  | %Bar 10
+C4  |  Z  | z2 E2  | F2 G2  | E2 A2-  | %Bar 15
+A2 ^G2  | A2 c2-  | c2 B2  | c4  | z2 c2  | %Bar 20
+B4-  | B4  | B4  | G2 A2-  | A2 ^G2  | %Bar 25
+A4  | A4-  | A4  | G4  | E2 F2-  | %Bar 30
+F2 E2-  | E2 D2  | E4  | ^D4  | E4-  | %Bar 35
+E4  | z2 A2  | A4  | E3 F  | G4  | %Bar 40
+^F4-  | F4  | E4-  | E4  | z2 F2-  | %Bar 45
+F E D2-  | D2 ^C2  | D4  | Z11 | c4  | %Bar 60
+c2 c2  | d4  | d4  | c2 c2-  | c B A G  | %Bar 65
+F2 A2-  | A2 G F  | E2 G2-  | G2 F2-  | F2 E2  | %Bar 70
+F4-  | F4  | z2 F2-  | F2 E D  | D4  | %Bar 75
+E4  | F4  | z2 F2-  | F2 E D  | E2 F2  | %Bar 80
+G4  | ^F4  | z2 A2-  | A2 G F  | G3 A  | %Bar 85
+B4  | A4  | z2 A2-  | A G F2  | E2 F2-  | %Bar 90
+F E D2-  | D2 ^C2  | D4  | z2 A2-  | A G F2  | %Bar 95
+E2 F2-  | F E D2-  | D2 ^C2  | D4-  | D4-  | %Bar 100
+D4-  | D4-  | D4-  | D4  |] 
+%
+V:2 clef=alto
+%%MIDI program 40
+C4  | D4  | C3 B,1/2A,1/2  | B,4  | C2 A,2-  | %Bar 5
+A,2 G,2  | A,4-  | A,4  |  Z2  | %Bar 10
+A, B, C2  | A,4  | C4  | D4  | C4  | %Bar 15
+ Z  | C D E F  | G4  | E3 D  | C D E F  | %Bar 20
+G4  | ^F4-  | F4  | E2 C2  | D4  | %Bar 25
+E2 F2-  | F2 E D  | ^C4  | B,4  | z2 A,2-  | %Bar 30
+A,2 G,2  | A,4  | B,4-  | B,4  | B,2 C2  | %Bar 35
+B,2 C2-  | C D E2-  | E2 D C  | B,2 C2  | B,3 C  | %Bar 40
+D3 C1/2B,1/2  | A,3 B,  | C4-  | C4  | D2 A,2-  | %Bar 45
+A,2 _B,2  | A,4  | z2 A,2  | C4  | D4  | %Bar 50
+E4-  | E4  | D3 C  | B,3 A,  | G,4  | %Bar 55
+z2 A,2  | C3 D  | E2 C2  | D4  | C3 D  | %Bar 60
+E4  | D4  | D3 E  | F3 E1/2D1/2  | C4  | %Bar 65
+z2 F,2-  | F, G, A, B,  | C D E2-  | E D C B,  | C4  | %Bar 70
+A,3 G,  | F, D, D2-  | D2 C2  | D2 F2-  | F2 E D  | %Bar 75
+C4-  | C2 D2-  | D2 C B,  | C4  | A,2 C2  | %Bar 80
+D A, D2-  | D2 C B,  | A,3 B,  | C D E2-  | E2 D C  | %Bar 85
+D3 E  | F4  | E2 F2-  | F E D2  | C4  | %Bar 90
+C2 A,2-  | A,2 A,2  | F,3 G,  | A,4  | D4  | %Bar 95
+C4  | C2 A,2-  | A,2 A,2  | F,3 G,  | A,4  | %Bar 100
+_B,4-  | B,4  | A,4-  | A,4  |] 
+%
+V:3 clef=alto
+%%MIDI program 40
+ Z5  | %Bar 5
+C4  | D4  | C3 B,1/2A,1/2  | B,4  | A,4  | %Bar 10
+z2 A,2-  | A, B, C2  | A,2 C2-  | C2 B,2  | C4  | %Bar 15
+D4  | E2 C2  | D4  | C3 D  | E4  | %Bar 20
+E4  | B,4  | B,4  | C2 A,2  | B,4  | %Bar 25
+A,4  | A,4-  | A,4  |  Z  | C4  | %Bar 30
+D2 C2-  | C2 B, A,  | G,4  | ^F,4  | G,4-  | %Bar 35
+G,4  | A,3 B,  | C2 B, A,  | G,2 C, D,  | E, F, G, A,  | %Bar 40
+B,3 A,1/2G,1/2  | ^F,4  | G,4-  | G,4  | D,3 E,  | %Bar 45
+F,2 G,2  | E,4  | D,2 F,2-  | F,2 E,2  | F,4  | %Bar 50
+C,3 D,  | E, F, G,2-  | G,2 F,2  | G,3 A,  | B,2 C2  | %Bar 55
+D4  | E2 C2-  | C B, A,2  | ^G,4  | A,3 B,  | %Bar 60
+C4  | G,4  | G,4  | A,4  | A,4  | %Bar 65
+A,3 G,  | F,4  | G,4-  | G,2 A,2  | G,4  | %Bar 70
+F,4  | z2 F,2-  | F, G, A,2  | _B,4  | _B,4  | %Bar 75
+G,4  | A,4  | F,4  | z2 C2-  | C2 A,2  | %Bar 80
+B,3 C  | D4  | C4  | z2 C2-  | C2 B, A,  | %Bar 85
+G, A, B, C  | D4  | A,4  | F,3 G,  | A, _B, A,2-  | %Bar 90
+A, G, F,2  | E,4  | D,4  | D,3 E,  | F,3 G,  | %Bar 95
+A, _B, A,2-  | A, G, F,2  | E,4  | D,3 E,  | F,4  | %Bar 100
+G,4-  | G,4  | ^F,4-  | F,4  |] 
+%
+V:4 clef=bass
+%%MIDI program 42
+ Z2 | F,4  | G,4  | F,3 E,1/2D,1/2  | %Bar 5
+E,4  | D,4  | A,,2 A,2-  | A,2 ^G,2  | A,4  | %Bar 10
+A,,4-  | A,,4  | A,4-  | A,2 G,2  | A,2 C2  | %Bar 15
+B,4  | A,4  | G,4  | C,4-  | C,4  | %Bar 20
+ Z6  | %Bar 26
+ z2 A,,2-  | A,, B,, ^C, D,  | E, F, G,2  | A,4  | %Bar 30
+D,2 E,2  | F,4  | E,4  | B,,4  | E,2 E,2-  | %Bar 35
+E, D, C, B,,  | A,,4  | A,,4  | z2 E,2  | E,4  | %Bar 40
+B,,3 C,  | D,4  | C,4-  | C,4  | F,3 E,  | %Bar 45
+D,2 G,,2  | A,,4  | D,4  | A,,4  | D,4  | %Bar 50
+z2 A,,2  | C,4  | D,4  | E,4  | E,4  | %Bar 55
+D,4  | C,4  | A,,4  | B,,4  | A,,4  | %Bar 60
+z2 A,2  | _B,4  | _B,4  | F,4  | F,4  | %Bar 65
+F,3 E,  | D,4  | C,3 D,  | E,2 F,2  | C,4  | %Bar 70
+ Z  | F,2 D,2-  | D, E, F,2  | _B,,4  | _B,,4  | %Bar 75
+C,4  | F,2 D,2-  | D, E, F, G,  | A,3 B,  | C4  | %Bar 80
+G,4  | D,3 E,  | F,4  | C,4  | C,4  | %Bar 85
+ Z2 | C3 B,  | A,4  | A,,3 B,,  | %Bar 90
+C,2 D,2  | A,,4  | A,3 G,  | F,3 E,  | D,4  | %Bar 95
+A,,3 B,,  | C,2 D,2  | A,,4  | z2 D,2-  | D, C, _B,, A,,  | %Bar 100
+G,,4-  | G,,4  | D,4-  | D,4  |] 

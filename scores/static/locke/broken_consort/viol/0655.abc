@@ -1,0 +1,84 @@
+%abc-2.1
+%
+% Original edition transcribed and edited by Albert Folop: 
+% http://imslp.org/wiki/Category:Folop_Viol_Music_Collection
+% That edition released under Creative Commons Attribution-NonCommercial-ShareAlike 3.0 licence
+% (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+% This edition converted to abc by Steve West and also released under 
+% Creative Commons Attribution-NonCommercial-ShareAlike 3.0 licence
+% (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+%%measurenb 0
+%%squarebreve
+%%stretchlast 1
+
+X:1
+T:"The Broken Consort"
+T:Set 1 - Fantasia
+C:Matthew Locke (1661)
+C:VdGS# 1
+L:1/4
+%%score [ 1 2 3 ]
+%%linebreak
+M:2/2
+K:F
+%
+V:1 clef=treble
+%%MIDI program 40
+z2 d2-  | d2 c2-  | c d B2-  | B =B c2  | A4  | %Bar 5
+z2 f2-  | f2 _e2-  | _e f d2-  | d c1/2B1/2 c2  | d2 z f-  | %Bar 10
+f e1/2d1/2 e2  | f2 z f  | B c1/2d1/2 _e2  | z2 z a  | e f1/2g1/2 a2  | %Bar 15
+A2 z B  | D2 z c  | ^F G1/2A1/2 B A  | G4  :| A2 d ^F1/2G1/2  | %Bar 20
+A1/2D1/2 d3/2 c1/2 B3/4A1/4  | B1/2G1/2 g3/2 f1/2 _e3/4d1/4  | d3/2 f1/2 e1/2d1/2c1/2_e1/2  | d1/2c1/2 B A d1/2c1/2  | B1/2A1/2 G ^F D  | %Bar 25
+z2 z g  | b d1/2e1/2 f1/2c1/2 f-  | f e f A  | c G1/2A1/2 B1/2F1/2G1/2F1/2  | E D1/2E1/2 F1/2G1/2 E  | %Bar 30
+D d3/2 e1/2 ^c  | d2 z2  | z B3/2 c1/2 A  | G2 F f-  | f1/2g1/2 _e d2  | %Bar 35
+G3/2 c1/2 B1/2A1/2 f-  | f1/2g1/2e1/2d1/2 ^c d-  | d ^c d2  | z1/2 g f1/2 e c  | z2 z1/2 _e d1/2-  | %Bar 40
+d1/2c1/2 c2 =B  | c G z b-  | b1/2a1/2 a3/2 g1/2 g  | ^f2 z d-  | d c A c-  | %Bar 45
+c =B1/2A1/2 _B3/2 A1/2  | G4  | z2 z c-  | c B G B-  | B A1/2G1/2 A2  | %Bar 50
+z2 z g-  | g f d f-  | f e1/2d1/2 e2  | A4  | A2 z d-  | %Bar 55
+d c1/2=B1/2 c2  | =B2 z e-  | e d =B d  | ^c d2 c  | d2 z d-  | %Bar 60
+d c1/2B1/2 g2-  | g f1/2_e1/2 d2  | c4  | B1/2B1/2B1/2c1/2 d1/2d1/2d1/2e1/2  | f B z2  | %Bar 65
+F1/2F1/2F1/2G1/2 A1/2A1/2A1/2B1/2  | c F3/2 c1/2B1/2A1/2  | G2 z1/2 _e1/2e1/2f1/2  | g c3/2 g1/2f1/2_e1/2  | d2 z1/2 b1/2a1/2g1/2  | %Bar 70
+_g2 z1/2 A1/2A1/2=B1/2  | ^c d2 c  | d1/2f1/2f1/2e1/2 d2  | z1/2 g1/2g1/2f1/2 _e2  | z1/2 G1/2G1/2A1/2 B1/2B1/2B1/2c1/2  | %Bar 75
+d1/2d1/2d1/2e1/2 ^f1/2f1/2f1/2g1/2  | a d3/2 b1/2a1/2g1/2  | ^f g2 f  | g4-  | g4  |] %Bar 80
+%
+V:2 clef=treble
+%%MIDI program 40
+z2 B2-  | B2 A2-  | A D G2-  | G G A G  | ^F4  | %Bar 5
+z2 d2-  | d2 c2-  | c F B3/2 A1/2  | G2 z g-  | g f1/2e1/2 d c  | %Bar 10
+B2 c B  | A2 z2  | z2 z g  | c d1/2e1/2 f2  | z d ^c d1/2e1/2  | %Bar 15
+f e d2  | z b e ^f1/2g1/2  | B3/2 c1/4d1/4 G ^F  | G4  :|  Z  | %Bar 20
+z2 D2  | G B,1/2C1/2 D1/2G,1/2 G-  | G1/2A1/2 B3/2 B1/2A1/2G1/2  | ^F G2 F  | G D z d  | %Bar 25
+f c1/2d1/2 _e1/2B1/2B1/2c1/2  | d3/2 d1/2 c1/2B1/2 A  | G2 F2  | z c3/2 d1/2 =B  | c d3/2 e1/2 ^c  | %Bar 30
+d2 z g-  | g1/2a1/2 ^f g =f-  | f1/2g1/2 e f2  | z c3/2 d1/2 B  | A G z f-  | %Bar 35
+f1/2g1/2 _e d2  | z g3/2 a1/2 f  | e a3/2 g1/2 ^f  | d z z z1/2 f1/2-  | f1/2_e1/2d1/2c1/2 B A  | %Bar 40
+G g3/2 f1/2 f-  | f1/2_e1/2 e3/2 d1/2 d-  | d c1/2B1/2 c1/2 d c1/2  | d2 z2  |  Z  | %Bar 45
+z2 g2-  | g f d f-  | f e1/2d1/2 _e2  | d4  | z d2 c  | %Bar 50
+A c2 B1/2A1/2  | d4  | G2 z a-  | a g e g-  | g f1/2e1/2 f2  | %Bar 55
+^G2 A2-  | A2 ^G2  | A2 z g-  | g f e a-  | a g1/2f1/2 g f  | %Bar 60
+_e3/2 d1/2 c B  | A2 B2-  | B2 A2  | B2 B1/2B1/2B1/2c1/2  | d1/2d1/2d1/2e1/2 f B  | %Bar 65
+z1/2 f1/2e1/2d1/2 c2  | z1/2 c1/2B1/2A1/2 G2  | z1/2 _e1/2e1/2f1/2 g c  | z2 G1/2G1/2G1/2A1/2  | B1/2B1/2B1/2c1/2 d D  | %Bar 70
+z1/2 d1/2d1/2e1/2 f2-  | f1/2a1/2g1/2f1/2 e2  | d2 z1/2 B1/2B1/2A1/2  | G2 z1/2 G1/2G1/2A1/2  | B1/2B1/2B1/2c1/2 d1/2d1/2d1/2e1/2  | %Bar 75
+^f1/2f1/2f1/2g1/2 a d  | z1/2 B1/2A1/2G1/2 ^F G  | A B A2  | G4-  | G4  |] %Bar 80
+%
+V:3 clef=bass
+%%MIDI program 42
+G,4  | ^F,4  | G,3 G,,  | _E,2 C,2  | D,4  | %Bar 5
+B,,4  | A,,4  | B,,4  | _E,4  | B,3 A,  | %Bar 10
+G,4  | F,2 z F,  | G, F, _E,2  | F, =E, D,2  | C, B,, A,,2  | %Bar 15
+z A, ^F, G,1/2A,1/2  | B,2 C,2  | D,4  | G,,4  :|   %Bar 19
+ Z4  | z2 D,2  | G, B,,1/2C,1/2 D,1/2D,,1/2 B,-  | %Bar 25
+B, A, G, _E,  | D, B,, A,, F,,  | C,2 F,, F,-  | F,1/2G,1/2 E, D,2  | C, B, A,3/2 G,1/2  | %Bar 30
+^F, =F, E,2  | D,3/2 C,1/2 B,, A,,  | G,,2 F,, F,-  | F,1/2G,1/2 _E, D,2  | C,2 =B,,2  | %Bar 35
+C,2 D,3/2 E,1/2  | F, G, A,2  | A,,2 D3/2 C1/2  | =B, C3/2 _B,1/2 A,  | B,3/2 A,1/2 G, F,  | %Bar 40
+_E,2 D,2  | C,3/2 B,,1/4A,,1/4 G,,2  | F,,2 _E,,2  | D,,2 D,2  | ^F,4  | %Bar 45
+G,4  | =B,,4  | C,4  | G,,2 z G,-  | G, F, D, F,-  | %Bar 50
+F, E,1/2D,1/2 _E,2  | B,,4  | C,4  | _D,4  | D,4  | %Bar 55
+E,4-  | E,4  | F,2 G,2  | A,4  | B,4  | %Bar 60
+_E,4  | F,4-  | F,4  | B,,2 z2  | z2 z1/2 B,1/2A,1/2G,1/2  | %Bar 65
+F,2 F,,1/2F,,1/2F,,1/2G,,1/2  | A,,1/2A,,1/2A,,1/2B,,1/2 C,2-  | C,2 C,1/2C,1/2C,1/2D,1/2  | _E,1/2E,1/2E,1/2F,1/2 G,2  | z1/2 G,,1/2G,,1/2A,,1/2 B,,1/2B,,1/2B,,1/2C,1/2  | %Bar 70
+D,2 z1/2 D1/2C1/2=B,1/2  | A,3 A,  | B,2 z1/2 B,,1/2C,1/2D,1/2  | _E,2 C,2  | G,2 z1/2 G,1/2F,1/2E,1/2  | %Bar 75
+D,4-  | D,4  | z1/2 D,1/2C,1/2B,,1/2 D,2  | G,,4-  | G,,4  |] %Bar 80
+%
+%
+%#Folop:0655

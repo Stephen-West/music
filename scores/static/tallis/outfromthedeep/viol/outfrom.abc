@@ -1,0 +1,226 @@
+%#Noindex
+%%textfont ZapfChancery-MediumItalic 64
+%%vskip 5cm
+%%center Four-part viol music
+%%textfont Helvetica 36
+%%vskip 3cm
+%%center Thomas Tallis
+%%vskip 3cm
+%%center Out from the deep
+%%textfont Helvetica 24
+%%vskip 1cm
+%%textfont Times-Roman 12
+%%newpage		
+%leftmargin 2cm
+%rightmargin 2cm
+%Paper size for A4:
+%%pageheight  29.7cm
+%%pagewidth  21cm
+%
+%Bottom margin for inkjet printer:
+%%botmargin 1.5cm
+%
+%Footers
+%%footer "$T	Page $P		SMW 2012"
+%
+%To get title near top of page:
+%%titlespace 0
+%%topspace 0
+%%stretchlast 0
+%notespacingfactor 1.1
+%%maxshrink 0.8
+
+X:1
+T:Out from the deep
+C:Thomas Tallis
+%%scale 0.7
+%%measurenb 0
+%%score [1 2 3 4]
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Treble"
+%%MIDI program 71
+V:2 alto nm="Tenor I"
+%%MIDI program 68
+V:3 alto nm="Tenor II"
+%%MIDI program 66
+V:4 bass nm="Bass"
+%%MIDI program 70
+V:1
+G2 A A | G G _B B | A/G/A/B/ c3/2 B/ | A G G ^F |  
+w:Out from the deep I call to thee: O Lord_ hear my in- vo- ca- ti-
+G2 z G |  G A B G | c3/2 c/ B G | A3/2 A/ A G |  G3/2 G/ G2- | G2 z c |
+w: on. Thine ears bow down, in- cline to me and hear my la- men- ta- ti- on._ For
+ c G B A | c3/2 c/ G z | z c c G | B A c B | 
+w: if thou wilt our sins be- hold, that we have done from time to
+A2 G2- | G2 z C |  F3/2 F/ E E | D D C2 | 
+w:_ tide._ O Lord who then dare be so bold
+z G c3/2 c/ | B2 B A- | A/G/ G2 ^F |  G2 G2- | G2 G2- |
+w: as in thy sight for to_ a- bide. For to a - bide.
+ G2 z c | c G B A |  c3/2 c/ G z | z c c G |  B A c B |
+w:_ For if thou wilt our sins be- hold, that we have done from time to
+ A2 G2- | G2 z C | F3/2 F/ E E | D D C2 |  z G c3/2 c/ |
+w:_ tide._ O Lord, who then dare be so bold as in thy
+ B2 B A- | A/G/ G2 ^F | G2 G2- | G2 G2- | HG4 |] %38
+w: sight for to_ a- bide, for to a - bide._
+V:2
+ E2 F F | E E D/C/D/E/ | F2 E E | F/E/D/C/ D3/2 C/ | 
+w:Out from the deep I call to thee: O Lord, hear my in - vo - ca- ti- 
+B,2 z C |  E F G G | G F G D | F3/2 F/ F E |  D3/2 D/ E2 | z G G C | 
+w:on. Thine ears bow down, in- cline to me and hear my la- men- ta- ti- on. For if thou
+E2 D F- |  F/F/ E z F | F C E2 | D F3/2 D/ G- | 
+w: wilt our sins_ be- hold, that we have done from time_ to
+G/E/ ^F G D | E3/2 D/ C2 |  z A, C3/2 C/ | B, B, A, A, | 
+w:___ tide, from time to tide.  O Lord who then dare be so 
+ G,2 z A, | D3/2 E/ F/D/ F- | F/E/D/C/ D3/2 C/ |  B,/A,/ E D C- |  C B, C2 | 
+w:bold as in thy sight for to__ a - bide. For__ to_ a -- bide. 
+ z G G C | E2 D F- | F/F/ E z F | F C E2 |  D F3/2 D/ G- | 
+w:For if thou wilt our sins_ be- hold, that we have done from time_ to
+G/E/ ^F G D | E3/2 D/ C2 |  z A, C3/2 C/ | B, B, A, A, | G,2 z A, |  
+w:___ tide, from time to tide. O Lord, who then dare be so bold as
+D3/2 E/ F/D/ F- | F/E/D/C/ D3/2 C/ | B,/A,/ E D C- |  C B, C2- | HC4 |] %38
+w:in thy sight for to__ a -  bide, for__ to_ a -- bide._
+V:3
+ C2 C C | C C _B, G, | D D C C | C/C/ B, A,3/2 A,/ | 
+w:Out from the deep I call to thee: O Lord hear my in- vo- ca- ti- 
+G,2 z G, | C C D D | D C D B, | C3/2 C/ C C |  B,3/2 B,/ C C | C G, B, A, |  
+w: on. Thine ears bow down, in- cline to me and hear my la- men- ta- ti- on. For if thou wilt our
+C3/2 C/ G, z | z C C F, | A,2 G, C | B, C A, D- | 
+w:sins be- hold, that we have done from time to tide, from time
+D/C/B,/A,/ B, G, | C3/2 B,/ A,/G,/ A, | A, F, G, C, | G,3/2 F,/ E,/D,/ E,- | 
+w:_  to__ tide. O Lord who then_ dare be so bold. O Lord, who then_ dare
+E,/D,/ G,3/2 A,/ F, | G, G, D3/2 D/ | C B, A, A, | G, G, F, E, | D,2 C, C | 
+w:__ be so_ bold as in thy sight for to a- bide, for to a - bide. For 
+C G, B, A, | C3/2 C/ G, z | z C C F, | A,2 G, C |  B, C A, D- | 
+w: if thou wilt our sins be- hold, that we have done from time to tide, from time 
+ D/C/B,/A,/ B, G, | C3/2 B,/ A,/G,/ A, | A, F, G, C, | G,3/2 F,/ E,/D,/ E,- |  E,/D,/ G,3/2 A,/ F, | 
+w:_ to__ tide. O Lord, who then_ dare be so bold, O Lord who then_ dare__ be so_
+ G, G, D3/2 D/ | C B, A, A, | G, G, F, E, | D,2 C,2- | HC,4 |] %38
+w: bold as in thy sight for to a- bide, for to a - bide._
+V:4
+ C,2 F, F, | C, C, G, G, | D,/E,/F,/G,/ A,3/2 G,/ | F, G, D,3/2 D,/ | 
+w:Out from the deep I call to thee: O Lord_ hear my in- vo- ca- ti- 
+G,,2 z C, | C, A,, G,, G, | A, A, G, G, | F,3/2 F,/ F, C, | G,3/2 G,/ C,2- | C,2 z2 |
+w:on. Thine ears bow down, in- cline to me and hear my la- men- ta- ti- on._ 
+ z z2 F, | F, C, E, D, |  F,3/2 F,/ C,/D,/E,/C,/ | G, F, F, G, | 
+w:For if thou wilt our sins be- hold, that we have done from time to 
+ D, D, G,3/2 F,/ | E, C, F,3/2 E,/ | D,2 C,2 | z G,, C,3/2 C,/ | 
+w:tide. O Lord who then dare be so_ bold. O Lord who
+ B,, B,, A,, A,, | G,, G, D,3/2 E,/ | F, G, D, D, | G,,3/2 A,,/ B,, C, | G,,2 C,2- | 
+w:then dare be so bold as in thy sight for to a- bide. For to a - bide. 
+ C,2 z2 | z z2 F, | F, C, E, D, | F,3/2 F,/ C,/D,/E,/C,/ | G, F, F, G, | %28
+w:_ For if thou wilt our sins be- hold, that we have done from time to
+ D, D, G,3/2 F,/ | E, C, F,3/2 E,/ | D,2 C,2 | z G,, C,3/2 C,/ | B,, B,, A,, A,, | %33
+w:tide. O Lord, who then dare be so_ bold. O Lord, who then dare be so 
+ G,, G, D,3/2 E,/ | F, G, D, D, | G,,3/2 A,,/ B,, C, | G,,2 C,2- | HC,4 |] %38
+w:bold as in thy sight for to a- bide, for to a - bide._
+%
+
+
+X:2
+%%scale 0.85
+T:Out from the deep
+T:Treble Viol
+C:Thomas Tallis
+%%measurenb 0
+L:1/4
+M:4/4
+K:C
+G2 A A | G G _B B | A/G/A/B/ c3/2 B/ | A G G ^F |  
+w:Out from the deep I call to thee: O Lord_ hear my in- vo- ca- ti-
+G2 z G |  G A B G | c3/2 c/ B G | A3/2 A/ A G |  G3/2 G/ G2- | G2 z c |
+w: on. Thine ears bow down, in- cline to me and hear my la- men- ta- ti- on._ For
+ c G B A | c3/2 c/ G z | z c c G | B A c B | 
+w: if thou wilt our sins be- hold, that we have done from time to
+A2 G2- | G2 z C |  F3/2 F/ E E | D D C2 | 
+w:_ tide._ O Lord who then dare be so bold
+z G c3/2 c/ | B2 B A- | A/G/ G2 ^F |  G2 G2- | G2 G2- |
+w: as in thy sight for to_ a- bide. For to a - bide.
+ G2 z c | c G B A |  c3/2 c/ G z | z c c G |  B A c B |
+w:_ For if thou wilt our sins be- hold, that we have done from time to
+ A2 G2- | G2 z C | F3/2 F/ E E | D D C2 |  z G c3/2 c/ |
+w:_ tide._ O Lord, who then dare be so bold as in thy
+ B2 B A- | A/G/ G2 ^F | G2 G2- | G2 G2- | HG4 |] %38
+w: sight for to_ a- bide, for to a - bide._
+
+X:3
+%%scale 0.85
+T:Out from the deep
+T:Tenor Viol I
+C:Thomas Tallis
+%%measurenb 0
+%%stretchlast 0
+L:1/4
+M:4/4
+K:C clef=alto
+ E2 F F | E E D/C/D/E/ | F2 E E | F/E/D/C/ D3/2 C/ | 
+w:Out from the deep I call to thee: O Lord, hear my in - vo - ca- ti- 
+B,2 z C |  E F G G | G F G D | F3/2 F/ F E |  D3/2 D/ E2 | z G G C | 
+w:on. Thine ears bow down, in- cline to me and hear my la- men- ta- ti- on. For if thou
+E2 D F- |  F/F/ E z F | F C E2 | D F3/2 D/ G- | 
+w: wilt our sins_ be- hold, that we have done from time_ to
+G/E/ ^F G D | E3/2 D/ C2 |  z A, C3/2 C/ | B, B, A, A, | 
+w:___ tide, from time to tide.  O Lord who then dare be so 
+ G,2 z A, | D3/2 E/ F/D/ F- | F/E/D/C/ D3/2 C/ |  B,/A,/ E D C- |  C B, C2 | 
+w:bold as in thy sight for to__ a - bide. For__ to_ a -- bide. 
+ z G G C | E2 D F- | F/F/ E z F | F C E2 |  D F3/2 D/ G- | 
+w:For if thou wilt our sins_ be- hold, that we have done from time_ to
+G/E/ ^F G D | E3/2 D/ C2 |  z A, C3/2 C/ | B, B, A, A, | G,2 z A, |  
+w:___ tide, from time to tide. O Lord, who then dare be so bold as
+D3/2 E/ F/D/ F- | F/E/D/C/ D3/2 C/ | B,/A,/ E D C- |  C B, C2- | HC4 |] %38
+w:in thy sight for to__ a -  bide, for__ to_ a -- bide._
+
+X:4
+%%scale 0.8
+T:Out from the deep
+T:Tenor Viol II
+C:Thomas Tallis
+%%measurenb 0
+L:1/4
+M:4/4
+K:C clef=alto
+ C2 C C | C C _B, G, | D D C C | C/C/ B, A,3/2 A,/ | 
+w:Out from the deep I call to thee: O Lord hear my in- vo- ca- ti- 
+G,2 z G, | C C D D | D C D B, | C3/2 C/ C C |  B,3/2 B,/ C C | C G, B, A, |  
+w: on. Thine ears bow down, in- cline to me and hear my la- men- ta- ti- on. For if thou wilt our
+C3/2 C/ G, z | z C C F, | A,2 G, C | B, C A, D- | 
+w:sins be- hold, that we have done from time to tide, from time
+D/C/B,/A,/ B, G, | C3/2 B,/ A,/G,/ A, | A, F, G, C, | G,3/2 F,/ E,/D,/ E,- | 
+w:_  to__ tide. O Lord who then_ dare be so bold. O Lord, who then_ dare
+E,/D,/ G,3/2 A,/ F, | G, G, D3/2 D/ | C B, A, A, | G, G, F, E, | D,2 C, C | 
+w:__ be so_ bold as in thy sight for to a- bide, for to a - bide. For 
+C G, B, A, | C3/2 C/ G, z | z C C F, | A,2 G, C |  B, C A, D- | 
+w: if thou wilt our sins be- hold, that we have done from time to tide, from time 
+ D/C/B,/A,/ B, G, | C3/2 B,/ A,/G,/ A, | A, F, G, C, | G,3/2 F,/ E,/D,/ E,- |  E,/D,/ G,3/2 A,/ F, | 
+w:_ to__ tide. O Lord, who then_ dare be so bold, O Lord who then_ dare__ be so_
+ G, G, D3/2 D/ | C B, A, A, | G, G, F, E, | D,2 C,2- | HC,4 |] %38
+w: bold as in thy sight for to a- bide, for to a - bide._
+
+X:5
+%%scale 0.85
+T:Out from the deep
+T:Bass Viol
+C:Thomas Tallis
+%%measurenb 0
+L:1/4
+M:4/4
+K:C clef=bass
+ C,2 F, F, | C, C, G, G, | D,/E,/F,/G,/ A,3/2 G,/ | F, G, D,3/2 D,/ | 
+w:Out from the deep I call to thee: O Lord_ hear my in- vo- ca- ti- 
+G,,2 z C, | C, A,, G,, G, | A, A, G, G, | F,3/2 F,/ F, C, | G,3/2 G,/ C,2- | C,2 z2 |
+w:on. Thine ears bow down, in- cline to me and hear my la- men- ta- ti- on._ 
+ z z2 F, | F, C, E, D, |  F,3/2 F,/ C,/D,/E,/C,/ | G, F, F, G, | 
+w:For if thou wilt our sins be- hold, that we have done from time to 
+ D, D, G,3/2 F,/ | E, C, F,3/2 E,/ | D,2 C,2 | z G,, C,3/2 C,/ | 
+w:tide. O Lord who then dare be so_ bold. O Lord who
+ B,, B,, A,, A,, | G,, G, D,3/2 E,/ | F, G, D, D, | G,,3/2 A,,/ B,, C, | G,,2 C,2- | 
+w:then dare be so bold as in thy sight for to a- bide. For to a - bide. 
+ C,2 z2 | z z2 F, | F, C, E, D, | F,3/2 F,/ C,/D,/E,/C,/ | G, F, F, G, | %28
+w:_ For if thou wilt our sins be- hold, that we have done from time to
+ D, D, G,3/2 F,/ | E, C, F,3/2 E,/ | D,2 C,2 | z G,, C,3/2 C,/ | B,, B,, A,, A,, | %33
+w:tide. O Lord, who then dare be so_ bold. O Lord, who then dare be so 
+ G,, G, D,3/2 E,/ | F, G, D, D, | G,,3/2 A,,/ B,, C, | G,,2 C,2- | HC,4 |] %38
+w:bold as in thy sight for to a- bide, for to a - bide._
+%
+

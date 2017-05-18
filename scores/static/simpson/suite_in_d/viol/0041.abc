@@ -1,0 +1,47 @@
+%abc-2.1
+%
+% Original edition transcribed and edited by Albert Folop: 
+% http://imslp.org/wiki/Category:Folop_Viol_Music_Collection
+% That edition released under Creative Commons Attribution-NonCommercial-ShareAlike 3.0 licence
+% (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+% This edition converted to abc by Steve West and also released under 
+% Creative Commons Attribution-NonCommercial-ShareAlike 3.0 licence
+% (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+%%measurenb 0
+%%squarebreve
+
+X:1
+T:Suite in D
+T:Coranto
+C:Christopher Simpson
+C:VdGS# 3
+L:1/4
+%%score [ 1 2 3 ]
+%%linebreak
+M:3/4
+K:D
+%
+V:1 clef=treble
+%%MIDI program 40
+A3/2 G1/2F1/2E1/2  | D2 d  | e d e  | f3  | d e f  | %Bar 5
+g2 f  | e f g  | a2 g  | f e f  | B2 e  | %Bar 10
+d B3/2 A1/2  | A3  :: e e e  | c3/2 d1/2e1/2c1/2  | d e3/2 d1/4e1/4  | %Bar 15
+f3  |  Z  | f1/2e1/2 f1/2e1/2 d  |  Z  | g1/2f1/2 g1/2f1/2 e  | %Bar 20
+ Z  | a1/2g1/2 a1/2g1/2 g1/2f1/2  | g1/2f1/2 e3/2 d1/2  | d3  :|  
+%
+V:2 clef=treble
+%%MIDI program 40
+ Z  |  Z  | A G1/2F1/2 E  | D d c  | B c d  | %Bar 5
+e2 d  | c d e  | d f g  | a a a  | ^g2 a  | %Bar 10
+a ^g3/2 a1/2  | a3  :: c c c  | e2 A  | A B c  | %Bar 15
+d3  | f1/2e1/2 f1/2e1/2 d  |  Z  | g1/2f1/2 g1/2f1/2 e  |  Z  | %Bar 20
+a1/2g1/2 a1/2g1/2 g1/2f1/2  | f1/2e1/2 f1/2e1/2 e1/2d1/2  | e1/2d1/2 c3/2 c1/2  | d3  :|  
+%
+V:3 clef=bass
+%%MIDI program 42
+D,2 D,  | D,2 D,  | B,,2 A,,  | D,2 F,  | G,2 F,  | %Bar 5
+E, F, G,  | A,2 G,  | F,2 E,  | D, C, D,  | E,2 C,  | %Bar 10
+D, E,2  | A,,3  :: A,, A,, A,,  | A,2 A,  | F, E,2  | %Bar 15
+D,3  | D,3  | D,,3  | E,3  | E,,3  | %Bar 20
+E, D, E,  | D,2 D,,  | G,, A,,2  | D,,3  :| 

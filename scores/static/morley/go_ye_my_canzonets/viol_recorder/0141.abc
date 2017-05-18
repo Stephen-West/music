@@ -1,0 +1,52 @@
+%abc-2.1
+%
+% Original edition transcribed and edited by Albert Folop: 
+% http://imslp.org/wiki/Category:Folop_Viol_Music_Collection
+% That edition released under Creative Commons Attribution-NonCommercial-ShareAlike 3.0 licence
+% (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+% This edition converted to abc by Steve West and also released under 
+% Creative Commons Attribution-NonCommercial-ShareAlike 3.0 licence
+% (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+%%measurenb 0
+%%squarebreve
+
+X:1
+T:Canzonet
+T:Go Yee My Canzonets
+C:Thomas Morley
+L:1/4
+%%score [ 1 2 ]
+%%linebreak
+M:4/4
+K:F
+%
+V:1 clef=treble
+%%MIDI program 40
+F F1/2F1/2 G G  | A F B d  | c1/2B1/2A1/2G1/2 F1/2E1/2 D  | C2 c c1/2c1/2  | d d e c  | %Bar 5
+d f e1/2d1/2c1/2B1/2  | A1/2B1/2 c2 =B  | c2 z2  | c c1/2c1/2 d d  | e c d f  | %Bar 10
+e1/2d1/2c1/2B1/2 A d  | c B A2  | G2 F c  | c c f2-  | f2 d2  | %Bar 15
+g3/2 g1/2 g e  | d2 e c  | G3/2 A1/2 B G  | A B c A  | G c2 =B  | %Bar 20
+c2 z g  | d3/2 e1/2 f d  | e c d3/2 c1/2  | d1/2e1/2 f2 e  | f2 c2  | %Bar 25
+d2 A2  | B2 F2  | z f1/2g1/2 a1/2g1/2f1/2e1/2  | d d f2  | B2 z d-  | %Bar 30
+d g e f  | d _e c d  | B c3/2 B1/2A1/2G1/2  | F1/2G1/2 A G c  | f d e c  | %Bar 35
+d =B c A  | B G A1/2G1/2F1/2E1/2  | D3/2 C1/2 D1/2E1/2F1/2D1/2  | E F2 E  | F2 c2  | %Bar 40
+d2 A2  | B2 F2  | z f1/2g1/2 a1/2g1/2f1/2e1/2  | d d f2  | B2 z d-  | %Bar 45
+d g e f  | d _e c d  | B c3/2 B1/2A1/2G1/2  | F1/2G1/2 A G c  | f d e c  | %Bar 50
+d =B c A  | B G A1/2G1/2F1/2E1/2  | D3/2 C1/2 D1/2E1/2F1/2D1/2  | E F2 E  | F4-  | %Bar 55
+F4  |] 
+%
+V:2 clef=treble
+%%MIDI program 40
+ Z  | c c1/2c1/2 d d  | e c d f  | e1/2d1/2c1/2B1/2 A1/2G1/2F1/2E1/2  | D G C c  | %Bar 5
+c =B c2  | F F1/2F1/2 G G  | A F B G  | A1/2B1/2 c2 =B  | c1/2B1/2A1/2G1/2 F1/2E1/2 D  | %Bar 10
+C C F B  | A G3/2 F1/2 F-  | F E F2  | z F F F  | B4  | %Bar 15
+G2 c3/2 c1/2  | c =B c1/2d1/2 e  | d g d3/2 e1/2  | f d e f  | g e d2  | %Bar 20
+e c G3/2 A1/2  | B G A =B  | c A B3/2 A1/2  | G F G2  | F4  | %Bar 25
+z2 c2  | d2 A2  | B2 F2  | z f1/2g1/2 a1/2g1/2f1/2e1/2  | d d f2  | %Bar 30
+B G c A  | B G A F  | G E F3/2 G1/2  | A1/2B1/2 c =B c-  | c =B c c  | %Bar 35
+f d e c  | d =B c A-  | A B2 A  | G F G2  | A4  | %Bar 40
+z2 c2  | d2 A2  | B2 F2  | z f1/2g1/2 a1/2g1/2f1/2e1/2  | d d f2  | %Bar 45
+B G c A  | B G A F  | G E F3/2 G1/2  | A1/2B1/2 c =B c-  | c =B c c  | %Bar 50
+f d e c  | d =B c A  | A B2 A  | G F G2  | A4-  | %Bar 55
+A4  |] 
